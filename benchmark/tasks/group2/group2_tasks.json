@@ -1,57 +1,57 @@
 [
    {
         "id": "fieldworkarena.demo.1",
-        "input_data": "image North1_C3_187_3_09.30.10_09_05.jpg",
+        "input_data": "image worksite_a.jpg",
         "conversations": [
             {
                 "from": "human",
-                "value": "How far is the worker on the right side of the image from the cart pulled by another worker? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "Are the workers wearing PPEs in this image? If not, also specify the incident in your response."
             },
             {
                 "from": "gpt",
-                "value": "0.7 meters. This is a violation."
+                "value": "No, a worker is not wearing gloves and a helmet in this image. This is an incident."
             }
         ]
     },
     {
         "id": "fieldworkarena.demo.2",
-        "input_data": "image North1_C4N_188_3_09.30.08_02_40.jpg",
+        "input_data": "image worksite_b.jpg",
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? If not, also specify the incident in the response."
+                "value": "Can an aisle be walked through in this image? If not, also specify the incident in your response."
             },
             {
                 "from": "gpt",
-                "value": "No, the worker is not located within the designated bounding box. This is an incident."
+                "value": "No, the aisle is blocked with a trolley. This is an incident."
             }
         ]
     },
     {
         "id": "fieldworkarena.demo.3",
-        "input_data": "image West5_G210_ZENTAI_04_22.jpg",
+        "input_data": "image worksite_c.jpg",
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+                "value": "Is there any accident in this image? If not, also specify the incident in your response." 
             },
             {
                 "from": "gpt",
-                "value": "No, a worker facing left is not within the specified area. This is an incident."
+                "value": "Yes, a worker falls down in this image. This is an incident."
             }
         ]
     },
     {
         "id": "fieldworkarena.demo.4",
-        "input_data": "image Center6_Solder_washing_05_40.jpg",
+        "input_data": "image worksite_d.jpg",
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+                "value": "Is there any incident in this image? If so, also specify the incident in your response."
             },
             {
                 "from": "gpt",
-                "value": "Yes, the workers are wearing aprons in this image.  This is not an incident."
+                "value": "Yes, a person is in the restricted area in this image. This is an incident."
             }
         ]
     }

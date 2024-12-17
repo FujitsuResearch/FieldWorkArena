@@ -71,12 +71,12 @@ def _build_goal_and_answer(config, with_na_hint = False):
     data = os.path.join(DATA_PATH,  data)
     if data_type == "image":
         base64_image = encode_image(data)
-        goal.append({"type": "image_url", "image_url": f"data:image/jpeg;base64,{base64_image}"})
+        goal.append({"type": "image_url", "image_url": {"url":f"data:image/jpeg;base64,{base64_image}", "detail": "auto"}})
     if data_type =="Video":
         base64_frames = process_video(data)
 
         for frame in base64_frames:
-            goal.append({"type": "image_url", "image_url": f"data:image/jpeg;base64,{frame}"})
+            goal.append({"type": "image_url", "image_url": {"url":f"data:image/jpeg;base64,{frame}", "detail": "auto"}})
             
     return goal, answer
 
