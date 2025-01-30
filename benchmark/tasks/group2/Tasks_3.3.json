@@ -1,0 +1,129 @@
+[
+    {
+        "id": "3.3.0001",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h01m15s_00h01m35s.mp4",
+            "West6_Assembly_Screw_1_00h05m15s_00h05m35s.mp4",
+            "West6_Assembly_Screw_1_00h09m30s_00h09m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many violations were there regarding \"the operator is using the electric screwdriver with the green label to tighten the 4 screws properly\"?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.3.0002",
+        "input_data": [
+            "West5_Checkmask_1_00h04m20s_00h04m40s.mp4",
+            "West5_Checkmask_1_00h11m10s_00h11m30s.mp4",
+            "West5_checkmask_4_00h19m10s_00h19m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many violations were there regarding \"the operator uses a check mask to inspect the product\"?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.3.0003",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_09_05.jpg",
+            "North1_C3_187_3_09.30.10_13_55.jpg",
+            "North1_C6_197_3_09.30.08_13_48.jpg",
+            "North1_TANA_201_3_09.30.08_09_20.jpg",
+            "North1_C3_187_3_09.30.10_05_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many incidents were there regarding \"distance between the cart and the worker less than 1 meter\"?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.3.0004",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_05_10.jpg",
+            "North1_TANA_201_3_09.30.08_09_20.jpg",
+            "North1_C4S_199_3_09.42.25_29_56.jpg",
+            "North1_C3_187_3_09.30.10_13_55.jpg",
+            "North1_C6_197_3_09.30.08_13_48.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many incidents were there regarding \"distance between the worker and the nearest equipment less than 0.5 meters\"?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.3.0005",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00_18.jpg",
+            "North1_C4N_188_3_09.30.08_02_40.jpg",
+            "North1_C4N_188_3_09.30.08_07_18.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many incidents were there regarding \"worker's location within the defined area\"? The defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each images."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.3.0006",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00h00m10s_00h00m30s.mp4",
+            "North1_C4N_188_3_09.30.08_00h06m20s_00h06m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many incidents were there regarding \"worker's staying time within the defined area less than 1 second\"? The defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each videos."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.3.0007",
+        "input_data": [
+            "West5_G210_ZENTAI_00_40.jpg",
+            "West5_G210_ZENTAI_02_30.jpg",
+            "West5_G210_ZENTAI_06_40.jpg",
+            "West5_G210_ZENTAI_03_26.jpg",
+            "West5_G210_ZENTAI_04_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many incidents were there regarding \"worker's facing within the defined area\"? The defined area is a rectangle defined by the coordinates (178,162), (304,162), (178,462), and (304,462) in each images."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.3.0008",
+        "input_data": [
+            "West5_G210_ZENTAI_00h03m00s_00h03m10s.mp4",
+            "West5_G210_ZENTAI_00h00m13s_00h00m23s.mp4",
+            "West5_G210_ZENTAI_00h04m20s_00h04m30s.mp4",
+            "West5_G210_ZENTAI_00h05m20s_00h05m30s.mp4",
+            "West5_G210_ZENTAI_00h06m53s_00h07m03s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many incidents were there regarding \"worker's facing time within the defined area less than 5 seconds\"? The defined area is a rectangle defined by the coordinates (553,69), (647,69), (553,291), and (647,291) in each videos."
+            }
+        ],
+        "output_format": "text"
+    }
+]

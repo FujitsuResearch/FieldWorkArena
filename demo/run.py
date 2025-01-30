@@ -59,8 +59,7 @@ def main():
         """\
 --- WARNING ---
 This is a basic agent for demo purposes.
-Visit AgentLab for more capable agents with advanced features.
-https://github.com/ServiceNow/AgentLab"""
+"""
     )
 
     args = parse_args()

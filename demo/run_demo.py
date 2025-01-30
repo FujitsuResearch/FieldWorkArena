@@ -70,9 +70,7 @@ def main():
     print(
         """\
 --- WARNING ---
-This is a basic agent for demo purposes.
-Visit AgentLab for more capable agents with advanced features.
-https://github.com/ServiceNow/AgentLab"""
+This is a basic agent for demo purposes."""
     )
 
     args = parse_args()

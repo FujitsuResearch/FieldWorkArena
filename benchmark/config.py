@@ -5,9 +5,9 @@ from benchmark import tasks
 # tmp
 TASK_PATH = str(resources.files(tasks))
 
-#G1_TASK_PATH = str
-#G2_TASK_PATH = os.path.join(TASK_PATH, "group2")
 G2_TASK_PATH = str(resources.files(tasks).joinpath("group2"))
-#G3_TASK_PATH = os.path.join(TASK_PATH, "group3")
 
-DATA_PATH = "./data/raw/"
+DATA_DIR = "./data/"
+IMAGE_DIR = DATA_DIR + "image/"
+MOVIE_DIR = DATA_DIR + "movie/"
+DOC_DIR = DATA_DIR + "document/"

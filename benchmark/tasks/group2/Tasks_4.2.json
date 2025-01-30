@@ -1,0 +1,497 @@
+[
+    {
+        "id": "4.2.0001",
+        "input_data": [
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf",
+            "Center6_Solder_washing_00_35.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image and procedure document to identify any deviations from the specified glove usage procedure. The image depicts a worker performing a task, and the procedure document details the required glove type and usage. The goal is to generate a JSON report detailing any instances where the worker deviates from the specified glove usage procedure. This task integrates findings from this analysis with the results of a previous task.   Procedure Step Verification: For each step in the procedure document, identify its start and end times within the video clip using the video's timestamp. Flag any missing steps as deviations.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies. Pay particular attention to the correct use of tools as specified in the procedure document.  Incident Report Generation: Generate a JSON report detailing all identified violations. The report should begin with the total number of violations. Each violation should be represented by a JSON object with the following fields: \"ID\": A sequentially numbered ID starting from 1100. \"Short description\": A concise description of the violation (e.g., \"Incorrect gloves used\", \"Gloves not worn\"). If the violation concerns the type of glove specified in the procedure document, use \"Wearing gloves as specified in the procedure document\" for this field. \"Description\": A detailed description of the violation, including the specified glove type from the procedure document, a statement indicating the lack of proper glove usage in the image, the image filename, and relevant information from previous tasks (referencing task IDs where appropriate). \"Category\": \"violation\" \"Image filename\": The name of the image file."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0002",
+        "input_data": [
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf",
+            "Center6_Solder_washing_01_38.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image and procedure document to identify any deviations from the specified glove usage procedure. The image depicts a worker performing a task, and the procedure document details the required glove type and usage. The goal is to generate a JSON report detailing any instances where the worker deviates from the specified glove usage procedure. This task integrates findings from this analysis with the results of a previous task.   Procedure Step Verification: For each step in the procedure document, identify its start and end times within the video clip using the video's timestamp. Flag any missing steps as deviations.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies. Pay particular attention to the correct use of tools as specified in the procedure document.  Incident Report Generation: Generate a JSON report detailing all identified violations. The report should begin with the total number of violations. Each violation should be represented by a JSON object with the following fields: \"ID\": A sequentially numbered ID starting from 1100. \"Short description\": A concise description of the violation (e.g., \"Incorrect gloves used\", \"Gloves not worn\"). If the violation concerns the type of glove specified in the procedure document, use \"Wearing gloves as specified in the procedure document\" for this field. \"Description\": A detailed description of the violation, including the specified glove type from the procedure document, a statement indicating the lack of proper glove usage in the image, the image filename, and relevant information from previous tasks (referencing task IDs where appropriate). \"Category\": \"violation\" \"Image filename\": The name of the image file."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0003",
+        "input_data": [
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf",
+            "Center6_Solder_washing_04_14.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image and procedure document to identify any deviations from the specified glove usage procedure. The image depicts a worker performing a task, and the procedure document details the required glove type and usage. The goal is to generate a JSON report detailing any instances where the worker deviates from the specified glove usage procedure. This task integrates findings from this analysis with the results of a previous task.   Procedure Step Verification: For each step in the procedure document, identify its start and end times within the video clip using the video's timestamp. Flag any missing steps as deviations.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies. Pay particular attention to the correct use of tools as specified in the procedure document.  Incident Report Generation: Generate a JSON report detailing all identified violations. The report should begin with the total number of violations. Each violation should be represented by a JSON object with the following fields: \"ID\": A sequentially numbered ID starting from 1100. \"Short description\": A concise description of the violation (e.g., \"Incorrect gloves used\", \"Gloves not worn\"). If the violation concerns the type of glove specified in the procedure document, use \"Wearing gloves as specified in the procedure document\" for this field. \"Description\": A detailed description of the violation, including the specified glove type from the procedure document, a statement indicating the lack of proper glove usage in the image, the image filename, and relevant information from previous tasks (referencing task IDs where appropriate). \"Category\": \"violation\" \"Image filename\": The name of the image file."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0004",
+        "input_data": [
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf",
+            "Center6_Solder_washing_05_40.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image and procedure document to identify any deviations from the specified glove usage procedure. The image depicts a worker performing a task, and the procedure document details the required glove type and usage. The goal is to generate a JSON report detailing any instances where the worker deviates from the specified glove usage procedure. This task integrates findings from this analysis with the results of a previous task.   Procedure Step Verification: For each step in the procedure document, identify its start and end times within the video clip using the video's timestamp. Flag any missing steps as deviations.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies. Pay particular attention to the correct use of tools as specified in the procedure document.  Incident Report Generation: Generate a JSON report detailing all identified violations. The report should begin with the total number of violations. Each violation should be represented by a JSON object with the following fields: \"ID\": A sequentially numbered ID starting from 1100. \"Short description\": A concise description of the violation (e.g., \"Incorrect gloves used\", \"Gloves not worn\"). If the violation concerns the type of glove specified in the procedure document, use \"Wearing gloves as specified in the procedure document\" for this field. \"Description\": A detailed description of the violation, including the specified glove type from the procedure document, a statement indicating the lack of proper glove usage in the image, the image filename, and relevant information from previous tasks (referencing task IDs where appropriate). \"Category\": \"violation\" \"Image filename\": The name of the image file."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0005",
+        "input_data": [
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf",
+            "Center6_Solder_washing_11_27.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image and procedure document to identify any deviations from the specified glove usage procedure. The image depicts a worker performing a task, and the procedure document details the required glove type and usage. The goal is to generate a JSON report detailing any instances where the worker deviates from the specified glove usage procedure. This task integrates findings from this analysis with the results of a previous task.   Procedure Step Verification: For each step in the procedure document, identify its start and end times within the video clip using the video's timestamp. Flag any missing steps as deviations.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies. Pay particular attention to the correct use of tools as specified in the procedure document.  Incident Report Generation: Generate a JSON report detailing all identified violations. The report should begin with the total number of violations. Each violation should be represented by a JSON object with the following fields: \"ID\": A sequentially numbered ID starting from 1100. \"Short description\": A concise description of the violation (e.g., \"Incorrect gloves used\", \"Gloves not worn\"). If the violation concerns the type of glove specified in the procedure document, use \"Wearing gloves as specified in the procedure document\" for this field. \"Description\": A detailed description of the violation, including the specified glove type from the procedure document, a statement indicating the lack of proper glove usage in the image, the image filename, and relevant information from previous tasks (referencing task IDs where appropriate). \"Category\": \"violation\" \"Image filename\": The name of the image file."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0006",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h00m00s_00h04m25s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a comprehensive report detailing any instances where the worker deviates from the procedure, integrating findings from this analysis with results from a previous task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies, including the correct use of the electric screwdriver with the green label.  Incident Report Generation: Generate a JSON report detailing any violations. The report should begin with the total number of violations. For each violation, create a new issue. If there were violations regarding \"Electric screwdriver with a green label\", create a new issue for each violation with a value of \"Electric screwdriver with a green label\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents. Include other relevant details such as a description of the violation, the timestamp from the video, and the video filename. The JSON should also include fields for \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\"."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0007",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h04m25s_00h08m35s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a comprehensive report detailing any instances where the worker deviates from the procedure, integrating findings from this analysis with results from a previous task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies, including the correct use of the electric screwdriver with the green label.   Incident Report Generation: Generate a JSON report detailing any violations. The report should begin with the total number of violations. For each violation, create a new issue. If there were violations regarding \"Electric screwdriver with a green label\", create a new issue for each violation with a value of \"Electric screwdriver with a green label\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents. Include other relevant details such as a description of the violation, the timestamp from the video, and the video filename. The JSON should also include fields for \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\"."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0008",
+        "input_data": [
+            "West6_Assembly_Screw_2_00h11m43s_00h15m46s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a comprehensive report detailing any instances where the worker deviates from the procedure, integrating findings from this analysis with results from a previous task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies, including the correct use of the electric screwdriver with the green label.   Incident Report Generation: Generate a JSON report detailing any violations. The report should begin with the total number of violations. For each violation, create a new issue. If there were violations regarding \"Electric screwdriver with a green label\", create a new issue for each violation with a value of \"Electric screwdriver with a green label\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents. Include other relevant details such as a description of the violation, the timestamp from the video, and the video filename. The JSON should also include fields for \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\"."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0009",
+        "input_data": [
+            "West6_Assembly_Screw_2_00h15m48s_00h19m50s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a comprehensive report detailing any instances where the worker deviates from the procedure, integrating findings from this analysis with results from a previous task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies, including the correct use of the electric screwdriver with the green label.   Incident Report Generation: Generate a JSON report detailing any violations. The report should begin with the total number of violations. For each violation, create a new issue. If there were violations regarding \"Electric screwdriver with a green label\", create a new issue for each violation with a value of \"Electric screwdriver with a green label\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents. Include other relevant details such as a description of the violation, the timestamp from the video, and the video filename. The JSON should also include fields for \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\"."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0010",
+        "input_data": [
+            "West6_Assembly_Screw_3_00h00m30s_00h04m35s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a comprehensive report detailing any instances where the worker deviates from the procedure, integrating findings from this analysis with results from a previous task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies, including the correct use of the electric screwdriver with the green label.   Incident Report Generation: Generate a JSON report detailing any violations. The report should begin with the total number of violations. For each violation, create a new issue. If there were violations regarding \"Electric screwdriver with a green label\", create a new issue for each violation with a value of \"Electric screwdriver with a green label\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents. Include other relevant details such as a description of the violation, the timestamp from the video, and the video filename. The JSON should also include fields for \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\"."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0011",
+        "input_data": [
+            "West5_Checkmask_1_00h07m50s_00h13m17s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a report detailing any instances where the worker deviates from the procedure. The video clip is a segment of a longer video analyzed in a prior task. The report should integrate findings from this analysis with the results of the prior task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies.   Incident Report Generation: For every identified violation, generate a JSON report entry. The report should integrate findings from this analysis and the previous task, avoiding redundant reporting of violations already identified. The JSON structure should include the following fields: \"ID\" (a sequentially numbered ID starting from 1110), \"Short description\", \"Description\", \"Category\" (\"violation\"), \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\". If there were violations regarding \"Using a check mask to inspect the product\", create a new issue for each violation with a value of \"Using a check mask to inspect the product\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0012",
+        "input_data": [
+            "West5_Checkmask_2_00h14m18s_00h29m40s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a report detailing any instances where the worker deviates from the procedure. The video clip is a segment of a longer video analyzed in a prior task. The report should integrate findings from this analysis with the results of the prior task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies.   Incident Report Generation: For every identified violation, generate a JSON report entry. The report should integrate findings from this analysis and the previous task, avoiding redundant reporting of violations already identified. The JSON structure should include the following fields: \"ID\" (a sequentially numbered ID starting from 1110), \"Short description\", \"Description\", \"Category\" (\"violation\"), \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\". If there were violations regarding \"Using a check mask to inspect the product\", create a new issue for each violation with a value of \"Using a check mask to inspect the product\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0013",
+        "input_data": [
+            "West5_Checkmask_3_00h00m00s_00h12m00s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a report detailing any instances where the worker deviates from the procedure. The video clip is a segment of a longer video analyzed in a prior task. The report should integrate findings from this analysis with the results of the prior task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies.   Incident Report Generation: For every identified violation, generate a JSON report entry. The report should integrate findings from this analysis and the previous task, avoiding redundant reporting of violations already identified. The JSON structure should include the following fields: \"ID\" (a sequentially numbered ID starting from 1110), \"Short description\", \"Description\", \"Category\" (\"violation\"), \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\". If there were violations regarding \"Using a check mask to inspect the product\", create a new issue for each violation with a value of \"Using a check mask to inspect the product\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0014",
+        "input_data": [
+            "West5_Checkmask_4_00h12m00s_00h22m00s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a report detailing any instances where the worker deviates from the procedure. The video clip is a segment of a longer video analyzed in a prior task. The report should integrate findings from this analysis with the results of the prior task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies.   Incident Report Generation: For every identified violation, generate a JSON report entry. The report should integrate findings from this analysis and the previous task, avoiding redundant reporting of violations already identified. The JSON structure should include the following fields: \"ID\" (a sequentially numbered ID starting from 1110), \"Short description\", \"Description\", \"Category\" (\"violation\"), \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\". If there were violations regarding \"Using a check mask to inspect the product\", create a new issue for each violation with a value of \"Using a check mask to inspect the product\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0015",
+        "input_data": [
+            "West5_Checkmask_4_00h24m20s_00h34m34s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clip and procedure document to identify any deviations from the specified procedure. The video clip shows a worker performing a task, and the procedure document details the correct steps. The goal is to generate a report detailing any instances where the worker deviates from the procedure. The video clip is a segment of a longer video analyzed in a prior task. The report should integrate findings from this analysis with the results of the prior task.  Procedure Step Verification: For each step in the procedure document, identify its start and end times within the provided video clip, using the video's timestamp. If a step is not present, flag it as a deviation.  Procedure Adherence Check: Verify that the worker performs each step according to the procedure document. Flag any deviations as violations. This includes missing steps (identified in Step 1) and any other discrepancies.   Incident Report Generation: For every identified violation, generate a JSON report entry. The report should integrate findings from this analysis and the previous task, avoiding redundant reporting of violations already identified. The JSON structure should include the following fields: \"ID\" (a sequentially numbered ID starting from 1110), \"Short description\", \"Description\", \"Category\" (\"violation\"), \"Step number\" (if applicable), \"Step description\" (if applicable), \"Video filename\". If there were violations regarding \"Using a check mask to inspect the product\", create a new issue for each violation with a value of \"Using a check mask to inspect the product\" for the \"Short description\" field, a value of \"violation\" for the \"Category\" field, and a sequentially numbered ID from 1110 for the \"ID\" field if there are multiple incidents."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0016",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h01m15s_00h01m35s.mp4",
+            "West6_Assembly_Screw_1_00h05m15s_00h05m35s.mp4",
+            "West6_Assembly_Screw_1_00h09m30s_00h09m50s.mp4",
+            "West6_Assembly_Screw_2_00h20m30s_00h20m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "First, analyze each video clip (West6_Assembly_Screw_1_00h01m15s_00h01m35s.mp4, West6_Assembly_Screw_1_00h05m15s_00h05m35s.mp4, West6_Assembly_Screw_1_00h09m30s_00h09m50s.mp4, West6_Assembly_Screw_2_00h20m30s_00h20m50s.mp4) to determine if the operator correctly uses the electric screwdriver with the green label to tighten all four screws. If the correct tool isn't used or the screws aren't tightened properly, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1110), short description (\"Improper tool use\" or \"Screws not tightened properly\"), description (e.g., \"In [videoclip_filename].mp4, the worker used the wrong screwdriver.\" or \"In [videoclip_filename].mp4, the worker did not tighten all four screws properly.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0017",
+        "input_data": [
+            "West5_Checkmask_1_00h04m20s_00h04m40s.mp4",
+            "West5_Checkmask_1_00h11m10s_00h11m30s.mp4",
+            "West5_checkmask_3_00h07m40s_00h08m20s.mp4",
+            "West5_checkmask_2_00h25m55s_00h27m00s.mp4",
+            "West5_checkmask_4_00h19m10s_00h19m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "First, analyze each video clip (West5_Checkmask_1_00h04m20s_00h04m40s.mp4, West5_Checkmask_1_00h11m10s_00h11m30s.mp4, West5_checkmask_3_00h07m40s_00h08m20s.mp4, West5_checkmask_2_00h25m55s_00h27m00s.mp4, West5_checkmask_4_00h19m10s_00h19m50s.mp4) to determine if the operator uses a check mask to inspect the product at any point during the clip. If a check mask is not used at any point, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1110), short description (\"Check mask not used\"), description (e.g., \"In [videoclip_filename].mp4, the operator did not use a check mask.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0018",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_05_10.jpg",
+            "North1_C3_187_3_09.30.10_09_05.jpg",
+            "North1_C3_187_3_09.30.10_13_55.jpg",
+            "North1_C6_197_3_09.30.08_13_48.jpg",
+            "North1_TANA_201_3_09.30.08_09_20.jpg",
+            "North1_C3_187_3_09.30.10_00h05m00s_00h05m20s.mp4",
+            "North1_C3_187_3_09.30.10_00h09m00s_00h09m20s.mp4",
+            "North1_C3_187_3_09.30.10_00h13m40s_00h14m00s.mp4",
+            "North1_C6_197_3_09.30.08_00h05m10s_00h05m40s.mp4",
+            "North1_TANA_201_3_09.30.08_00h09m10s_00h09m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "First, analyze each image and video clip (North1_C3_187_3_09.30.10_05_10.jpg, North1_C3_187_3_09.30.10_09_05.jpg, North1_C3_187_3_09.30.10_13_55.jpg, North1_C6_197_3_09.30.08_13_48.jpg, North1_TANA_201_3_09.30.08_09_20.jpg, North1_C3_187_3_09.30.10_00h05m00s_00h05m20s.mp4, North1_C3_187_3_09.30.10_00h09m00s_00h09m20s.mp4, North1_C3_187_3_09.30.10_00h13m40s_00h14m00s.mp4, North1_C6_197_3_09.30.08_00h05m10s_00h05m40s.mp4, North1_TANA_201_3_09.30.08_00h09m10s_00h09m30s.mp4) to estimate the minimum distance between the cart and the nearest worker. If this distance is less than 1 meter, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1120), short description (\"Distance violation\"), description (e.g., \"In [filename].jpg/[filename].mp4, the distance between the worker and the cart was less than 1 meter.\"), and filename (including the file extension)."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0019",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_05_10.jpg",
+            "North1_C3_187_3_09.30.10_09_05.jpg",
+            "North1_C3_187_3_09.30.10_13_55.jpg",
+            "North1_C6_197_3_09.30.08_13_48.jpg",
+            "North1_TANA_201_3_09.30.08_09_20.jpg",
+            "North1_C4S_199_3_09.42.25_29_56.jpg",
+            "North1_C4S_199_3_09.42.25_47_25.jpg",
+            "North1_C4S_200_3_09.41.46_05_54.jpg",
+            "North1_C4S_200_3_09.41.46_30_00.jpg",
+            "North1_TANA_201_3_09.30.08_12_23.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Step 1: Distance Measurement: Analyze each image North1_C3_187_3_09.30.10_05_10.jpg, North1_C3_187_3_09.30.10_09_05.jpg, North1_C3_187_3_09.30.10_13_55.jpg, North1_C6_197_3_09.30.08_13_48.jpg, North1_TANA_201_3_09.30.08_09_20.jpg, North1_C4S_199_3_09.42.25_29_56.jpg, North1_C4S_199_3_09.42.25_47_25.jpg, North1_C4S_200_3_09.41.46_05_54.jpg, North1_C4S_200_3_09.41.46_30_00.jpg, North1_TANA_201_3_09.30.08_12_23.jpg) to determine the distance between each worker and the nearest piece of equipment.   Step 2: Incident Report Generation: If the distance measured in Step 1 is less than 0.5 meters, flag it as a violation. Report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1140), short description (\"Distance violation\"), description (e.g., \"In [image_filename].jpg, the distance between the worker and the nearest equipment was less than 0.5 meters.\"), and image filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0020",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00_18.jpg",
+            "North1_C4N_188_3_09.30.08_02_40.jpg",
+            "North1_C4N_188_3_09.30.08_07_18.jpg",
+            "North1_C5YS_189_3_09.30.08_03_06.jpg",
+            "North1_C5YS_189_3_09.30.08_04_54.jpg",
+            "North1_C5YS_189_3_09.30.08_07_36.jpg",
+            "North1_C5YS_189_3_09.30.08_08_09.jpg",
+            "North1_C5YS_189_3_09.30.08_14_18.jpg",
+            "North1_C4S_199_3_09.42.25_29_56.jpg",
+            "North1_C4S_199_3_09.42.25_47_25.jpg",
+            "North1_C4S_199_3_09.42.25_51_35.jpg",
+            "North1_C4S_200_3_09.41.46_05_54.jpg",
+            "North1_C4S_200_3_09.41.46_30_00.jpg",
+            "North1_C4S_200_3_09.41.46_43_10.jpg",
+            "Image_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided images (North1_C4N_188_3_09.30.08_00_18.jpg, North1_C4N_188_3_09.30.08_02_40.jpg, North1_C4N_188_3_09.30.08_07_18.jpg, North1_C5YS_189_3_09.30.08_03_06.jpg, North1_C5YS_189_3_09.30.08_04_54.jpg, North1_C5YS_189_3_09.30.08_07_36.jpg, North1_C5YS_189_3_09.30.08_08_09.jpg, North1_C5YS_189_3_09.30.08_14_18.jpg, North1_C4S_199_3_09.42.25_29_56.jpg, North1_C4S_199_3_09.42.25_47_25.jpg, North1_C4S_199_3_09.42.25_51_35.jpg, North1_C4S_200_3_09.41.46_05_54.jpg, North1_C4S_200_3_09.41.46_30_00.jpg, North1_C4S_200_3_09.41.46_43_10.jpg) to determine if a worker is present within the bounding box defined for each image. The bounding box coordinates for each image are provided in the file \"Image_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between image filenames and bounding box coordinates in the text file. If a worker is not present within the defined bounding box for a given image, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1150), short description (\"Worker missing from designated area\"), description (e.g., \"In [image_filename].jpg, no worker was detected within the bounding box.\"), and image filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0021",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00h00m10s_00h00m30s.mp4",
+            "North1_C4N_188_3_09.30.08_00h06m20s_00h06m40s.mp4",
+            "North1_C4N_188_3_09.30.08_00h07m21s_00h07m41s.mp4",
+            "North1_C5YS_189_3_09.30.08_00h00m40s_00h01m00s.mp4",
+            "North1_C5YS_189_3_09.30.08_00h03m00s_00h03m20s.mp4",
+            "North1_C5YS_189_3_09.30.08_00h07m30s_00h07m50s.mp4",
+            "North1_C5YS_189_3_09.30.08_00h08m00s_00h08m20s.mp4",
+            "North1_C5YS_189_3_09.30.08_00h14m10s_00h14m30s.mp4",
+            "North1_C4S_199_3_09.42.25_00h29m55s_00h30m05s.mp4",
+            "North1_C4S_199_3_09.42.25_00h47m20s_00h47m30s.mp4",
+            "North1_C4S_199_3_09.42.25_00h51m30s_00h51m40s.mp4",
+            "North1_C4S_200_3_09.41.46_00h05m50s_00h06m02s.mp4",
+            "North1_C4S_200_3_09.41.46_00h23m55s_00h24m07s.mp4",
+            "North1_C4S_200_3_09.41.46_00h43m10s_00h43m22s.mp4",
+            "Movie_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clips (North1_C4N_188_3_09.30.08_00h00m10s_00h00m30s.mp4, North1_C4N_188_3_09.30.08_00h06m20s_00h06m40s.mp4, North1_C4N_188_3_09.30.08_00h07m21s_00h07m41s.mp4, North1_C5YS_189_3_09.30.08_00h00m40s_00h01m00s.mp4, North1_C5YS_189_3_09.30.08_00h03m00s_00h03m20s.mp4, North1_C5YS_189_3_09.30.08_00h07m30s_00h07m50s.mp4, North1_C5YS_189_3_09.30.08_00h08m00s_00h08m20s.mp4, North1_C5YS_189_3_09.30.08_00h14m10s_00h14m30s.mp4, North1_C4S_199_3_09.42.25_00h29m55s_00h30m05s.mp4, North1_C4S_199_3_09.42.25_00h47m20s_00h47m30s.mp4, North1_C4S_199_3_09.42.25_00h51m30s_00h51m40s.mp4, North1_C4S_200_3_09.41.46_00h05m50s_00h06m02s.mp4, North1_C4S_200_3_09.41.46_00h23m55s_00h24m07s.mp4, North1_C4S_200_3_09.41.46_00h43m10s_00h43m22s.mp4) to determine the total duration (in seconds) a worker is present within the bounding box defined for each video clip. The bounding box coordinates for key frames or representative frames within each video clip are provided in the file \"Movie_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between video filenames and bounding box coordinates in the text file. If this duration is less than 1 second, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1160), short description (\"Insufficient worker presence in designated area\"), description (e.g., \"In [videoclip_filename].mp4, a worker was present in the bounding box for less than 1 second.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0022",
+        "input_data": [
+            "West5_G210_ZENTAI_00_40.jpg",
+            "West5_G210_ZENTAI_02_30.jpg",
+            "West5_G210_ZENTAI_06_40.jpg",
+            "West5_G210_ZENTAI_03_10.jpg",
+            "West5_G210_ZENTAI_08_30.jpg",
+            "West5_G210_ZENTAI_03_26.jpg",
+            "West5_G210_ZENTAI_04_05.jpg",
+            "West5_G210_ZENTAI_04_22.jpg",
+            "West5_G210_ZENTAI_05_20.jpg",
+            "West5_G210_ZENTAI_06_58.jpg",
+            "Image_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided images (West5_G210_ZENTAI_00_40.jpg, West5_G210_ZENTAI_02_30.jpg, West5_G210_ZENTAI_06_40.jpg, West5_G210_ZENTAI_03_10.jpg, West5_G210_ZENTAI_08_30.jpg, West5_G210_ZENTAI_03_26.jpg, West5_G210_ZENTAI_04_05.jpg, West5_G210_ZENTAI_04_22.jpg, West5_G210_ZENTAI_05_20.jpg, West5_G210_ZENTAI_06_58.jpg) to determine if a worker facing left is present within the bounding box defined for each image. The bounding box coordinates for each image are provided in the file \"Image_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between image filenames and bounding box coordinates in this text file. If a worker facing left is not present within the defined bounding box for a given image, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1170), short description (\"Worker facing left missing from designated area\"), description (e.g., \"In [image_filename].jpg, no worker facing left was detected within the bounding box.\"), and image filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0023",
+        "input_data": [
+            "West5_G210_ZENTAI_00h00m40s_00h00m50s.mp4",
+            "West5_G210_ZENTAI_00h03m20s_00h03m30s.mp4",
+            "West5_G210_ZENTAI_00h04m50s_00h05m00s.mp4",
+            "West5_G210_ZENTAI_00h00m03s_00h00m13s.mp4",
+            "West5_G210_ZENTAI_00h03m00s_00h03m10s.mp4",
+            "West5_G210_ZENTAI_00h03m50s_00h04m00s.mp4",
+            "West5_G210_ZENTAI_00h00m13s_00h00m23s.mp4",
+            "West5_G210_ZENTAI_00h04m20s_00h04m30s.mp4",
+            "West5_G210_ZENTAI_00h05m20s_00h05m30s.mp4",
+            "West5_G210_ZENTAI_00h06m53s_00h07m03s.mp4",
+            "Movie_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clips (West5_G210_ZENTAI_00h00m40s_00h00m50s.mp4, West5_G210_ZENTAI_00h03m20s_00h03m30s.mp4, West5_G210_ZENTAI_00h04m50s_00h05m00s.mp4, West5_G210_ZENTAI_00h00m03s_00h00m13s.mp4, West5_G210_ZENTAI_00h03m00s_00h03m10s.mp4, West5_G210_ZENTAI_00h03m50s_00h04m00s.mp4, West5_G210_ZENTAI_00h00m13s_00h00m23s.mp4, West5_G210_ZENTAI_00h04m20s_00h04m30s.mp4, West5_G210_ZENTAI_00h05m20s_00h05m30s.mp4, West5_G210_ZENTAI_00h06m53s_00h07m03s.mp4) to determine the total duration (in seconds) a worker facing left is present within the bounding box defined for each video clip. The bounding box coordinates for key frames or representative frames within each video clip are provided in the file \"Movie_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between video filenames and bounding box coordinates in this text file. If this duration is less than 5 seconds, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1180), short description (\"Insufficient worker facing left time in designated area\"), description (e.g., \"In [videoclip_filename].mp4, a worker facing left was present in the bounding box for less than 5 seconds.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0024",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h01m15s_00h01m35s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "First, analyze each video clip (West6_Assembly_Screw_1_00h01m15s_00h01m35s.mp4) to determine if the operator correctly uses the electric screwdriver with the green label to tighten all four screws. If the correct tool isn't used or the screws aren't tightened properly, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1110), short description (\"Improper tool use\" or \"Screws not tightened properly\"), description (e.g., \"In [videoclip_filename].mp4, the worker used the wrong screwdriver.\" or \"In [videoclip_filename].mp4, the worker did not tighten all four screws properly.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0025",
+        "input_data": [
+            "West5_Checkmask_1_00h04m20s_00h04m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "First, analyze each video clip (West5_Checkmask_1_00h04m20s_00h04m40s.mp4) to determine if the operator uses a check mask to inspect the product at any point during the clip. If a check mask is not used at any point, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1110), short description (\"Check mask not used\"), description (e.g., \"In [videoclip_filename].mp4, the operator did not use a check mask.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0026",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_05_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "First, analyze each image and video clip (North1_C3_187_3_09.30.10_05_10.jpg) to estimate the minimum distance between the cart and the nearest worker. If this distance is less than 1 meter, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1120), short description (\"Distance violation\"), description (e.g., \"In [filename].jpg/[filename].mp4, the distance between the worker and the cart was less than 1 meter.\"), and filename (including the file extension)."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0027",
+        "input_data": [
+            "North1_1_02_15.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Step 1: Distance Measurement: Analyze each image (North1_1_02_15.jpg) to determine the distance between each worker and the nearest piece of equipment.   Step 2: Incident Report Generation: If the distance measured in Step 1 is less than 0.5 meters, flag it as a violation. Report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1140), short description (\"Distance violation\"), description (e.g., \"In [image_filename].jpg, the distance between the worker and the nearest equipment was less than 0.5 meters.\"), and image filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0028",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00_18.jpg",
+            "Image_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided images (North1_C4N_188_3_09.30.08_00_18.jpg) to determine if a worker is present within the bounding box defined for each image. The bounding box coordinates for each image are provided in the file \"Image_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between image filenames and bounding box coordinates in the text file. If a worker is not present within the defined bounding box for a given image, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1150), short description (\"Worker missing from designated area\"), description (e.g., \"In [image_filename].jpg, no worker was detected within the bounding box.\"), and image filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0029",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00h00m10s_00h00m30s.mp4",
+            "Movie_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clips (North1_C4N_188_3_09.30.08_00h00m10s_00h00m30s.mp4) to determine the total duration (in seconds) a worker is present within the bounding box defined for each video clip. The bounding box coordinates for key frames or representative frames within each video clip are provided in the file \"Movie_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between video filenames and bounding box coordinates in the text file. If this duration is less than 1 second, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1160), short description (\"Insufficient worker presence in designated area\"), description (e.g., \"In [videoclip_filename].mp4, a worker was present in the bounding box for less than 1 second.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0030",
+        "input_data": [
+            "West5_G210_ZENTAI_00_40.jpg",
+            "Image_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided images (West5_G210_ZENTAI_00_40.jpg) to determine if a worker facing left is present within the bounding box defined for each image. The bounding box coordinates for each image are provided in the file \"Image_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between image filenames and bounding box coordinates in this text file. If a worker facing left is not present within the defined bounding box for a given image, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1170), short description (\"Worker facing left missing from designated area\"), description (e.g., \"In [image_filename].jpg, no worker facing left was detected within the bounding box.\"), and image filename."
+            }
+        ],
+        "output_format": "json"
+    },
+    {
+        "id": "4.2.0031",
+        "input_data": [
+            "West5_G210_ZENTAI_00h00m40s_00h00m50s.mp4",
+            "Movie_Bounding_Box_Coordinates.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided video clips (West5_G210_ZENTAI_00h00m40s_00h00m50s.mp4) to determine the total duration (in seconds) a worker facing left is present within the bounding box defined for each video clip. The bounding box coordinates for key frames or representative frames within each video clip are provided in the file \"Movie_Bounding_Box_Coordinates.txt\". Assume a one-to-one correspondence between video filenames and bounding box coordinates in this text file. If this duration is less than 5 seconds, flag it as a violation.   Next, report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1180), short description (\"Insufficient worker facing left time in designated area\"), description (e.g., \"In [videoclip_filename].mp4, a worker facing left was present in the bounding box for less than 5 seconds.\"), and video filename."
+            }
+        ],
+        "output_format": "json"
+    }
+]

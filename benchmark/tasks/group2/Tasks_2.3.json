@@ -1,0 +1,1276 @@
+[
+    {
+        "id": "2.3.0001",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h01m15s_00h01m35s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0002",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h05m15s_00h05m35s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0003",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h09m30s_00h09m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0004",
+        "input_data": [
+            "West6_Assembly_Screw_2_00h20m30s_00h20m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0005",
+        "input_data": [
+            "West6_Assembly_Screw_3_00h18m40s_00h20m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 1 screws properly? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0006",
+        "input_data": [
+            "West5_Checkmask_1_00h04m20s_00h04m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0007",
+        "input_data": [
+            "West5_Checkmask_1_00h11m10s_00h11m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0008",
+        "input_data": [
+            "West5_checkmask_3_00h07m40s_00h08m20s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0009",
+        "input_data": [
+            "West5_checkmask_2_00h25m55s_00h27m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0010",
+        "input_data": [
+            "West5_checkmask_4_00h19m10s_00h19m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0011",
+        "input_data": [
+            "Center6_Solder_washing_00_35.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0012",
+        "input_data": [
+            "Center6_Solder_washing_01_38.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0013",
+        "input_data": [
+            "Center6_Solder_washing_04_14.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0014",
+        "input_data": [
+            "Center6_Solder_washing_05_40.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0015",
+        "input_data": [
+            "Center6_Solder_washing_11_27.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0016",
+        "input_data": [
+            "Center6_Solder_washing_00_35.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?  If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0017",
+        "input_data": [
+            "Center6_Solder_washing_01_38.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?  If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0018",
+        "input_data": [
+            "Center6_Solder_washing_04_14.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?  If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0019",
+        "input_data": [
+            "Center6_Solder_washing_05_40.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0020",
+        "input_data": [
+            "Center6_Solder_washing_11_27.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0021",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_05_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between the cart next to the worker and the worker crouching on the left side of the aisle in the image? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0022",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_09_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How far is the worker on the right side of the image from the cart pulled by another worker? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0023",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_13_55.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How far is the cart from the worker who is squatting near the blue cart in the center of the image? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0024",
+        "input_data": [
+            "North1_C6_197_3_09.30.08_13_48.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How far is the blue cart from the person walking down the center of the aisle in this image? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0025",
+        "input_data": [
+            "North1_TANA_201_3_09.30.08_09_20.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How far is the cart in the right-hand aisle from the person walking in the left-hand aisle in this image? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0026",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_05_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the cart next to the worker and the worker crouching on the left side of the aisle in the image less than 1 meters? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0027",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_09_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the worker on the right side of the image and the cart pulled by another worker less than 1 meter? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0028",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_13_55.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the worker squatting near the blue cart in the center of the image and the cart less than 1.0 meters? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0029",
+        "input_data": [
+            "North1_C6_197_3_09.30.08_13_48.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the blue cart and the person walking down the center of the aisle in this image less than 1.0 meters? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0030",
+        "input_data": [
+            "North1_TANA_201_3_09.30.08_09_20.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the cart in the right-hand aisle and the person walking in the left-hand aisle in this image less than 1.0 meters? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0031",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_00h05m00s_00h05m20s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker crouching while working in this video? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0032",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_00h09m00s_00h09m20s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the minimum distance between the worker on the right side of the screen and the cart pulled by another worker nearby? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0033",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_00h13m40s_00h14m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance in meters between the blue cart being pushed by a worker and the worker crouching while working in this video? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0034",
+        "input_data": [
+            "North1_C6_197_3_09.30.08_00h05m10s_00h05m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker working on the right side of the aisle in this video? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0035",
+        "input_data": [
+            "North1_TANA_201_3_09.30.08_00h09m10s_00h09m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker walking through the aisle on the left in this video? If it is less than 1 meter, please specify the violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0036",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_00h05m00s_00h05m20s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker crouching while working in this video less than 1 meter? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0037",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_00h09m00s_00h09m20s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, is the minimum distance between the worker on the right side of the screen and the cart pulled by another worker nearby less than 1 meter? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0038",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_00h13m40s_00h14m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the minimum distance between the blue cart being pushed by a worker and the worker crouching while working in this video less than 1 meter? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0039",
+        "input_data": [
+            "North1_C6_197_3_09.30.08_00h05m10s_00h05m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker working on the right side of the aisle in this video less than 1 meter? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0040",
+        "input_data": [
+            "North1_TANA_201_3_09.30.08_00h09m10s_00h09m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker walking through the aisle on the left in this video less than 1 meter? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0041",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_05_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0042",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_09_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0043",
+        "input_data": [
+            "North1_C3_187_3_09.30.10_13_55.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0044",
+        "input_data": [
+            "North1_C6_197_3_09.30.08_13_48.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0045",
+        "input_data": [
+            "North1_TANA_201_3_09.30.08_09_20.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0046",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_29_56.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0047",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_47_25.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0048",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_05_54.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0049",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_30_00.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0050",
+        "input_data": [
+            "North1_TANA_201_3_09.30.08_12_23.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0051",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00_18.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0052",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_02_40.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0054",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_07_18.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0056",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_03_06.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0057",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_04_54.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0058",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_07_36.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0059",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_08_09.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0060",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_14_18.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0061",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00h00m10s_00h00m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0064",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00h06m20s_00h06m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0065",
+        "input_data": [
+            "North1_C4N_188_3_09.30.08_00h07m21s_00h07m41s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0066",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_00h00m40s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0067",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_00h03m00s_00h03m20s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0068",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_00h07m30s_00h07m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0069",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_00h08m00s_00h08m20s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0070",
+        "input_data": [
+            "North1_C5YS_189_3_09.30.08_00h14m10s_00h14m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0071",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_29_56.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0072",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_47_25.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0073",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_51_35.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0074",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_05_54.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0075",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_30_00.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0076",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_43_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0077",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_00h29m55s_00h30m05s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0078",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_00h47m20s_00h47m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0079",
+        "input_data": [
+            "North1_C4S_199_3_09.42.25_00h51m30s_00h51m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0080",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_00h05m50s_00h06m02s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0081",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_00h23m55s_00h24m07s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0082",
+        "input_data": [
+            "North1_C4S_200_3_09.41.46_00h43m10s_00h43m22s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? If longer than 1 second, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0083",
+        "input_data": [
+            "West5_G210_ZENTAI_00_40.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0084",
+        "input_data": [
+            "West5_G210_ZENTAI_02_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0085",
+        "input_data": [
+            "West5_G210_ZENTAI_06_40.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0086",
+        "input_data": [
+            "West5_G210_ZENTAI_03_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0087",
+        "input_data": [
+            "West5_G210_ZENTAI_08_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0088",
+        "input_data": [
+            "West5_G210_ZENTAI_03_26.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0089",
+        "input_data": [
+            "West5_G210_ZENTAI_04_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0090",
+        "input_data": [
+            "West5_G210_ZENTAI_04_22.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0091",
+        "input_data": [
+            "West5_G210_ZENTAI_05_20.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0092",
+        "input_data": [
+            "West5_G210_ZENTAI_06_58.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0093",
+        "input_data": [
+            "West5_G210_ZENTAI_00h00m40s_00h00m50s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0094",
+        "input_data": [
+            "West5_G210_ZENTAI_00h03m20s_00h03m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0095",
+        "input_data": [
+            "West5_G210_ZENTAI_00h04m50s_00h05m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0096",
+        "input_data": [
+            "West5_G210_ZENTAI_00h00m03s_00h00m13s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0097",
+        "input_data": [
+            "West5_G210_ZENTAI_00h03m00s_00h03m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0098",
+        "input_data": [
+            "West5_G210_ZENTAI_00h03m50s_00h04m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0099",
+        "input_data": [
+            "West5_G210_ZENTAI_00h00m13s_00h00m23s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0100",
+        "input_data": [
+            "West5_G210_ZENTAI_00h04m20s_00h04m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0101",
+        "input_data": [
+            "West5_G210_ZENTAI_00h05m20s_00h05m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.3.0102",
+        "input_data": [
+            "West5_G210_ZENTAI_00h06m53s_00h07m03s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    }
+]

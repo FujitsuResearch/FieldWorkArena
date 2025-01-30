@@ -12,8 +12,15 @@ from browsergym.core.action.python import PythonActionSet
 from browsergym.experiments import AbstractAgentArgs, Agent
 from browsergym.utils.obs import flatten_axtree_to_str, flatten_dom_to_str, prune_html
 
-logger = logging.getLogger(__name__)
+from copy import deepcopy
+from langchain_community.document_loaders import PyPDFLoader
 
+
+import re
+import cv2
+
+
+logger = logging.getLogger(__name__)
 
 def image_to_jpg_base64_url(image: np.ndarray | Image.Image):
     """Convert a numpy array to a base64 encoded image url."""
@@ -29,6 +36,99 @@ def image_to_jpg_base64_url(image: np.ndarray | Image.Image):
 
     return f"data:image/jpeg;base64,{image_base64}"
 
+
+# for feeding video frames to OpenAI API
+def process_video(video_path, seconds_per_frame=2):
+    logging.info("Processing video: %s", video_path)
+    base64Frames = []
+    max_frames = 30
+    
+    video = cv2.VideoCapture(video_path)
+    total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
+    logging.info("Total frames: %s", total_frames)
+
+    fps = video.get(cv2.CAP_PROP_FPS)
+    frames_to_skip = int(fps * seconds_per_frame)
+    curr_frame=0
+
+    if frames_to_skip < total_frames / max_frames:
+        frames_to_skip = int(total_frames / max_frames - 1)
+    while curr_frame < total_frames - 1:
+        video.set(cv2.CAP_PROP_POS_FRAMES, curr_frame)
+        success, frame = video.read()
+        if not success:
+            break
+        base64Frames.append(image_to_jpg_base64_url(frame))
+        curr_frame += frames_to_skip
+    logging.info("Number of frames: %s", len(base64Frames))
+    video.release()
+
+    return base64Frames
+
+def parse_goal_object(goal_object):
+    goals = []#deepcopy(goal_object)
+    image_paths = set()
+    video_paths = set()
+    document_paths = set()
+    text_paths = set()
+    
+    for msg in goal_object:
+        if not msg["type"] == "text":
+            continue
+        tags = re.findall("\n.*?.jpg\n", msg["text"])
+        for tag in tags:
+            image_paths.add(tag.strip())
+        tags = re.findall("\n.*?.mp4\n", msg["text"])
+        for tag in tags:
+            video_paths.add(tag.strip())
+        tags = re.findall("\n.*?.pdf\n", msg["text"])
+        for tag in tags:
+            document_paths.add(tag.strip())
+        tags = re.findall("\n.*?.txt\n", msg["text"])
+        for tag in tags:
+            text_paths.add(tag.strip())
+
+    
+    #if not image_paths == set():
+    for i, image_path in enumerate(image_paths):
+        if i == 0:
+            goals.append({"type": "text", "text": "\nThese are the images you are provided."})
+        goals.append({"type": "text", "text": image_path + ": "})
+        base64_image = image_to_jpg_base64_url(Image.open(image_path))
+        goals.append({"type": "image_url", "image_url": {'url': base64_image, 'detail': 'auto'}})
+
+    for i, video_path in enumerate(video_paths):
+        if i == 0:
+            goals.append({"type": "text", "text": "\nYou cannot see video directry, so you MUST use these frames decimated  from the video."})
+        goals.append({"type": "text", "text": video_path + ": "})
+        base64Frames = process_video(video_path)
+        if len(base64Frames) == 0:
+            return None
+        for base64_frame in base64Frames:
+            goals.append({"type": "image_url", "image_url": {'url': base64_frame, 'detail': 'auto'}})
+
+    # only use text from pdf
+    for i, document_path in enumerate(document_paths):
+        if i == 0:
+            goals.append({"type": "text", "text": "\nThese are the text extracted from the document you are provided."})
+        goals.append({"type": "text", "text": document_path + ": "})
+        loader = PyPDFLoader(document_path)
+        document = loader.load()
+        
+        #print(document_text)
+        document_text = ""
+        for page in document:
+            document_text += page.page_content + "\n"
+        goals.append({"type": "text", "text": document_text})
+
+    for i, text_path in enumerate(text_paths):
+        if i == 0:
+            goals.append({"type": "text", "text": "\nThese are the text you are provided."})
+        goals.append({"type": "text", "text": text_path + ": "})
+        with open(text_path, "r") as f:
+            text = f.read()
+        goals.append({"type": "text", "text": text})
+    return goals
 
 class DemoAgent(Agent):
     """A basic agent using OpenAI API, to demonstrate BrowserGym's functionalities."""
@@ -80,6 +180,7 @@ class DemoAgent(Agent):
         # self.action_set = PythonActionSet())
 
         self.action_history = []
+        self.loaded_data = ""
 
     def get_action(self, obs: dict) -> tuple[str, dict]:
         system_msgs = []
@@ -149,7 +250,12 @@ and executed by a program, make sure to follow the formatting instructions.
                 }
             )
             # goal_object is directly presented as a list of openai-style messages
+            #print(self.loaded_data)
+            if self.loaded_data == "":
+                self.loaded_data = parse_goal_object(obs["goal_object"])
+            
             user_msgs.extend(obs["goal_object"])
+            user_msgs.extend(self.loaded_data)
 
         # append url of all open tabs
         user_msgs.append(
@@ -238,6 +344,7 @@ I now need to click on the Submit button to send the form. I will use the click 
 I found the information requested by the user, I will send it to the chat.
 ```send_msg_to_user("The price for a 15\\" laptop is 1499 USD.")```
 
+You should first click 'All' button.
 """,
             }
         )
@@ -295,6 +402,7 @@ You MUST answer with a single action.
         for message in system_msgs + user_msgs:
             match message["type"]:
                 case "text":
+                    
                     prompt_text_strings.append(message["text"])
                 case "image_url":
                     image_url = message["image_url"]
