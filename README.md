@@ -43,7 +43,7 @@ FieldWorkArena \
 ├── data\
 │   ├── document \
 │   ├── image\
-│   └── video\
+│   └── movie\
 └── ...
 ```
 ## Use Sample Agent
