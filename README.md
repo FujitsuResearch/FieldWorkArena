@@ -37,7 +37,7 @@ workarena-install
 2. Click link on `評価用データ一式(Evaluation dataset)` and apply from Forms page,
 3. Confirm the download URL in email sent from FieldWorkArena. (It may take a few business days.)
 4. Unzip downloaded file. The files should be organized in the following directory structure:
-
+```
 FieldWorkArena \
 ├── ...\
 ├── data\
@@ -45,7 +45,7 @@ FieldWorkArena \
 │   ├── image\
 │   └── video\
 └── ...
-
+```
 ## Use Sample Agent
 
 ### OpenAI API setting (for demo agent)
