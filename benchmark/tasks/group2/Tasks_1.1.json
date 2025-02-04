@@ -1,0 +1,438 @@
+[
+    {
+        "id": "1.1.0001",
+        "input_data": [
+            "West5_G210_HANKUMI.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please indicate the start and end times of the equipment assembly work cycle. This cycle is from when the worker starts working at the work desk to when the worker completes the work and leaves the work desk. If there is no cycle in which work completion can be detected, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0002",
+        "input_data": [
+            "West5_G210_HANKUMI_00h03m50s_00h09m02s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what are the start and end times of the elemental action \"quality check with two check masks\"? If the specified element work is not found in the video, it is identified as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0003",
+        "input_data": [
+            "Center6_Solder_washing_3_00h00m00s_00h51m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, detect the start and end times of the solder tank cleaning cycle. If there is no cycle that can detect the start or completion of work, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0004",
+        "input_data": [
+            "Center6_Solder_washing_3_00h00m00s_00h51m00s.mp4",
+            "Solder_tank_cleaning_procedure.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what are the start and end times of the element motion for \"Remove the fixing screws of the primary and secondary nozzles, drop the solder adhering to the nozzles into the solder tank using two water pump pliers, take out the nozzle body while paying attention to leakage to the surroundings, place it on a stainless steel tray, and disassemble and clean.\" in the element work list? The start and end times must be output from the time of the movie itself. The element worklist file is \"Solder_tank_cleaning_procedure.txt\". If the specified element work is not found in the video, it is identified as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0005",
+        "input_data": [
+            "West6_Assembly_Screw_1.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us the start and end times of the work cycle along with the number of times each work cycle is performed. Output the start time and end time of the work cycle from the time of the video itself. A series of cycles is a cycle that sequentially executes \"6_ScrewTightening_PhoneAssembly.txt\" of the element work list file. If the work started or finished in the middle, please indicate that as well. If any work cycle is not running from start to finish, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0006",
+        "input_data": [
+            "West6_Assembly_Screw_2.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us the start and end times of the work cycle along with the number of times each work cycle is performed. Output the start time and end time of the work cycle from the time of the video itself. A series of cycles is a cycle that sequentially executes \"6_ScrewTightening_PhoneAssembly.txt\" of the element work list file. If the work started or finished in the middle, please indicate that as well. If any work cycle is not running from start to finish, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0007",
+        "input_data": [
+            "West6_Assembly_Screw_3.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us the start and end times of the work cycle along with the number of times each work cycle is performed. Output the start time and end time of the work cycle from the time of the video itself. A series of cycles is a cycle that sequentially executes \"6_ScrewTightening_PhoneAssembly.txt\" of the element work list file. If the work started or finished in the middle, please indicate that as well. If any work cycle is not running from start to finish, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0008",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h00m00s_00h04m25s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"4 places for installing KEY board and tightening screws\" of element number 6 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"6_ScrewTightening_PhoneAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0009",
+        "input_data": [
+            "West6_Assembly_Screw_1_00h04m25s_00h08m35s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"4 places for installing KEY board and tightening screws\" of element number 6 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"6_ScrewTightening_PhoneAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0010",
+        "input_data": [
+            "West6_Assembly_Screw_2_00h11m43s_00h15m46s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"Return the empty tray to the return lane.\" of element number 26 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"6_ScrewTightening_PhoneAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0011",
+        "input_data": [
+            "West6_Assembly_Screw_2_00h11m43s_00h15m46s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"4 places for installing KEY board and tightening screws\" of element number 6 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"6_ScrewTightening_PhoneAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0012",
+        "input_data": [
+            "West6_Assembly_Screw_2_00h15m48s_00h19m50s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"4 places for installing KEY board and tightening screws\" of element number 6 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"6_ScrewTightening_PhoneAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0013",
+        "input_data": [
+            "West6_Assembly_Screw_3_00h00m30s_00h04m35s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"4 places for installing KEY board and tightening screws\" of element number 6 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"6_ScrewTightening_PhoneAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0014",
+        "input_data": [
+            "West6_Assembly_Screw_3_00h00m30s_00h04m35s.mp4",
+            "6_ScrewTightening_PhoneAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"6 locations of sitcase screw tightening\" of element number 20 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"6_ScrewTightening_PhoneAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0015",
+        "input_data": [
+            "West5_Checkmask_1.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us the start and end times of the work cycle along with the number of times each work cycle is performed. Output the start time and end time of the work cycle from the time of the video itself. A series of cycles is a cycle that sequentially executes \"7_MaskCheck_RouterAssembly.txt\" of the element work list file. If the work started or finished in the middle, please indicate that as well. If any work cycle is not running from start to finish, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0016",
+        "input_data": [
+            "West5_Checkmask_2.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us the start and end times of the work cycle along with the number of times each work cycle is performed. Output the start time and end time of the work cycle from the time of the video itself. A series of cycles is a cycle that sequentially executes \"7_MaskCheck_RouterAssembly.txt\" of the element work list file. If the work started or finished in the middle, please indicate that as well. If any work cycle is not running from start to finish, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0017",
+        "input_data": [
+            "West5_Checkmask_3.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us the start and end times of the work cycle along with the number of times each work cycle is performed. Output the start time and end time of the work cycle from the time of the video itself. A series of cycles is a cycle that sequentially executes \"7_MaskCheck_RouterAssembly.txt\" of the element work list file. If the work started or finished in the middle, please indicate that as well. If any work cycle is not running from start to finish, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0018",
+        "input_data": [
+            "West5_Checkmask_4.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us the start and end times of the work cycle along with the number of times each work cycle is performed. Output the start time and end time of the work cycle from the time of the video itself. A series of cycles is a cycle that sequentially executes \"7_MaskCheck_RouterAssembly.txt\" of the element work list file. If the work started or finished in the middle, please indicate that as well. If any work cycle is not running from start to finish, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0019",
+        "input_data": [
+            "West5_Checkmask_1_00h07m50s_00h13m17s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"Quality check with 2 check masks\" of element number 20 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"7_MaskCheck_RouterAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0020",
+        "input_data": [
+            "West5_Checkmask_2_00h14m18s_00h29m40s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"Quality check with 2 check masks\" of element number 20 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"7_MaskCheck_RouterAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0021",
+        "input_data": [
+            "West5_Checkmask_3_00h00m00s_00h12m00s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"Quality check with 2 check masks\" of element number 20 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"7_MaskCheck_RouterAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0022",
+        "input_data": [
+            "West5_Checkmask_4_00h12m00s_00h22m00s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"Quality check with 2 check masks\" of element number 20 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"7_MaskCheck_RouterAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0023",
+        "input_data": [
+            "West5_Checkmask_4_00h24m20s_00h34m34s.mp4",
+            "7_MaskCheck_RouterAssembly.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the start time and what is the end time of element action: \"Quality check with 2 check masks\" of element number 20 in the element work list? Start time and end time should be output from the time of the movie itself. The file for the element work list is \"7_MaskCheck_RouterAssembly.txt\". If the specified element work is not found in the video, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0024",
+        "input_data": [
+            "English_Translation_FQ510-042_Wearing_Gloves.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract and list the items for the \"pre-shift inspection of electrical insulating rubber gloves\" in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0025",
+        "input_data": [
+            "English_Translation_FQ510-042_Wearing_Gloves.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract and list the items for the \"periodic inspection of electrical insulating rubber gloves\" in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0026",
+        "input_data": [
+            "English_Translation_FQ510-042_Wearing_Gloves.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract and list the items related to \"glove wearing methods\" in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0027",
+        "input_data": [
+            "English_Translation_FQ510-042_Wearing_Gloves.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract and list the \"list of candidate gloves to be used\" in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0028",
+        "input_data": [
+            "English_Translation_FQ510-042_Wearing_Gloves.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me about the contents of the periodic inspection table in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0029",
+        "input_data": [
+            "English_Translation_FQ510-042_Wearing_Gloves.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this PDF file, extract the cotton glove replacement cycle."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0030",
+        "input_data": [
+            "English_FQ510-050_handa_tank_Cleaning.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract and list the \"list of candidate gloves to be used\" in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0031",
+        "input_data": [
+            "English_FQ510-050_handa_tank_Cleaning.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract and list the \"work procedures for soldering bath maintenance\" in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0032",
+        "input_data": [
+            "English_FQ510-050_handa_tank_Cleaning.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract and list the \"work procedures for post-work procedures\" in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    }
+]
