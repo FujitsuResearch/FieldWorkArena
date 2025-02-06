@@ -1,58 +1,46 @@
 [
    {
-        "id": "fieldworkarena.demo.1",
-        "input_data": "image worksite_a.jpg",
+        "id": "demo.1",
+        "input_data": ["worksite_a.jpg"],
         "conversations": [
             {
                 "from": "human",
                 "value": "Are the workers wearing PPEs in this image? If not, also specify the incident in your response."
-            },
-            {
-                "from": "gpt",
-                "value": "No, a worker is not wearing gloves and a helmet in this image. This is an incident."
             }
-        ]
+        ],
+        "output_format" : "text"
     },
     {
-        "id": "fieldworkarena.demo.2",
-        "input_data": "image worksite_b.jpg",
+        "id": "demo.2",
+        "input_data": ["worksite_b.jpg"],
         "conversations": [
             {
                 "from": "human",
                 "value": "Can an aisle be walked through in this image? If not, also specify the incident in your response."
-            },
-            {
-                "from": "gpt",
-                "value": "No, the aisle is blocked with a trolley. This is an incident."
             }
-        ]
+        ],
+        "output_format" : "text"
     },
     {
-        "id": "fieldworkarena.demo.3",
-        "input_data": "image worksite_c.jpg",
+        "id": "demo.3",
+        "input_data": ["worksite_c.jpg"],
         "conversations": [
             {
                 "from": "human",
                 "value": "Is there any accident in this image? If not, also specify the incident in your response." 
-            },
-            {
-                "from": "gpt",
-                "value": "Yes, a worker falls down in this image. This is an incident."
             }
-        ]
+        ],
+        "output_format" : "text"
     },
     {
-        "id": "fieldworkarena.demo.4",
-        "input_data": "image worksite_d.jpg",
+        "id": "demo.4",
+        "input_data": ["worksite_d.jpg"],
         "conversations": [
             {
                 "from": "human",
                 "value": "Is there any incident in this image? If so, also specify the incident in your response."
-            },
-            {
-                "from": "gpt",
-                "value": "Yes, a person is in the restricted area in this image. This is an incident."
             }
-        ]
+        ],
+        "output_format" : "text"
     }
  ]
