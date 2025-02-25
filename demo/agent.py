@@ -38,12 +38,13 @@ def image_to_jpg_base64_url(image: np.ndarray | Image.Image):
 
 
 # for feeding video frames to OpenAI API
-def process_video(video_path, seconds_per_frame=2):
+def process_video(video_path, seconds_per_frame=1):
     logging.info("Processing video: %s", video_path)
     base64Frames = []
     max_frames = 30
-    
+
     video = cv2.VideoCapture(video_path)
+
     total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
     logging.info("Total frames: %s", total_frames)
 
@@ -51,19 +52,20 @@ def process_video(video_path, seconds_per_frame=2):
     frames_to_skip = int(fps * seconds_per_frame)
     curr_frame=0
 
-    if frames_to_skip < total_frames / max_frames:
-        frames_to_skip = int(total_frames / max_frames - 1)
-    while curr_frame < total_frames - 1:
+    if frames_to_skip < total_frames / (max_frames - 1):
+        frames_to_skip = int(total_frames / (max_frames - 1))
+    while curr_frame < total_frames:
         video.set(cv2.CAP_PROP_POS_FRAMES, curr_frame)
         success, frame = video.read()
         if not success:
             break
         base64Frames.append(image_to_jpg_base64_url(frame))
         curr_frame += frames_to_skip
+    seconds_per_frame = frames_to_skip / fps
     logging.info("Number of frames: %s", len(base64Frames))
     video.release()
 
-    return base64Frames
+    return base64Frames, seconds_per_frame
 
 def parse_goal_object(goal_object):
     goals = []#deepcopy(goal_object)
@@ -99,12 +101,16 @@ def parse_goal_object(goal_object):
 
     for i, video_path in enumerate(video_paths):
         if i == 0:
-            goals.append({"type": "text", "text": "\nYou cannot see video directry, so you MUST use these frames decimated  from the video."})
+            goals.append({"type": "text", "text": "\nYou cannot see video directly, so you MUST use these frames decimated from the video."})
         goals.append({"type": "text", "text": video_path + ": "})
-        base64Frames = process_video(video_path)
+        base64Frames, seconds_per_frame = process_video(video_path)
         if len(base64Frames) == 0:
             return None
-        for base64_frame in base64Frames:
+        
+        #timestamps = [float(i * frames_to_skip) / 30 for i in range(len(base64Frames))]
+
+        for i, base64_frame in enumerate(base64Frames):
+            goals.append({"type": "text", "text": f"timestamp: {i * seconds_per_frame:.2f} [s]"})
             goals.append({"type": "image_url", "image_url": {'url': base64_frame, 'detail': 'auto'}})
 
     # only use text from pdf
