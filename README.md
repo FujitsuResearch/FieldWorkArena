@@ -10,7 +10,7 @@ See below for more details. \
 https://en-documents.research.global.fujitsu.com/fieldworkarena/
 
 ## Update
-- 2025-02-27: Data has been globally released.
+- 2025-02-27: Data has been released globally .
 
 ## Getting Started
 The current reporting functionality of FieldWorkArena utilizes
