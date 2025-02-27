@@ -9,6 +9,9 @@ FieldWorkArena is a groundbreaking benchmark suite for evaluating AI agents. By 
 See below for more details. \
 https://en-documents.research.global.fujitsu.com/fieldworkarena/
 
+## Update
+- 2025-02-27: Data has been globally released.
+
 ## Getting Started
 The current reporting functionality of FieldWorkArena utilizes
 [Browsergym](https://github.com/ServiceNow/BrowserGym) and [WorkArena](https://github.com/ServiceNow/WorkArena). Therefore, it is necessary to use ServiceNow instance in this implementation. \
@@ -46,7 +49,7 @@ workarena-install
 
 ### Download dataset 
 1. Go to https://en-documents.research.global.fujitsu.com/fieldworkarena/ .
-2. Click link on `評価用データ一式(Evaluation dataset)` and apply from Forms page,
+2. Click link on `Evaluation dataset` and apply from Forms page,
 3. Confirm the download URL in email sent from FieldWorkArena. (It may take a few business days.)
 4. Unzip downloaded file. The files should be organized in the following directory structure:
 ```
