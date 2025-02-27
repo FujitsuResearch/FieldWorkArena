@@ -10,7 +10,7 @@ See below for more details. \
 https://en-documents.research.global.fujitsu.com/fieldworkarena/
 
 ## Update
-- 2025-02-27: Data has been released globally .
+- 2025-02-27: The **Factory** dataset has been released on Hugging Face globally. If you would like to obtain it, please apply [here](https://en-portal.research.global.fujitsu.com/fieldworkarena/).
 
 ## Getting Started
 The current reporting functionality of FieldWorkArena utilizes
