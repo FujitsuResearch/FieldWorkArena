@@ -107,10 +107,15 @@ def parse_goal_object(goal_object):
         if len(base64Frames) == 0:
             return None
         
-        #timestamps = [float(i * frames_to_skip) / 30 for i in range(len(base64Frames))]
+        def seconds_to_hhmmss(seconds):
+            hours = int(seconds // 3600)
+            minutes = int((seconds % 3600) // 60)
+            seconds = int(seconds % 60)
+            return f"{hours:02}:{minutes:02}:{seconds:02}"
 
         for i, base64_frame in enumerate(base64Frames):
-            goals.append({"type": "text", "text": f"timestamp: {i * seconds_per_frame:.2f} [s]"})
+            timestamp = seconds_to_hhmmss(i * seconds_per_frame)
+            goals.append({"type": "text", "text": f"timestamp: {timestamp}"})
             goals.append({"type": "image_url", "image_url": {'url': base64_frame, 'detail': 'auto'}})
 
     # only use text from pdf
