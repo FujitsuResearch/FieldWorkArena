@@ -44,8 +44,8 @@ Finally, run this command in a terminal to upload the benchmark data to your Ser
 workarena-install
 ```
 
-### Download dataset (Currently only avaiable in Japan. Global release coming soon.)
-1. Go to https://documents.research.global.fujitsu.com/fieldworkarena/ .
+### Download dataset 
+1. Go to https://en-documents.research.global.fujitsu.com/fieldworkarena/ .
 2. Click link on `評価用データ一式(Evaluation dataset)` and apply from Forms page,
 3. Confirm the download URL in email sent from FieldWorkArena. (It may take a few business days.)
 4. Unzip downloaded file. The files should be organized in the following directory structure:
