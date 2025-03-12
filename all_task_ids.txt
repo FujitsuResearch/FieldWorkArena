@@ -170,7 +170,6 @@ fieldworkarena.4.2.0023
 fieldworkarena.4.2.0024
 fieldworkarena.4.2.0025
 fieldworkarena.4.2.0026
-fieldworkarena.4.2.0027
 fieldworkarena.4.2.0028
 fieldworkarena.4.2.0029
 fieldworkarena.4.2.0030

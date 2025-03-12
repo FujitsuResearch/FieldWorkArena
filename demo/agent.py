@@ -49,6 +49,7 @@ def process_video(video_path, seconds_per_frame=1):
     logging.info("Total frames: %s", total_frames)
 
     fps = video.get(cv2.CAP_PROP_FPS)
+
     frames_to_skip = int(fps * seconds_per_frame)
     curr_frame=0
 
@@ -116,7 +117,7 @@ def parse_goal_object(goal_object):
         for i, base64_frame in enumerate(base64Frames):
             timestamp = seconds_to_hhmmss(i * seconds_per_frame)
             goals.append({"type": "text", "text": f"timestamp: {timestamp}"})
-            goals.append({"type": "image_url", "image_url": {'url': base64_frame, 'detail': 'auto'}})
+            goals.append({"type": "image_url", "image_url": {'url': base64_frame, 'detail': 'low'}})
 
     # only use text from pdf
     for i, document_path in enumerate(document_paths):
