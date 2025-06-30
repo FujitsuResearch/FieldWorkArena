@@ -131,7 +131,7 @@ class GenericGroup2Task(AbstractServiceNowTask):  # Inherit from AbstractService
     def validate(self, page: playwright.sync_api.Page, chat_messages: list[str]) -> Tuple[float, bool, str, dict]:
         try:
             if chat_messages[-1]["role"] == "assistant":
-                logging.info(f"\n<id>{self.task_id}</id>\n<answer>{chat_messages[-1]["message"]}</answer>")
+                logging.info(f"\n<id>{self.task_id}</id>\n<answer>{chat_messages[-1]['message']}</answer>")
 
                 return 1.0, True, "Recieved answer", {}
             else:

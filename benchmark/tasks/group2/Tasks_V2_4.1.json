@@ -1,0 +1,397 @@
+[
+    {
+        "id": "4.1.2001",
+        "input_data": [
+            "Store_Manual_A.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. What are the business hours for April 28, 2025?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2002",
+        "input_data": [
+            "Store_Manual_A.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. What are the business hours for April 28 to May 2, 2025?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2003",
+        "input_data": [
+            "Store_Manual_A.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. To check the basket collection task for April 28, 2025, what files should be accessed?  Camera ID : 104, use both synchronized files"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2004",
+        "input_data": [
+            "Store_Manual_A.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. To check the basket collection task for April 29, 2025, what files should be accessed?  Camera ID : 009"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2005",
+        "input_data": [
+            "Store_Manual_A.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. To check the basket collection task for April 28 to May 2, 2025, what files should be accessed?  Camera ID : 104, use both synchronized files"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2006",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam009-Basket0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 30 seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2007",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam009-Basket1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 45 seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2008",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam009-Basket2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 45 seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2009",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam009-Basket9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 30 seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2010",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam003-Disposal0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2011",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam003-Disposal1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2012",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam003-Disposal2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2013",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam106-Sticker0-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2014",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam106-Sticker1-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2015",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam106-Sticker2-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2016",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam012-Vacuuming5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the vacuuming task.  In this area,  vacuuming duration time should be more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2017",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam012-Vacuuming2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the vacuuming task.  In this area,  vacuuming duration time should be more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.2018",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam012-Vacuuming3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the vacuuming task.  In this area,  vacuuming duration time should be more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.2.2001",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam009-202505052000-2010.mp4",
+            "Cam009-202505052100-2110.mp4",
+            "Cam009-202505062000-2010.mp4",
+            "Cam009-202505062100-2110.mp4",
+            "Cam009-202505072000-2010.mp4",
+            "Cam009-202505082000-2010.mp4",
+            "Cam009-202505092000-2010.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Report on the basket collection task for the period of May 5th to May 9th, 2025.  Camera ID : 009"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.2.2002",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam104-202503172000-2010-1cam.mp4",
+            "Cam104-202503172000-2010-2cam.mp4",
+            "Cam104-202503182000-2010-1cam.mp4",
+            "Cam104-202503182000-2010-2cam.mp4",
+            "Cam104-202503192000-2010-1cam.mp4",
+            "Cam104-202503192000-2010-2cam.mp4",
+            "Cam104-202503202000-2010-1cam.mp4",
+            "Cam104-202503202000-2010-2cam.mp4",
+            "Cam104-202503202100-2110-1cam.mp4",
+            "Cam104-202503202100-2110-2cam.mp4",
+            "Cam104-202503212000-2010-1cam.mp4",
+            "Cam104-202503212000-2010-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Report on the basket collection task for the period of May 17th to March 21th, 2025.  Camera ID : 104,  use both synchronized files"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.2.2003",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam104-202505052000-2010-1cam.mp4",
+            "Cam104-202505052000-2010-2cam.mp4",
+            "Cam104-202505052100-2110-1cam.mp4",
+            "Cam104-202505052100-2110-2cam.mp4",
+            "Cam104-202505062000-2010-1cam.mp4",
+            "Cam104-202505062000-2010-2cam.mp4",
+            "Cam104-202505062100-2110-1cam.mp4",
+            "Cam104-202505062100-2110-2cam.mp4",
+            "Cam104-202505072000-2010-1cam.mp4",
+            "Cam104-202505072000-2010-2cam.mp4",
+            "Cam104-202505082000-2010-1cam.mp4",
+            "Cam104-202505082000-2010-2cam.mp4",
+            "Cam104-202505092000-2010-1cam.mp4",
+            "Cam104-202505092000-2010-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Report on the cart collection task for the period of May 5th to May 9th, 2025.  Camera ID :104,  use both synchronized files"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.2.2004",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam003-202502242000-2010.mp4",
+            "Cam003-202502242100-2110.mp4",
+            "Cam003-202502252000-2010.mp4",
+            "Cam003-202502262000-2010.mp4",
+            "Cam003-202502272000-2010.mp4",
+            "Cam003-202502282000-2010.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Report on the product disposal task for the period of Feb 25th to Feb 28th, 2025.  Camera ID :003"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.2.2005",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam106-202502102000-2010-1cam.mp4",
+            "Cam106-202502112000-2010-1cam.mp4",
+            "Cam106-202502112100-2110-1cam.mp4",
+            "Cam106-202502122000-2010-1cam.mp4",
+            "Cam106-202502132000-2010-1cam.mp4",
+            "Cam106-202502142000-2010-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Report on the product disposal task for the period of Feb 10th to Feb 14th, 2025.  Camera ID :106,  use -1cam files"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.2.2006",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam106-202501131900-1910-2cam.mp4",
+            "Cam106-202501132000-2010-2cam.mp4",
+            "Cam106-202501141900-1910-2cam.mp4",
+            "Cam106-202501151900-1910-2cam.mp4",
+            "Cam106-202501161900-1910-2cam.mp4",
+            "Cam106-202501171900-1910-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Report on the discount sticker application task for the period of Jan 13th to Jan 17th, 2025.  Camera ID :106,  use -2cam files"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.2.2007",
+        "input_data": [
+            "Store_Manual_A.txt",
+            "Cam012-202502242000-2010.mp4",
+            "Cam012-202502242100-2110.mp4",
+            "Cam012-202502252000-2010.mp4",
+            "Cam012-202502262000-2010.mp4",
+            "Cam012-202502272000-2010.mp4",
+            "Cam012-202502282000-2010.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this store manual. Report on the vacuuming task for the period of Feb 24th to Feb 28th, 2025.  Camera ID :012  In this area,  vacuuming duration time should be more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    }
+]

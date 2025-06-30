@@ -1,0 +1,587 @@
+[
+    {
+        "id": "3.1.2017",
+        "input_data": [
+            "Cam018-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : light olive-colored box. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2018",
+        "input_data": [
+            "Cam018-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : light olive-colored box. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2019",
+        "input_data": [
+            "Cam018-OutofStock3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : light olive-colored box. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2020",
+        "input_data": [
+            "Cam1021-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : can of beer. specified number : 12"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2021",
+        "input_data": [
+            "Cam1022-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : can of beer. specified number : 12"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2022",
+        "input_data": [
+            "Cam1051-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : bread packaged in a plastic bag. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2023",
+        "input_data": [
+            "Cam1052-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : bread packaged in a plastic bag. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2024",
+        "input_data": [
+            "Cam1011-Smartphone0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2025",
+        "input_data": [
+            "Cam1011-Smartphone1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2026",
+        "input_data": [
+            "Cam1011-Smartphone2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2027",
+        "input_data": [
+            "Cam1011-Smartphone3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2028",
+        "input_data": [
+            "Cam1011-Smartphone4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2029",
+        "input_data": [
+            "Cam1011-Smartphone5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2030",
+        "input_data": [
+            "Cam1011-Smartphone6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2031",
+        "input_data": [
+            "Cam1011-Smartphone7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2032",
+        "input_data": [
+            "Cam1011-Smartphone8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2033",
+        "input_data": [
+            "Cam1012-Chat0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2034",
+        "input_data": [
+            "Cam1012-Chat1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2035",
+        "input_data": [
+            "Cam1012-Chat2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2036",
+        "input_data": [
+            "Cam1012-Chat3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2037",
+        "input_data": [
+            "Cam1012-Chat4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2038",
+        "input_data": [
+            "Cam1052-DS_stop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2039",
+        "input_data": [
+            "Cam1052-DS_stop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2040",
+        "input_data": [
+            "Cam1052-DS_stop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2041",
+        "input_data": [
+            "Cam1052-DS_stop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2042",
+        "input_data": [
+            "Cam1052-DS_stop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2043",
+        "input_data": [
+            "Cam1052-DS_stop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2044",
+        "input_data": [
+            "Cam1052-DS_stop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2045",
+        "input_data": [
+            "Cam1052-DS_stop7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2046",
+        "input_data": [
+            "Cam1052-DS_stop8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2047",
+        "input_data": [
+            "Cam1052-DS_stop9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2048",
+        "input_data": [
+            "Cam1052-DS_stop10.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2049",
+        "input_data": [
+            "Cam1052-DS_stop11.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Analyze the tablet's customer engagement effect: Report cases of stopping as \"Effective\" vs. passing through the tablet's visibility zone as \"Non-effective\". Report \"Irrelevant\" if no one enters the zone. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2050",
+        "input_data": [
+            "Cam1052-DS_stop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2051",
+        "input_data": [
+            "Cam1052-DS_stop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2052",
+        "input_data": [
+            "Cam1052-DS_stop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2053",
+        "input_data": [
+            "Cam1052-DS_stop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2054",
+        "input_data": [
+            "Cam1052-DS_stop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2055",
+        "input_data": [
+            "Cam1052-DS_stop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2056",
+        "input_data": [
+            "Cam1052-DS_stop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2057",
+        "input_data": [
+            "Cam1052-DS_stop7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2058",
+        "input_data": [
+            "Cam1052-DS_stop8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2059",
+        "input_data": [
+            "Cam1052-DS_stop9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2060",
+        "input_data": [
+            "Cam1052-DS_stop10.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "3.1.2061",
+        "input_data": [
+            "Cam1052-DS_stop11.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product.  Analyze the buying rate among customers who stop to view the tablet: Report cases where customers stop at the tablet, then buy the product as \"Effective,\" and cases where they stop but do not buy as \"Non-effective.\" Report \"Irrelevant\" if no one stops at the tablet. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Definition of stop : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    }
+]

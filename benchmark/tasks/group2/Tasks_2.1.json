@@ -1,0 +1,1036 @@
+[
+    {
+        "id": "2.1.0001",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a woman wearing a yellow vest and a black shirt and black forklift?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0002",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a man wearing a yellow vest and a blue shirt and black forklift?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0003",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a woman wearing a yellow vest and a black shirt and black forklift?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0004",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a woman wearing a yellow vest and a black shirt and black forklift?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0005",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a woman wearing a yellow vest and a black shirt and black forklift?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0006",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a man wearing a yellow vest and a blue shirt and a woman wearing a yellow vest and a black shirt?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0007",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a man wearing a yellow vest and a blue shirt and a woman wearing a yellow vest and a black shirt?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0008",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a man wearing a yellow vest and a blue shirt and a woman wearing a yellow vest and a black shirt?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0009",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a man wearing a yellow vest and a blue shirt and a woman wearing a yellow vest and a black shirt?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0010",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the distance between a man wearing a yellow vest and a blue shirt and a woman wearing a yellow vest and a black shirt?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0011",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the worker and the forklift less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0012",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the worker and the forklift less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0013",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the worker and the forklift less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0014",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the worker and the forklift less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0015",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the worker and the forklift less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0016",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the workers less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0017",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the workers less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0018",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the workers less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0019",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the workers less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0020",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the distance between the workers less than the threshold 2m?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0021",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are workers and forklifts in the same aisle?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0022",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are workers and forklifts in the same aisle?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0023",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are workers and forklifts in the same aisle?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0024",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are workers and forklifts in the same aisle?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0025",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are workers and forklifts in the same aisle?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0026",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h02m40s_00h03m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0027",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h00m00s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0028",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h01m10s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0029",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m00s_00h00m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0030",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m40s_00h01m05s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0031",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h02m40s_00h03m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0032",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h00m00s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0033",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h01m10s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0034",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m00s_00h00m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0035",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m40s_00h01m05s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0036",
+        "input_data": [
+            "WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_00h00m30s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between moving workers? If the minimum distance is less than 1 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0037",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h02m20s_00h03m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between moving workers? If the minimum distance is less than 1 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0040",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h00m00s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the minimum distance between moving workers? If the minimum distance is less than 1 meters, classify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0041",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m00s_00h00m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between moving workers fall below 1 meters? If it occurs more than once, it is identified as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0042",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h02m20s_00h03m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between moving workers fall below 1 meters? If it occurs more than once, it is identified as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0045",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h00m00s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many times did the distance between moving workers fall below 1 meters? If it occurs more than once, it is identified as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0046",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h02m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 30 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0047",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h02m30s_00h03m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 30 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0048",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m40s_00h01m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0049",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m00s_00h00m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0050",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h01m30s_00h01m55s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 5 seconds, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0051",
+        "input_data": [
+            "External_Dock_01_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0052",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_39.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0053",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_55.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0054",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0055",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0056",
+        "input_data": [
+            "External_Dock_00_55.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0057",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_46.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0058",
+        "input_data": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0059",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0060",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is any worker within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)?  If so, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0061",
+        "input_data": [
+            "External_Dock_01_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0062",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_39.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0063",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_55.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0064",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0065",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0066",
+        "input_data": [
+            "External_Dock_00_55.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0067",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_46.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0068",
+        "input_data": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0069",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0070",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)?  If three or more are present, identify this as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0071",
+        "input_data": [
+            "External_Dock_01_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)?  If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0072",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_46.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0073",
+        "input_data": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455))? If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0074",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)?  If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0075",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)?  If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0076",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h01m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)?  If the cumulative count is 3 or more, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0077",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h01m30s_00h01m55s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 350), and (1250, 350)?  If the cumulative count is 3 or more, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0079",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m20s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)?  If the cumulative count is 3 or more, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0081",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h01m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500) less than or equal to 2?  If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0082",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h01m30s_00h01m55s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350) less than or equal to 2?  If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0084",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m20s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560) less than or equal to 2?  If not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0086",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h01m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)?  If the total time exceeds 30 seconds, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0087",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h01m30s_00h01m55s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350)?  If the total time exceeds 30 seconds, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.0089",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m20s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)?  If the total time exceeds 30 seconds, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    }
+]

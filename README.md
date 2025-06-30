@@ -10,7 +10,10 @@ See below for more details. \
 https://en-documents.research.global.fujitsu.com/fieldworkarena/
 
 ## Update
-- 2025-02-27: The **Factory** dataset has been released on Hugging Face globally. If you would like to obtain it, please apply [here](https://en-portal.research.global.fujitsu.com/fieldworkarena/).
+- 2025-06-30: The **Retail** dataset has been released on Hugging Face. If you would like to obtain it, please apply [here](https://en-portal.research.global.fujitsu.com/fieldworkarena/).
+- 2025-06-30: The **Warehouse** dataset has been released on Hugging Face. If you would like to obtain it, please apply [here](https://en-portal.research.global.fujitsu.com/fieldworkarena/).
+- 2025-02-27: The **Factory** dataset has been released on Hugging Face. 
+ 
 
 ## Getting Started
 The current reporting functionality of FieldWorkArena utilizes
@@ -65,9 +68,11 @@ FieldWorkArena \
 
 ### OpenAI API setting (for demo agent)
 set environment variable
-* `OAI_API_KEY `: You OpenAI API key 
+* `OPENAI_API_KEY=You OpenAI API key` 
 
 ### Demo
+**To run the demo, Xserver environment is required.**
+
 In these demos, the tasks is to search for incidents in the image according to the query and to report any incidents found.
 ```
 python demo/run_demo.py --task_name fieldworkarena.demo.1.report 
@@ -79,17 +84,49 @@ python demo/run_demo.py --task_name fieldworkarena.demo.4.report
 ### Benchmark
 Run the following script, the results will be saved in the `results` directory.
 #### Linux 
+All tasks
 ```
-bash run_all_tasks.sh
+bash run_tasks.sh all
 ```
+
+Each tasks
+```
+# for factory
+bash run_tasks.sh factory   
+
+# for warehouse
+bash run_tasks.sh warehouse
+
+# for retail
+bash run_tasks.sh retail    
+```
+
 #### Windows
+All tasks
 ```
-.\run_all_tasks.bat
+.\run_all_tasks.bat all
 ```
+
+Each tasks
+```
+# for factory
+.\run_tasks.bat factory
+
+# for warehouse
+.\run_tasks.bat warehouse
+
+# for retail
+.\run_tasks.bat retail
+```
+
 ## Test Your Agent 
 ### Edit Agent
 Agent is defined in 'demo/agent.py'.
 For testing your agent, you should mainly modify 'get_action()' method.
+
+<span style="color: red; ">**Attention!!**</span>
+
+**After you added your own agents and scenarios, Plase call `pip install .` .**
 
 ### Submit Your Result
 Compress the `results` directory and reply it to the email address with the download URL of the evaluation data .

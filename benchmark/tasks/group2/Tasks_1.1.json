@@ -399,7 +399,7 @@
     {
         "id": "1.1.0030",
         "input_data": [
-            "English_FQ510-050_handa_tank_Cleaning.pdf"
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf"
         ],
         "conversations": [
             {
@@ -412,7 +412,7 @@
     {
         "id": "1.1.0031",
         "input_data": [
-            "English_FQ510-050_handa_tank_Cleaning.pdf"
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf"
         ],
         "conversations": [
             {
@@ -425,7 +425,7 @@
     {
         "id": "1.1.0032",
         "input_data": [
-            "English_FQ510-050_handa_tank_Cleaning.pdf"
+            "English_FQ510-050_Handa_Tank_Cleaning.pdf"
         ],
         "conversations": [
             {
@@ -434,5 +434,148 @@
             }
         ],
         "output_format": "text"
-    }
+    },
+    {
+        "id": "1.1.0033",
+        "input_data": [
+            "Table_2_in_English.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this PDF file, please extract and complete the precaution for \"Man-powered Transportation Work.\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0034",
+        "input_data": [
+            "Table_2_in_English.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this PDF file, please extract and fill in all the precautions in \"Points for crane and sling work.\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0035",
+        "input_data": [
+            "Warehouse_Management_Chiefs'_Manual.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please Excerpt and complete the \"Four principles of stopping forklifts.\" precautions in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0036",
+        "input_data": [
+            "Warehouse_Management_Chiefs'_Manual.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please excerpt and complete the \"Forklift Work\" precautions in this PDF file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0037",
+        "input_data": [
+            "Table_2_in_English.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this PDF file, please extract and list the points to be considered from the \"management side\" in preventing industrial accidents caused by forklifts."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0038",
+        "input_data": [
+            "Warehouse_Management_Chiefs'_Manual.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this PDF file, please extract the notes on \"cargo on pallet.\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0039",
+        "input_data": [
+            "For_the_safe_operation_of_forklifts.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From this PDF file, please list the items that operators should observe when carrying out cargo handling work using forklifts."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0040",
+        "input_data": [
+            "For_the_safe_operation_of_forklifts.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From this PDF file, please list the precautions to be taken when carrying out cargo handling work using a forklift."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0041",
+        "input_data": [
+            "For_the_safe_operation_of_forklifts.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract from this PDF file the precautions for using a forklift to pass through the premises."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0042",
+        "input_data": [
+            "For_the_safe_operation_of_forklifts.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From this PDF file, please extract the notes on forklift operator qualification."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.0043",
+        "input_data": [
+            "Table_2_in_English.pdf"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this PDF file, please select the points to consider about safety protection and helmets."
+            }
+        ],
+        "output_format": "text"
+    }    
 ]

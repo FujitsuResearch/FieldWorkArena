@@ -1,0 +1,1614 @@
+[
+    {
+        "id": "2.2.0001",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_06.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers with both hands full? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0002",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_02_39.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers with both hands full? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0003",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_01_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers with both hands full? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0004",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_33.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers with both hands full? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0005",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00_14.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers with both hands full? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0006",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_16.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers bending down, as if to lift or carry an object? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0007",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_15.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers bending down, as if to lift or carry an object? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0008",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers bending down, as if to lift or carry an object? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0009",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_04_44.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers bending down, as if to lift or carry an object? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0010",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_20.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this image show any workers bending down, as if to lift or carry an object? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0011",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_32.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any place where cardboard boxes are piled up to more than 5 meters in height in this image? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0012",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_01_35.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any place where cardboard boxes are piled up to more than 5 meters in height in this image? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0013",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any place where cardboard boxes are piled up to more than 5 meters in height in this image? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0014",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any place where cardboard boxes are piled up to more than 5 meters in height in this image? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0015",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_50.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any place where cardboard boxes are piled up to more than 5 meters in height in this image? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0017",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any workers shown falling down in this image?  If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0018",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_51.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any workers shown falling down in this image?  If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0019",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there any problem behavior that there is a person falling down? If not,  also specify that it is an incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0020",
+        "input_data": [
+            "WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_21.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there any problem behavior that there is a person falling down? If not,  also specify that it is an incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0021",
+        "input_data": [
+            "External_Dock_00_01.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there less than 2 loads carried by a forklift? If not,  also specify that it is an incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0022",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_04_23.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there less than 2 loads carried by a forklift? If not,  also specify that it is an incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0023",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_04_44.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there less than 2 loads carried by a forklift? If not,  also specify that it is an incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0024",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there less than 2 loads carried by a forklift? If not,  also specify that it is an incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0025",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, are there less than 2 loads carried by a forklift? If not,  also specify that it is an incident in your response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0026",
+        "input_data": [
+            "External_Dock_00h00m00s_00h00m07s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the moving speed of the moving forklift in this video? If greater than 2.3 m/s, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0027",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h04m10s_00h04m55s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the moving speed of the moving forklift in this video? If greater than 2.3 m/s, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0028",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h00m30s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the moving speed of the moving forklift in this video? If greater than 2.3 m/s, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0029",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h01m40s_00h02m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the moving speed of the moving forklift in this video? If greater than 2.3 m/s, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0030",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h01m10s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the moving speed of the moving forklift in this video? If greater than 2.3 m/s, also specify the incident in the response."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0031",
+        "input_data": [
+            "External_Dock_00h00m00s_00h00m07s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In which part of this video is there a scene where the moving speed of the forklift exceeds 2.3 m/s? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0032",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h02m50s_00h03m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In which part of this video is there a scene where the moving speed of the forklift exceeds 2.3 m/s? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0033",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h00m30s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In which part of this video is there a scene where the moving speed of the forklift exceeds 2.3 m/s? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0034",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h04m30s_00h05m05s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In which part of this video is there a scene where the moving speed of the forklift exceeds 2.3 m/s? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0035",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m00s_00h00m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In which part of this video is there a scene where the moving speed of the forklift exceeds 2.3 m/s? If so, also specify it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0036",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h00m00s_00h00m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers stand for more than 30 seconds in this video? If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0037",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h02m30s_00h04m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers stand for more than a minute in this video? If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0038",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h04m00s_00h05m28s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers stand for more than a minute in this video? If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0039",
+        "input_data": [
+            "WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_00h00m30s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers stand for more than a minute in this video? If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0040",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h01m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers stand for more than a minute in this video? If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0041",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h02m20s_00h03m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers in this video lift their arms more than 2 times within a minute? If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0042",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h03m00s_00h04m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers in this video lift their arms more than 2 times within a minute? If so, also specify it is an incident in your answer. If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0044",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h02m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers in this video lift their arms more than 3 times within a minute? If so, also specify it is an incident in your answer. If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0045",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h00m00s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many workers in this video lift their arms more than 4 times within a minute? If any such workers are present, please also state that it is an incident in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0046",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_53.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a yellow or orange safety vest. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0047",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a yellow or orange safety vest. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0048",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a yellow or orange safety vest. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0050",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a yellow or orange safety vest. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0051",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_53.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0052",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0053",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0055",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0056",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_03_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means yellow safety vest. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0057",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_41.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means yellow safety vest. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0058",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_33.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means yellow safety vest. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0059",
+        "input_data": [
+            "WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_17.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means yellow safety vest. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0060",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_05_00.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means yellow safety vest. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0061",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_03_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0062",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_41.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0063",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_33.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0064",
+        "input_data": [
+            "WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_17.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0065",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_05_00.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0066",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_53.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a helmet. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0067",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a helmet. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0068",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_27.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a helmet. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0069",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a helmet. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0070",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_37.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? PPE here means a helmet. If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0071",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_53.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0072",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0073",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_27.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0074",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0075",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_37.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there anyone in this image who is not wearing PPE? If so, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0076",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means a helmet. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0077",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_14.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means a helmet. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0078",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_32.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means a helmet. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0079",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means a helmet. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0080",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_47.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? Here, PPE means a helmet. If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0081",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0082",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_14.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0083",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_32.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0084",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0085",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_47.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many people in this image are not wearing PPE? If there is someone who is not wearing it, also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0086",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_06.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0087",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_02_39.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0088",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_01_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0089",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_33.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0090",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00_14.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0091",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_16.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0092",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_15.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0095",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_20.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0096",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_32.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0097",
+        "input_data": [
+            "WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_01_35.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0098",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0099",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_51.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0100",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_50.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0102",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0103",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0104",
+        "input_data": [
+            "WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_21.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any safety violations in this image, such as hands being blocked by cargo, excessively high stacks of discarded materials, workers at risk of falling, or forklift overloading? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0105",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any safety violations in this image, such as hands being blocked by cargo, excessively high stacks of discarded materials, workers at risk of falling, or forklift overloading? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0106",
+        "input_data": [
+            "External_Dock_00_01.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0107",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_04_23.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0108",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_05_00.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0109",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00_05.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0110",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_10.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0111",
+        "input_data": [
+            "External_Dock_00_04.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0112",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_04_42.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0113",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00_45.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it?"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0114",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_03_35.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0115",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_04_31.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this image, is there anyone who is violating such as blocked hands, height of an abandoned object, worker falling over, overloaded forklift, looking away from the driver? If so, what kind of violation is it? And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0116",
+        "input_data": [
+            "External_Dock_00h00m00s_00h00m07s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0117",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h04m10s_00h04m55s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0119",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h01m40s_00h02m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0120",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h01m10s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0122",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h02m50s_00h03m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0123",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h00m30s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0124",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h04m30s_00h05m05s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0125",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h00m00s_00h00m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0126",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h00m00s_00h00m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0127",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h02m30s_00h04m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0128",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h04m00s_00h05m28s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0129",
+        "input_data": [
+            "WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_00h00m30s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0130",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h01m30s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0131",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00h02m20s_00h03m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0132",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h03m00s_00h04m15s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.2.0134",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h00m00s_00h02m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, are there any scenes where safety rules are violated, such as dangerous behavior such as knee extension when lifting objects, forklift moving speed exceeding the standard value of 2.3 m/s, continuous standing work for more than 1 minute, heavy work load with many times lifting objects per unit time? If so, please tell me all the violations detected. And also specify it is a violation in your answer."
+            }
+        ],
+        "output_format": "text"
+    }
+]

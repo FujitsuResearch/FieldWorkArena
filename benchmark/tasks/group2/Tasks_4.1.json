@@ -1,0 +1,223 @@
+[
+    {
+        "id": "4.1.0035",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_53.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image to identify instances where workers are not wearing the required PPE (Personal Protective Equipment). The required PPE is defined as a yellow or orange safety vest.   PPE Violation Detection and Reporting: Analyze the image to identify instances where any worker is not wearing a yellow or orange safety vest. For each violation, describe the location of the worker within the image (e.g., \"Worker in the lower-left corner\"). Generate a JSON report. This report will integrate findings from this analysis and the previous task, avoiding duplicate reporting. Each violation will be represented by a JSON object with the following fields:   \"ID\": A sequentially numbered ID starting from 1060. This sequence continues from the highest ID in the previous task's results. If the previous task reported violations, the next sequential ID will be used. \"Short description\": \"Person without PPE\" \"Description\": A detailed description of the violation, including the location of the worker within the image (e.g., \"Worker in the lower-left corner is not wearing a safety vest\"). \"Category\": \"violation\" \"Image filename\": The name of the input image file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0036",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_28.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image to identify instances where workers are not wearing the required PPE (Personal Protective Equipment). The required PPE is defined as a yellow or orange safety vest.   PPE Violation Detection and Reporting: Analyze the image to identify instances where any worker is not wearing a yellow or orange safety vest. For each violation, describe the location of the worker within the image (e.g., \"Worker in the lower-left corner\"). Generate a JSON report. This report will integrate findings from this analysis and the previous task, avoiding duplicate reporting. Each violation will be represented by a JSON object with the following fields:   \"ID\": A sequentially numbered ID starting from 1060. This sequence continues from the highest ID in the previous task's results. If the previous task reported violations, the next sequential ID will be used. \"Short description\": \"Person without PPE\" \"Description\": A detailed description of the violation, including the location of the worker within the image (e.g., \"Worker in the lower-left corner is not wearing a safety vest\"). \"Category\": \"violation\" \"Image filename\": The name of the input image file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0037",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image to identify instances where workers are not wearing the required PPE (Personal Protective Equipment). The required PPE is defined as a yellow or orange safety vest.   PPE Violation Detection and Reporting: Analyze the image to identify instances where any worker is not wearing a yellow or orange safety vest. For each violation, describe the location of the worker within the image (e.g., \"Worker in the lower-left corner\"). Generate a JSON report. This report will integrate findings from this analysis and the previous task, avoiding duplicate reporting. Each violation will be represented by a JSON object with the following fields:   \"ID\": A sequentially numbered ID starting from 1060. This sequence continues from the highest ID in the previous task's results. If the previous task reported violations, the next sequential ID will be used. \"Short description\": \"Person without PPE\" \"Description\": A detailed description of the violation, including the location of the worker within the image (e.g., \"Worker in the lower-left corner is not wearing a safety vest\"). \"Category\": \"violation\" \"Image filename\": The name of the input image file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0038",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_53.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image to identify instances where workers are not wearing the required PPE (Personal Protective Equipment). The required PPE is defined as a yellow or orange safety vest.   PPE Violation Detection and Reporting: Analyze the image to identify instances where any worker is not wearing a yellow or orange safety vest. For each violation, describe the location of the worker within the image (e.g., \"Worker in the lower-left corner\"). Generate a JSON report. This report will integrate findings from this analysis and the previous task, avoiding duplicate reporting. Each violation will be represented by a JSON object with the following fields:   \"ID\": A sequentially numbered ID starting from 1060. This sequence continues from the highest ID in the previous task's results. If the previous task reported violations, the next sequential ID will be used. \"Short description\": \"Person without PPE\" \"Description\": A detailed description of the violation, including the location of the worker within the image (e.g., \"Worker in the lower-left corner is not wearing a safety vest\"). \"Category\": \"violation\" \"Image filename\": The name of the input image file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0039",
+        "input_data": [
+            "WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the provided image to identify instances where workers are not wearing the required PPE (Personal Protective Equipment). The required PPE is defined as a yellow or orange safety vest.   PPE Violation Detection and Reporting: Analyze the image to identify instances where any worker is not wearing a yellow or orange safety vest. For each violation, describe the location of the worker within the image (e.g., \"Worker in the lower-left corner\"). Generate a JSON report. This report will integrate findings from this analysis and the previous task, avoiding duplicate reporting. Each violation will be represented by a JSON object with the following fields:   \"ID\": A sequentially numbered ID starting from 1060. This sequence continues from the highest ID in the previous task's results. If the previous task reported violations, the next sequential ID will be used. \"Short description\": \"Person without PPE\" \"Description\": A detailed description of the violation, including the location of the worker within the image (e.g., \"Worker in the lower-left corner is not wearing a safety vest\"). \"Category\": \"violation\" \"Image filename\": The name of the input image file."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0040",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_32.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This task analyzes a provided image and procedure document to identify PPE (Personal Protective Equipment) violations. The procedure document outlines PPE requirements. The image shows workers performing a task. The required PPE, as defined in the procedure document, is a helmet.  Procedure Document Analysis: Extract the relevant sections of the procedure document \"Table_2_in_English.pdf\", specifying helmet usage requirements. Identify situations where a helmet is mandatory.  Image Analysis and PPE Violation Detection: Analyze the image to identify instances where workers are not wearing helmets in situations where the procedure document mandates their use. For each violation, describe the location of the worker within the image (e.g., \"Worker in the lower-left corner\").  Violation Report Generation: Generate a JSON report detailing each identified PPE violation. The JSON structure for each violation includes:  \"ID\": A sequentially numbered ID starting from 1060. The sequence continues from the highest ID in the previous task's results. \"Short description\": \"Person without helmet\" \"Description\": A detailed description of the violation, including the location of the worker within the image and a reference to the relevant section of the procedure document if possible (e.g., \"Worker in the lower-left corner is not wearing a helmet, violating procedure section 2.1\"). \"Category\": \"violation\" \"Image filename\": The name of the input image file. \"Procedure document filename\": The name of the input procedure document file (e.g., \"Table_2_in_English.pdf\")."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0041",
+        "input_data": [
+            "Jacket_Vest_Despatch_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This task analyzes a provided image and procedure document to identify PPE (Personal Protective Equipment) violations. The procedure document outlines PPE requirements. The image shows workers performing a task. The required PPE, as defined in the procedure document, is a helmet.  Procedure Document Analysis: Extract the relevant sections of the procedure document \"Table_2_in_English.pdf\", specifying helmet usage requirements. Identify situations where a helmet is mandatory.  Image Analysis and PPE Violation Detection: Analyze the image to identify instances where workers are not wearing helmets in situations where the procedure document mandates their use. For each violation, describe the location of the worker within the image (e.g., \"Worker in the lower-left corner\").  Violation Report Generation: Generate a JSON report detailing each identified PPE violation. The JSON structure for each violation includes:  \"ID\": A sequentially numbered ID starting from 1060. The sequence continues from the highest ID in the previous task's results. \"Short description\": \"Person without helmet\" \"Description\": A detailed description of the violation, including the location of the worker within the image and a reference to the relevant section of the procedure document if possible (e.g., \"Worker in the lower-left corner is not wearing a helmet, violating procedure section 2.1\"). \"Category\": \"violation\" \"Image filename\": The name of the input image file. \"Procedure document filename\": The name of the input procedure document file (e.g., \"Table_2_in_English.pdf\")."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0042",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_16.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Man-powered Transportation Work\" from the procedure document. These precautions will serve as the basis for evaluating worker actions in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where workers deviate from the extracted safety precautions. Specifically, focus on instances where workers are bending down to lift or carry objects, paying close attention to whether they are following the guidelines for safe lifting techniques (e.g., proper posture, avoiding lifting excessively heavy objects). Record the timestamps of any deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe manual material handling procedures. Integrate findings from this analysis and the previous task, avoiding duplicate reporting. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0010. The sequence continues from the highest ID in the previous task's results. \"Short description\" : \"Improper manual material handling\" \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document (e.g., \"Worker bent down to lift a heavy object without bending knees, violating precaution ⑨ at 00:00:10\"). \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file (e.g., \"Table_2_in_English.pdf\")."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0043",
+        "input_data": [
+            "WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_15.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Man-powered Transportation Work\" from the procedure document. These precautions will serve as the basis for evaluating worker actions in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where workers deviate from the extracted safety precautions. Specifically, focus on instances where workers are bending down to lift or carry objects, paying close attention to whether they are following the guidelines for safe lifting techniques (e.g., proper posture, avoiding lifting excessively heavy objects). Record the timestamps of any deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe manual material handling procedures. Integrate findings from this analysis and the previous task, avoiding duplicate reporting. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0010. The sequence continues from the highest ID in the previous task's results. \"Short description\" : \"Improper manual material handling\" \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document (e.g., \"Worker bent down to lift a heavy object without bending knees, violating precaution ⑨ at 00:00:10\"). \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file (e.g., \"Table_2_in_English.pdf\")."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0044",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_30.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Man-powered Transportation Work\" from the procedure document. These precautions will serve as the basis for evaluating worker actions in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where workers deviate from the extracted safety precautions. Specifically, focus on instances where workers are bending down to lift or carry objects, paying close attention to whether they are following the guidelines for safe lifting techniques (e.g., proper posture, avoiding lifting excessively heavy objects). Record the timestamps of any deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe manual material handling procedures. Integrate findings from this analysis and the previous task, avoiding duplicate reporting. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0010. The sequence continues from the highest ID in the previous task's results. \"Short description\" : \"Improper manual material handling\" \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document (e.g., \"Worker bent down to lift a heavy object without bending knees, violating precaution ⑨ at 00:00:10\"). \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file (e.g., \"Table_2_in_English.pdf\")."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0045",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_04_44.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Man-powered Transportation Work\" from the procedure document. These precautions will serve as the basis for evaluating worker actions in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where workers deviate from the extracted safety precautions. Specifically, focus on instances where workers are bending down to lift or carry objects, paying close attention to whether they are following the guidelines for safe lifting techniques (e.g., proper posture, avoiding lifting excessively heavy objects). Record the timestamps of any deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe manual material handling procedures. Integrate findings from this analysis and the previous task, avoiding duplicate reporting. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0010. The sequence continues from the highest ID in the previous task's results. \"Short description\" : \"Improper manual material handling\" \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document (e.g., \"Worker bent down to lift a heavy object without bending knees, violating precaution ⑨ at 00:00:10\"). \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file (e.g., \"Table_2_in_English.pdf\")."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0046",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_20.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Forklift Work\" from the provided procedure document (\"Warehouse_Management_Chiefs'_Manual.pdf\"). These precautions will serve as the basis for evaluating forklift operation in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where the forklift operation deviates from the extracted safety precautions. Specifically, focus on:  Speed: Determine the forklift's speed. If it exceeds 2.3 m/s, flag it as a deviation. Other Precautions: Identify any other violations of the extracted safety precautions (e.g., improper loading, failure to follow stopping procedures). Record the timestamps of all deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe forklift operation procedures. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0050. The sequence continues from the highest ID in the previous task's results. \"Short description\" : A concise description of the incident (e.g., \"Excessive forklift speed\", \"Improper forklift stopping procedure\"). \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document. \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file. \"Violated precaution\" (optional): A more detailed description of the violated precaution from the procedure document."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0047",
+        "input_data": [
+            "External_Dock_00h00m00s_00h00m07s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Forklift Work\" from the provided procedure document (\"Warehouse_Management_Chiefs'_Manual.pdf\"). These precautions will serve as the basis for evaluating forklift operation in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where the forklift operation deviates from the extracted safety precautions. Specifically, focus on:  Speed: Determine the forklift's speed. If it exceeds 2.3 m/s, flag it as a deviation. Other Precautions: Identify any other violations of the extracted safety precautions (e.g., improper loading, failure to follow stopping procedures). Record the timestamps of all deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe forklift operation procedures. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0050. The sequence continues from the highest ID in the previous task's results. \"Short description\" : A concise description of the incident (e.g., \"Excessive forklift speed\", \"Improper forklift stopping procedure\"). \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document. \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file. \"Violated precaution\" (optional): A more detailed description of the violated precaution from the procedure document."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0048",
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00h04m10s_00h04m55s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Forklift Work\" from the provided procedure document (\"Warehouse_Management_Chiefs'_Manual.pdf\"). These precautions will serve as the basis for evaluating forklift operation in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where the forklift operation deviates from the extracted safety precautions. Specifically, focus on:  Speed: Determine the forklift's speed. If it exceeds 2.3 m/s, flag it as a deviation. Other Precautions: Identify any other violations of the extracted safety precautions (e.g., improper loading, failure to follow stopping procedures). Record the timestamps of all deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe forklift operation procedures. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0050. The sequence continues from the highest ID in the previous task's results. \"Short description\" : A concise description of the incident (e.g., \"Excessive forklift speed\", \"Improper forklift stopping procedure\"). \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document. \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file. \"Violated precaution\" (optional): A more detailed description of the violated precaution from the procedure document."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0049",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h00m30s_00h01m00s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Forklift Work\" from the provided procedure document (\"Warehouse_Management_Chiefs'_Manual.pdf\"). These precautions will serve as the basis for evaluating forklift operation in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where the forklift operation deviates from the extracted safety precautions. Specifically, focus on:  Speed: Determine the forklift's speed. If it exceeds 2.3 m/s, flag it as a deviation. Other Precautions: Identify any other violations of the extracted safety precautions (e.g., improper loading, failure to follow stopping procedures). Record the timestamps of all deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe forklift operation procedures. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0050. The sequence continues from the highest ID in the previous task's results. \"Short description\" : A concise description of the incident (e.g., \"Excessive forklift speed\", \"Improper forklift stopping procedure\"). \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document. \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file. \"Violated precaution\" (optional): A more detailed description of the violated precaution from the procedure document."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0050",
+        "input_data": [
+            "WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00h01m40s_00h02m10s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Forklift Work\" from the provided procedure document (\"Warehouse_Management_Chiefs'_Manual.pdf\"). These precautions will serve as the basis for evaluating forklift operation in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where the forklift operation deviates from the extracted safety precautions. Specifically, focus on:  Speed: Determine the forklift's speed. If it exceeds 2.3 m/s, flag it as a deviation. Other Precautions: Identify any other violations of the extracted safety precautions (e.g., improper loading, failure to follow stopping procedures). Record the timestamps of all deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe forklift operation procedures. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0050. The sequence continues from the highest ID in the previous task's results. \"Short description\" : A concise description of the incident (e.g., \"Excessive forklift speed\", \"Improper forklift stopping procedure\"). \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document. \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file. \"Violated precaution\" (optional): A more detailed description of the violated precaution from the procedure document."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "4.1.0051",
+        "input_data": [
+            "WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00h01m10s_00h01m40s.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1. Procedure Document Analysis: Extract the safety precautions for \"Forklift Work\" from the provided procedure document (\"Warehouse_Management_Chiefs'_Manual.pdf\"). These precautions will serve as the basis for evaluating forklift operation in the video.  2. Video Analysis and Procedure Adherence Check: Analyze the video clip to identify instances where the forklift operation deviates from the extracted safety precautions. Specifically, focus on:  Speed: Determine the forklift's speed. If it exceeds 2.3 m/s, flag it as a deviation. Other Precautions: Identify any other violations of the extracted safety precautions (e.g., improper loading, failure to follow stopping procedures). Record the timestamps of all deviations.  3. Incident Report Generation: Generate a JSON report for each identified deviation from the safe forklift operation procedures. The JSON structure for each incident includes:  \"ID\" : A sequentially numbered ID starting from 0050. The sequence continues from the highest ID in the previous task's results. \"Short description\" : A concise description of the incident (e.g., \"Excessive forklift speed\", \"Improper forklift stopping procedure\"). \"Description\" : A detailed description of the deviation, including the timestamp(s) from the video and a reference to the violated safety precaution from the procedure document. \"Category\" : \"incident\" \"Video filename\" : The name of the input video file. \"Procedure document filename\" : The name of the input procedure document file. \"Violated precaution\" (optional): A more detailed description of the violated precaution from the procedure document."
+            }
+        ],
+        "output_format": "text"
+    }
+]

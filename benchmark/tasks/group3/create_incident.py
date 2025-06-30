@@ -67,8 +67,8 @@ class CreateIncidentWithRetrievedInfoTask(GenericNewRecordTask):
                     f' for field "{config["fields"][f]}"' for f in self.retrieve_fields
                 ]
             )
-            + "."
-            "otherwise, do report_infeasible()."
+            + ". Also upload the file in the attachment field. " 
+            + "otherwise, do report_infeasible()."
         )
 
         #print(goal)
@@ -219,6 +219,11 @@ class CreateIncidentWithRetrievedInfoTask(GenericNewRecordTask):
             "Nice work, thank you!",
             {"message": "The record was successfully created."},
         )
+
+    # def teardown(self):
+    #     # only use for debug
+    #     return 
+    
 
 if __name__ == "__main__":
     print("ok")

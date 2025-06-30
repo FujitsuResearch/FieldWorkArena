@@ -230,14 +230,14 @@
         "input_data": [
             "West5_Checkmask_1_00h04m20s_00h04m40s.mp4",
             "West5_Checkmask_1_00h11m10s_00h11m30s.mp4",
-            "West5_checkmask_3_00h07m40s_00h08m20s.mp4",
-            "West5_checkmask_2_00h25m55s_00h27m00s.mp4",
-            "West5_checkmask_4_00h19m10s_00h19m50s.mp4"
+            "West5_Checkmask_3_00h07m40s_00h08m20s.mp4",
+            "West5_Checkmask_2_00h25m55s_00h27m00s.mp4",
+            "West5_Checkmask_4_00h19m10s_00h19m50s.mp4"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "First, analyze each video clip (West5_Checkmask_1_00h04m20s_00h04m40s.mp4, West5_Checkmask_1_00h11m10s_00h11m30s.mp4, West5_checkmask_3_00h07m40s_00h08m20s.mp4, West5_checkmask_2_00h25m55s_00h27m00s.mp4, West5_checkmask_4_00h19m10s_00h19m50s.mp4) to determine if the operator uses a check mask to inspect the product at any point during the clip. If a check mask is not used at any point, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1110), short description (\"Check mask not used\"), description (e.g., \"In [videoclip_filename].mp4, the operator did not use a check mask.\"), and video filename."
+                "value": "First, analyze each video clip (West5_Checkmask_1_00h04m20s_00h04m40s.mp4, West5_Checkmask_1_00h11m10s_00h11m30s.mp4, West5_Checkmask_3_00h07m40s_00h08m20s.mp4, West5_Checkmask_2_00h25m55s_00h27m00s.mp4, West5_Checkmask_4_00h19m10s_00h19m50s.mp4) to determine if the operator uses a check mask to inspect the product at any point during the clip. If a check mask is not used at any point, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1110), short description (\"Check mask not used\"), description (e.g., \"In [videoclip_filename].mp4, the operator did not use a check mask.\"), and video filename."
             }
         ],
         "output_format": "json"
@@ -421,19 +421,6 @@
             {
                 "from": "human",
                 "value": "First, analyze each image and video clip (North1_C3_187_3_09.30.10_05_10.jpg) to estimate the minimum distance between the cart and the nearest worker. If this distance is less than 1 meter, flag it as a violation.   Next, report the findings as follows: Begin by stating the total number of violations. Then, for each violation, provide the following information in a structured format (e.g., JSON, CSV, or a table): ID (sequentially numbered from 1120), short description (\"Distance violation\"), description (e.g., \"In [filename].jpg/[filename].mp4, the distance between the worker and the cart was less than 1 meter.\"), and filename (including the file extension)."
-            }
-        ],
-        "output_format": "json"
-    },
-    {
-        "id": "4.2.0027",
-        "input_data": [
-            "North1_1_02_15.jpg"
-        ],
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Step 1: Distance Measurement: Analyze each image (North1_1_02_15.jpg) to determine the distance between each worker and the nearest piece of equipment.   Step 2: Incident Report Generation: If the distance measured in Step 1 is less than 0.5 meters, flag it as a violation. Report the findings as follows: First, state the total number of violations. Then, for each violation, provide the following information: ID (sequentially numbered from 1140), short description (\"Distance violation\"), description (e.g., \"In [image_filename].jpg, the distance between the worker and the nearest equipment was less than 0.5 meters.\"), and image filename."
             }
         ],
         "output_format": "json"

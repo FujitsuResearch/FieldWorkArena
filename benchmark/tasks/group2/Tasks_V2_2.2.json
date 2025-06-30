@@ -1,0 +1,483 @@
+[
+    {
+        "id": "2.1.2126",
+        "input_data": [
+            "Cam018-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Out of Stock\" if the target product is taken from the shelf a specified number of times by the custmers. Report when it was, as an incident. The time must be output from the time of the movie itself. If the count is less than the specified number at the end of the video, report \"Out of Stock Not Detected\". Do not count when the product is placed back. Target product : light olive-colored box. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2127",
+        "input_data": [
+            "Cam018-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Out of Stock\" if the target product is taken from the shelf a specified number of times by the custmers. Report when it was, as an incident. The time must be output from the time of the movie itself. If the count is less than the specified number at the end of the video, report \"Out of Stock Not Detected\". Do not count when the product is placed back. Target product : light olive-colored box. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2128",
+        "input_data": [
+            "Cam018-OutofStock3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Out of Stock\" if the target product is taken from the shelf a specified number of times by the custmers. Report when it was, as an incident. The time must be output from the time of the movie itself. If the count is less than the specified number at the end of the video, report \"Out of Stock Not Detected\". Do not count when the product is placed back. Target product : light olive-colored box. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2129",
+        "input_data": [
+            "Cam1021-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Out of Stock\" if the target product is taken from the shelf a specified number of times by the custmers. Report when it was, as an incident. The time must be output from the time of the movie itself. If the count is less than the specified number at the end of the video, report \"Out of Stock Not Detected\". Do not count when the product is placed back. Target product : can of beer. specified number : 12"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2130",
+        "input_data": [
+            "Cam1022-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Out of Stock\" if the target product is taken from the shelf a specified number of times by the custmers. Report when it was, based on the video timeline. This is an incident. If the count is less than the specified number at the end of the video, report \"Out of Stock Not Detected\". Do not count when the product is placed back. Target product : can of beer. specified number : 12"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2131",
+        "input_data": [
+            "Cam1051-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Out of Stock\" if the target product is taken from the shelf a specified number of times by the custmers. Report when it was, based on the video timeline. This is an incident. If the count is less than the specified number at the end of the video, report \"Out of Stock Not Detected\". Do not count when the product is placed back. Target product : bread packaged in a plastic bag. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2132",
+        "input_data": [
+            "Cam1052-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Out of Stock\" if the target product is taken from the shelf a specified number of times by the custmers. Report when it was, based on the video timeline. This is an incident. If the count is less than the specified number at the end of the video, report \"Out of Stock Not Detected\". Do not count when the product is placed back. Target product : bread packaged in a plastic bag. specified number : 5"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2133",
+        "input_data": [
+            "Cam018-Drop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : light olive-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2134",
+        "input_data": [
+            "Cam018-Drop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : light olive-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2135",
+        "input_data": [
+            "Cam018-Drop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : light olive-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2136",
+        "input_data": [
+            "Cam018-Drop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : light olive-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2137",
+        "input_data": [
+            "Cam018-Drop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : light olive-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2138",
+        "input_data": [
+            "Cam018-Drop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : light olive-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2139",
+        "input_data": [
+            "Cam018-Drop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : light olive-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2140",
+        "input_data": [
+            "Cam1071-Drop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : purple-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2141",
+        "input_data": [
+            "Cam1071-Drop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : purple-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2142",
+        "input_data": [
+            "Cam1071-Drop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : purple-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2143",
+        "input_data": [
+            "Cam1071-Drop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : purple-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2144",
+        "input_data": [
+            "Cam1071-Drop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, report \"Product Dropped\" if the target product dropped by a custmer and was not returned within a specified seconds. Report the time when product was dropped, as an incident. The time must be output from the time of the movie itself.  Target product : purple-colored box. specified second : 10"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2145",
+        "input_data": [
+            "Cam012-HeatMap1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, detect the XY pixel coordinates of the product shelf each time a customer takes a product and create a list based on the count. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2146",
+        "input_data": [
+            "Cam012-HeatMap2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, detect the XY pixel coordinates of the product shelf each time a customer takes a product and create a list based on the count. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2147",
+        "input_data": [
+            "Cam012-HeatMap3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, detect the XY pixel coordinates of the product shelf each time a customer takes a product and create a list based on the count. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2148",
+        "input_data": [
+            "Cam017-HeatMap1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, detect the XY pixel coordinates of the product shelf each time a customer takes a product and create a list based on the count. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2149",
+        "input_data": [
+            "Cam017-HeatMap2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, detect the XY pixel coordinates of the product shelf each time a customer takes a product and create a list based on the count. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2150",
+        "input_data": [
+            "Cam017-HeatMap3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, detect the XY pixel coordinates of the product shelf each time a customer takes a product and create a list based on the count. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2151",
+        "input_data": [
+            "Cam1052-DS_stop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2152",
+        "input_data": [
+            "Cam1052-DS_stop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2153",
+        "input_data": [
+            "Cam1052-DS_stop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2154",
+        "input_data": [
+            "Cam1052-DS_stop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2155",
+        "input_data": [
+            "Cam1052-DS_stop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2156",
+        "input_data": [
+            "Cam1052-DS_stop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2157",
+        "input_data": [
+            "Cam1052-DS_stop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2158",
+        "input_data": [
+            "Cam1052-DS_stop7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2159",
+        "input_data": [
+            "Cam1052-DS_stop8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2160",
+        "input_data": [
+            "Cam1052-DS_stop9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2161",
+        "input_data": [
+            "Cam1052-DS_stop10.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2162",
+        "input_data": [
+            "Cam1052-DS_stop11.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer enters the area where this tablet is visible (including passing through or stopping). Tablet location: pixel coordinates (1150, 320)."
+            }
+        ],
+        "output_format": "text"
+    }
+]

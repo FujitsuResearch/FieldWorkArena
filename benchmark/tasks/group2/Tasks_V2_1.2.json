@@ -1,0 +1,1224 @@
+[
+    {
+        "id": "1.1.2105",
+        "input_data": [
+            "Cam018-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2106",
+        "input_data": [
+            "Cam018-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2107",
+        "input_data": [
+            "Cam018-OutofStock3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2108",
+        "input_data": [
+            "Cam1021-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product : can of beer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2109",
+        "input_data": [
+            "Cam1022-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product : can of beer."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2110",
+        "input_data": [
+            "Cam1051-OutofStock1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product :  bread packaged in a plastic bag."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2111",
+        "input_data": [
+            "Cam1052-OutofStock2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product :  bread packaged in a plastic bag."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2112",
+        "input_data": [
+            "Cam018-Drop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2113",
+        "input_data": [
+            "Cam018-Drop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2114",
+        "input_data": [
+            "Cam018-Drop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2115",
+        "input_data": [
+            "Cam018-Drop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2116",
+        "input_data": [
+            "Cam018-Drop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2117",
+        "input_data": [
+            "Cam018-Drop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2118",
+        "input_data": [
+            "Cam018-Drop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2119",
+        "input_data": [
+            "Cam018-Drop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2120",
+        "input_data": [
+            "Cam018-Drop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2121",
+        "input_data": [
+            "Cam018-Drop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2122",
+        "input_data": [
+            "Cam018-Drop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2123",
+        "input_data": [
+            "Cam018-Drop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2124",
+        "input_data": [
+            "Cam018-Drop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2125",
+        "input_data": [
+            "Cam018-Drop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : light olive-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2126",
+        "input_data": [
+            "Cam1071-Drop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2127",
+        "input_data": [
+            "Cam1071-Drop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2128",
+        "input_data": [
+            "Cam1071-Drop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2129",
+        "input_data": [
+            "Cam1071-Drop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2130",
+        "input_data": [
+            "Cam1071-Drop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2131",
+        "input_data": [
+            "Cam1071-Drop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2132",
+        "input_data": [
+            "Cam1071-Drop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2133",
+        "input_data": [
+            "Cam1071-Drop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2134",
+        "input_data": [
+            "Cam1071-Drop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer dropped the target product. The time must be output from the time of the movie itself. If the specified work is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2135",
+        "input_data": [
+            "Cam1071-Drop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, at what time does the customer complete returning the dropped taeget product. The time must be output from the time of the movie itself. If the specified action is not found in the video, report so. Target product : purple-colored box."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2136",
+        "input_data": [
+            "Cam012-HeatMap1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take a product from the shelf, and report the number. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2137",
+        "input_data": [
+            "Cam012-HeatMap2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take a product from the shelf, and report the number. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2138",
+        "input_data": [
+            "Cam012-HeatMap3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take a product from the shelf, and report the number. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2139",
+        "input_data": [
+            "Cam017-HeatMap1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take a product from the shelf, and report the number. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2140",
+        "input_data": [
+            "Cam017-HeatMap2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take a product from the shelf, and report the number. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2141",
+        "input_data": [
+            "Cam017-HeatMap3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, count how many times customers take a product from the shelf, and report the number. Do not count when the product is placed back."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2142",
+        "input_data": [
+            "Cam1011-Smartphone0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2143",
+        "input_data": [
+            "Cam1011-Smartphone0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2144",
+        "input_data": [
+            "Cam1011-Smartphone1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2145",
+        "input_data": [
+            "Cam1011-Smartphone1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2146",
+        "input_data": [
+            "Cam1011-Smartphone2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2147",
+        "input_data": [
+            "Cam1011-Smartphone2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2148",
+        "input_data": [
+            "Cam1011-Smartphone3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2149",
+        "input_data": [
+            "Cam1011-Smartphone3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2150",
+        "input_data": [
+            "Cam1011-Smartphone4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2151",
+        "input_data": [
+            "Cam1011-Smartphone4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2152",
+        "input_data": [
+            "Cam1011-Smartphone5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2153",
+        "input_data": [
+            "Cam1011-Smartphone5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2154",
+        "input_data": [
+            "Cam1011-Smartphone6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2155",
+        "input_data": [
+            "Cam1011-Smartphone6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2156",
+        "input_data": [
+            "Cam1011-Smartphone7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2157",
+        "input_data": [
+            "Cam1011-Smartphone7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2158",
+        "input_data": [
+            "Cam1011-Smartphone8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2159",
+        "input_data": [
+            "Cam1011-Smartphone8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2160",
+        "input_data": [
+            "Cam1012-Chat0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2161",
+        "input_data": [
+            "Cam1012-Chat0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2162",
+        "input_data": [
+            "Cam1012-Chat0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2163",
+        "input_data": [
+            "Cam1012-Chat1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2164",
+        "input_data": [
+            "Cam1012-Chat1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2165",
+        "input_data": [
+            "Cam1012-Chat1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2166",
+        "input_data": [
+            "Cam1012-Chat2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2167",
+        "input_data": [
+            "Cam1012-Chat2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2168",
+        "input_data": [
+            "Cam1012-Chat2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2169",
+        "input_data": [
+            "Cam1012-Chat3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2170",
+        "input_data": [
+            "Cam1012-Chat3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2171",
+        "input_data": [
+            "Cam1012-Chat3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2172",
+        "input_data": [
+            "Cam1012-Chat4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2173",
+        "input_data": [
+            "Cam1012-Chat4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2174",
+        "input_data": [
+            "Cam1012-Chat4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2175",
+        "input_data": [
+            "Cam1052-DS_stop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2176",
+        "input_data": [
+            "Cam1052-DS_stop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2177",
+        "input_data": [
+            "Cam1052-DS_stop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2178",
+        "input_data": [
+            "Cam1052-DS_stop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2179",
+        "input_data": [
+            "Cam1052-DS_stop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2180",
+        "input_data": [
+            "Cam1052-DS_stop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2181",
+        "input_data": [
+            "Cam1052-DS_stop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2182",
+        "input_data": [
+            "Cam1052-DS_stop7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2183",
+        "input_data": [
+            "Cam1052-DS_stop8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2184",
+        "input_data": [
+            "Cam1052-DS_stop9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2185",
+        "input_data": [
+            "Cam1052-DS_stop10.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2186",
+        "input_data": [
+            "Cam1052-DS_stop11.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer stays in front of this tablet. Tablet location: pixel coordinates (1150, 320). Definition of stay : more than 10seconds."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2187",
+        "input_data": [
+            "Cam1052-DS_stop0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2188",
+        "input_data": [
+            "Cam1052-DS_stop1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2189",
+        "input_data": [
+            "Cam1052-DS_stop2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2190",
+        "input_data": [
+            "Cam1052-DS_stop3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2191",
+        "input_data": [
+            "Cam1052-DS_stop4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2192",
+        "input_data": [
+            "Cam1052-DS_stop5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2193",
+        "input_data": [
+            "Cam1052-DS_stop6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2194",
+        "input_data": [
+            "Cam1052-DS_stop7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2195",
+        "input_data": [
+            "Cam1052-DS_stop8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2196",
+        "input_data": [
+            "Cam1052-DS_stop9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2197",
+        "input_data": [
+            "Cam1052-DS_stop10.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "1.1.2198",
+        "input_data": [
+            "Cam1052-DS_stop11.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a tablet displaying a commercial for the target product. Detect whether a customer buys the target product. Definition of buy : Taking the product and carrying it away is defined as buying. Tablet location: pixel coordinates (1150, 320). Target product :bread packaged in a plastic bag"
+            }
+        ],
+        "output_format": "text"
+    }
+]
