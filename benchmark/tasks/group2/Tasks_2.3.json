@@ -7,7 +7,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+                "value": "In this video, is the operator using the electric screwdriver with the green label to tighten the 4 screws properly?"
             }
         ],
         "output_format": "text"
@@ -20,7 +20,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+                "value": "In this video, is the operator using the electric screwdriver with the green label to tighten the 4 screws properly?"
             }
         ],
         "output_format": "text"
@@ -33,7 +33,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+                "value": "In this video, is the operator using the electric screwdriver with the green label to tighten the 4 screws properly?"
             }
         ],
         "output_format": "text"
@@ -46,7 +46,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 4 screws properly? If not, also specify the incident in your response."
+                "value": "In this video, is the operator using the electric screwdriver with the green label to tighten the 4 screws properly?"
             }
         ],
         "output_format": "text"
@@ -59,7 +59,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video is the operator using the electric screwdriver with the green label to tighten the 1 screws properly? If not, also specify the incident in your response."
+                "value": "In this video, is the operator using the electric screwdriver with the green label to tighten the 1 screws properly?"
             }
         ],
         "output_format": "text"
@@ -72,7 +72,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+                "value": "In this video, does the operator use a check mask to inspect the product?"
             }
         ],
         "output_format": "text"
@@ -85,7 +85,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+                "value": "In this video, does the operator use a check mask to inspect the product?"
             }
         ],
         "output_format": "text"
@@ -98,7 +98,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+                "value": "In this video, does the operator use a check mask to inspect the product?"
             }
         ],
         "output_format": "text"
@@ -111,7 +111,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+                "value": "In this video, does the operator use a check mask to inspect the product?"
             }
         ],
         "output_format": "text"
@@ -124,7 +124,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video does the operator use a check mask to inspect the product? If not, also specify the incident in your response."
+                "value": "In this video, does the operator use a check mask to inspect the product?"
             }
         ],
         "output_format": "text"
@@ -137,7 +137,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+                "value": "Are the workers wearing aprons in this image?"
             }
         ],
         "output_format": "text"
@@ -150,7 +150,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+                "value": "Are the workers wearing aprons in this image?"
             }
         ],
         "output_format": "text"
@@ -163,7 +163,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+                "value": "Are the workers wearing aprons in this image?"
             }
         ],
         "output_format": "text"
@@ -176,7 +176,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+                "value": "Are the workers wearing aprons in this image?"
             }
         ],
         "output_format": "text"
@@ -189,7 +189,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing aprons in this image? If not, also specify the incident in your response."
+                "value": "Are the workers wearing aprons in this image?"
             }
         ],
         "output_format": "text"
@@ -202,7 +202,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?  If not, also specify the incident in your response."
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?"
             }
         ],
         "output_format": "text"
@@ -215,7 +215,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?  If not, also specify the incident in your response."
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?"
             }
         ],
         "output_format": "text"
@@ -228,7 +228,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?  If not, also specify the incident in your response."
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?"
             }
         ],
         "output_format": "text"
@@ -241,7 +241,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing long-sleeved shirts/clothing in this image? If not, also specify the incident in your response."
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?"
             }
         ],
         "output_format": "text"
@@ -254,7 +254,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Are the workers wearing long-sleeved shirts/clothing in this image? If not, also specify the incident in your response."
+                "value": "Are the workers wearing long-sleeved shirts/clothing in this image?"
             }
         ],
         "output_format": "text"
@@ -267,7 +267,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the distance between the cart next to the worker and the worker crouching on the left side of the aisle in the image? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "What is the distance between the cart next to the worker and the worker crouching on the left side of the aisle in the image?"
             }
         ],
         "output_format": "text"
@@ -280,7 +280,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How far is the worker on the right side of the image from the cart pulled by another worker? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "How far is the worker on the right side of the image from the cart pulled by another worker?"
             }
         ],
         "output_format": "text"
@@ -293,7 +293,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How far is the cart from the worker who is squatting near the blue cart in the center of the image? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "How far is the cart from the worker who is squatting near the blue cart in the center of the image?"
             }
         ],
         "output_format": "text"
@@ -306,7 +306,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How far is the blue cart from the person walking down the center of the aisle in this image? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "How far is the blue cart from the person walking down the center of the aisle in this image?"
             }
         ],
         "output_format": "text"
@@ -319,7 +319,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How far is the cart in the right-hand aisle from the person walking in the left-hand aisle in this image? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "How far is the cart in the right-hand aisle from the person walking in the left-hand aisle in this image?"
             }
         ],
         "output_format": "text"
@@ -332,7 +332,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the distance between the cart next to the worker and the worker crouching on the left side of the aisle in the image less than 1 meters? If so, also specify it is a violation in your answer."
+                "value": "Is the distance between the cart next to the worker and the worker crouching on the left side of the aisle in the image less than 1 meters?"
             }
         ],
         "output_format": "text"
@@ -345,7 +345,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the distance between the worker on the right side of the image and the cart pulled by another worker less than 1 meter? If so, also specify it is a violation in your answer."
+                "value": "Is the distance between the worker on the right side of the image and the cart pulled by another worker less than 1 meter?"
             }
         ],
         "output_format": "text"
@@ -358,7 +358,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the distance between the worker squatting near the blue cart in the center of the image and the cart less than 1.0 meters? If so, also specify it is a violation in your answer."
+                "value": "Is the distance between the worker squatting near the blue cart in the center of the image and the cart less than 1.0 meters?"
             }
         ],
         "output_format": "text"
@@ -371,7 +371,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the distance between the blue cart and the person walking down the center of the aisle in this image less than 1.0 meters? If so, also specify it is a violation in your answer."
+                "value": "Is the distance between the blue cart and the person walking down the center of the aisle in this image less than 1.0 meters?"
             }
         ],
         "output_format": "text"
@@ -384,7 +384,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the distance between the cart in the right-hand aisle and the person walking in the left-hand aisle in this image less than 1.0 meters? If so, also specify it is a violation in your answer."
+                "value": "Is the distance between the cart in the right-hand aisle and the person walking in the left-hand aisle in this image less than 1.0 meters?"
             }
         ],
         "output_format": "text"
@@ -397,7 +397,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker crouching while working in this video? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker crouching while working in this video?"
             }
         ],
         "output_format": "text"
@@ -410,7 +410,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the minimum distance between the worker on the right side of the screen and the cart pulled by another worker nearby? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "In this video, what is the minimum distance between the worker on the right side of the screen and the cart pulled by another worker nearby?"
             }
         ],
         "output_format": "text"
@@ -423,7 +423,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance in meters between the blue cart being pushed by a worker and the worker crouching while working in this video? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "What is the minimum distance in meters between the blue cart being pushed by a worker and the worker crouching while working in this video?"
             }
         ],
         "output_format": "text"
@@ -436,7 +436,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker working on the right side of the aisle in this video? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker working on the right side of the aisle in this video?"
             }
         ],
         "output_format": "text"
@@ -449,7 +449,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker walking through the aisle on the left in this video? If it is less than 1 meter, please specify the violation in your answer."
+                "value": "What is the minimum distance in meters between the AGV being pushed by a worker and the worker walking through the aisle on the left in this video?"
             }
         ],
         "output_format": "text"
@@ -462,7 +462,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker crouching while working in this video less than 1 meter? If so, also specify it is a violation in your answer."
+                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker crouching while working in this video less than 1 meter?"
             }
         ],
         "output_format": "text"
@@ -475,7 +475,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, is the minimum distance between the worker on the right side of the screen and the cart pulled by another worker nearby less than 1 meter? If so, also specify it is a violation in your answer."
+                "value": "In this video, is the minimum distance between the worker on the right side of the screen and the cart pulled by another worker nearby less than 1 meter?"
             }
         ],
         "output_format": "text"
@@ -488,7 +488,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the minimum distance between the blue cart being pushed by a worker and the worker crouching while working in this video less than 1 meter? If so, also specify it is a violation in your answer."
+                "value": "Is the minimum distance between the blue cart being pushed by a worker and the worker crouching while working in this video less than 1 meter?"
             }
         ],
         "output_format": "text"
@@ -501,7 +501,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker working on the right side of the aisle in this video less than 1 meter? If so, also specify it is a violation in your answer."
+                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker working on the right side of the aisle in this video less than 1 meter?"
             }
         ],
         "output_format": "text"
@@ -514,7 +514,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker walking through the aisle on the left in this video less than 1 meter? If so, also specify it is a violation in your answer."
+                "value": "Is the minimum distance between the AGV being pushed by a worker and the worker walking through the aisle on the left in this video less than 1 meter?"
             }
         ],
         "output_format": "text"
@@ -527,7 +527,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -540,7 +540,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -553,7 +553,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -566,7 +566,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -579,7 +579,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -592,7 +592,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -605,7 +605,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -618,7 +618,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -631,7 +631,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -644,7 +644,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment? If less than 0.5 meters, also specify incident in the response."
+                "value": "What's the distance in this image between the worker in the passageway and the nearest equipment?"
             }
         ],
         "output_format": "text"
@@ -657,7 +657,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -670,7 +670,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -683,7 +683,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (482,280), (592,280), (482,600), and (592,600) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -696,7 +696,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -709,7 +709,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -722,7 +722,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -735,7 +735,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -748,7 +748,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (580,270), (640,270), (580,468), and (640,468) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -761,7 +761,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -774,7 +774,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -787,7 +787,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (482,280), (592,280), (482,600), and (592,600)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -800,7 +800,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -813,7 +813,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -826,7 +826,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -839,7 +839,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -852,7 +852,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (580,270), (640,270), (580,468), and (640,468)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -865,7 +865,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -878,7 +878,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -891,7 +891,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -904,7 +904,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -917,7 +917,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -930,7 +930,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? If not, also specify the incident in the response."
+                "value": "Is a worker located within the area defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -943,7 +943,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -956,7 +956,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -969,7 +969,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1042,266), (1136,266), (1042,580), and (1136,580)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -982,7 +982,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -995,7 +995,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1008,7 +1008,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? If longer than 1 second, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker visible within the bounding box defined by coordinates (1090,256), (1182,256), (1090,504), and (1182,504)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1021,7 +1021,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1034,7 +1034,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1047,7 +1047,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1060,7 +1060,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1073,7 +1073,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1086,7 +1086,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1099,7 +1099,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1112,7 +1112,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1125,7 +1125,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1138,7 +1138,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? If not, also specify the incident in the response."
+                "value": "Is there a worker facing left within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291) in this image? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1151,7 +1151,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1164,7 +1164,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1177,7 +1177,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1190,7 +1190,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1203,7 +1203,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1216,7 +1216,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (178,162), (304,162), (178,462), and (304,462)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1229,7 +1229,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1242,7 +1242,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1255,7 +1255,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"
@@ -1268,7 +1268,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? If less than 5 seconds, also specify the incident in the response."
+                "value": "How many seconds in this video is a worker facing left present within the area defined by coordinates (553,69), (647,69), (553,291), and (647,291)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
             }
         ],
         "output_format": "text"

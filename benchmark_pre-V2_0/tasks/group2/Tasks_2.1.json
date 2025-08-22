@@ -332,7 +332,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between a moving forklift and a worker?"
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -345,7 +345,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between a moving forklift and a worker?"
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -358,7 +358,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between a moving forklift and a worker?"
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -371,7 +371,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between a moving forklift and a worker?"
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -384,7 +384,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between a moving forklift and a worker?"
+                "value": "What is the minimum distance between a moving forklift and a worker?  If the minimum distance is less than 2 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -397,7 +397,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold?"
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -410,7 +410,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold?"
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -423,7 +423,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold?"
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -436,7 +436,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold?"
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -449,7 +449,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold?"
+                "value": "How many times did the distance between a moving forklift and a worker fall below the 2 m threshold? If it occurs more than once, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -462,7 +462,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between moving workers?"
+                "value": "What is the minimum distance between moving workers? If the minimum distance is less than 1 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -475,7 +475,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between moving workers?"
+                "value": "What is the minimum distance between moving workers? If the minimum distance is less than 1 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -488,7 +488,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "What is the minimum distance between moving workers?"
+                "value": "What is the minimum distance between moving workers? If the minimum distance is less than 1 meters, classify it as an incident."
             }
         ],
         "output_format": "text"
@@ -501,7 +501,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between moving workers fall below 1 meters?"
+                "value": "How many times did the distance between moving workers fall below 1 meters? If it occurs more than once, it is identified as an incident."
             }
         ],
         "output_format": "text"
@@ -514,7 +514,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between moving workers fall below 1 meters?"
+                "value": "How many times did the distance between moving workers fall below 1 meters? If it occurs more than once, it is identified as an incident."
             }
         ],
         "output_format": "text"
@@ -527,7 +527,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many times did the distance between moving workers fall below 1 meters?"
+                "value": "How many times did the distance between moving workers fall below 1 meters? If it occurs more than once, it is identified as an incident."
             }
         ],
         "output_format": "text"
@@ -540,7 +540,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How long were workers and moving forklifts in the same aisle?"
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 30 seconds, also specify the incident in the response."
             }
         ],
         "output_format": "text"
@@ -553,7 +553,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How long were workers and moving forklifts in the same aisle?"
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 30 seconds, also specify the incident in the response."
             }
         ],
         "output_format": "text"
@@ -566,7 +566,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How long were workers and moving forklifts in the same aisle?"
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 5 seconds, also specify the incident in the response."
             }
         ],
         "output_format": "text"
@@ -579,7 +579,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How long were workers and moving forklifts in the same aisle?"
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 5 seconds, also specify the incident in the response."
             }
         ],
         "output_format": "text"
@@ -592,7 +592,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How long were workers and moving forklifts in the same aisle?"
+                "value": "How long were workers and moving forklifts in the same aisle? If more than 5 seconds, also specify the incident in the response."
             }
         ],
         "output_format": "text"
@@ -605,7 +605,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -618,7 +618,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -631,7 +631,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -644,7 +644,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -657,7 +657,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -670,7 +670,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -683,7 +683,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -694,7 +694,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -707,7 +707,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -720,7 +720,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)?  If so, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -733,7 +733,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -746,7 +746,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -759,7 +759,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -772,7 +772,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -785,7 +785,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -798,7 +798,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -811,7 +811,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -822,7 +822,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -835,7 +835,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -848,7 +848,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)?  If three or more are present, identify this as an incident."
             }
         ],
         "output_format": "text"
@@ -861,7 +861,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)?  If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -874,7 +874,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)?  If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -885,7 +885,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455))? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455))? If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -898,7 +898,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)?  If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -911,7 +911,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)?  If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -924,7 +924,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)?  If the cumulative count is 3 or more, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -937,7 +937,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 350), and (1250, 350)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 350), and (1250, 350)?  If the cumulative count is 3 or more, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -950,7 +950,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)?  If the cumulative count is 3 or more, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -963,7 +963,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (900, 300), (1100, 300), (900, 500), and (1100, 500) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500) less than or equal to 2?  If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -976,7 +976,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350) less than or equal to 2?  If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -989,7 +989,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560) less than or equal to 2?  If not, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -1002,7 +1002,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)?  If the total time exceeds 30 seconds, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -1015,7 +1015,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350)?  If the total time exceeds 30 seconds, identify it as an incident."
             }
         ],
         "output_format": "text"
@@ -1028,7 +1028,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)?  If the total time exceeds 30 seconds, identify it as an incident."
             }
         ],
         "output_format": "text"

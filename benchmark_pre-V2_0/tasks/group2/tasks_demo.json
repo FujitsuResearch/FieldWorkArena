@@ -1,0 +1,46 @@
+[
+   {
+        "id": "demo.1",
+        "input_data": ["worksite_a.jpg"],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the workers wearing PPEs in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format" : "text"
+    },
+    {
+        "id": "demo.2",
+        "input_data": ["worksite_b.jpg"],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can an aisle be walked through in this image? If not, also specify the incident in your response."
+            }
+        ],
+        "output_format" : "text"
+    },
+    {
+        "id": "demo.3",
+        "input_data": ["worksite_c.jpg"],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any accident in this image? If not, also specify the incident in your response." 
+            }
+        ],
+        "output_format" : "text"
+    },
+    {
+        "id": "demo.4",
+        "input_data": ["worksite_d.jpg"],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any incident in this image? If so, also specify the incident in your response."
+            }
+        ],
+        "output_format" : "text"
+    }
+ ]

@@ -8,7 +8,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -22,7 +22,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -36,7 +36,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -50,7 +50,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -64,7 +64,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -78,7 +78,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -92,7 +92,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -106,7 +106,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -120,7 +120,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -134,7 +134,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -148,7 +148,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -162,7 +162,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -176,7 +176,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -190,7 +190,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -204,7 +204,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -218,7 +218,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -232,7 +232,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -246,7 +246,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -260,7 +260,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and report."
             }
         ],
         "output_format": "text"
@@ -274,7 +274,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and report."
             }
         ],
         "output_format": "text"
@@ -287,7 +287,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -300,7 +300,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -313,7 +313,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -326,7 +326,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -339,7 +339,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -352,7 +352,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -365,7 +365,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -378,7 +378,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -391,7 +391,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -404,7 +404,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -417,7 +417,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -430,7 +430,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -443,7 +443,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -456,7 +456,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -469,7 +469,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -482,7 +482,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -495,7 +495,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -508,7 +508,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -521,7 +521,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -534,7 +534,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -548,7 +548,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -562,7 +562,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -576,7 +576,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -590,7 +590,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -604,7 +604,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -618,7 +618,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -632,7 +632,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -646,7 +646,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -660,7 +660,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -674,7 +674,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -688,7 +688,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+                "value": "In this video, please assess the \"Left Basket\" status at the beginning and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is needed based on the presence of \"Left Basket\" (i.e., \"Need Basket collecting\" or \"No need Basket collecting\")."
             }
         ],
         "output_format": "text"
@@ -702,7 +702,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+                "value": "In this video, please assess the \"Left Basket\" status at the end and report the following: \"Left Basket\" is defined as a basket left alone, not at the storage area where baskets are piled. Specifically, report: If any \"Left Basket\" exists. The exact number of \"Left Basket\" found. Report even number is 0. Whether \"Basket collecting\" is sufficient based on the presence of \"Left Basket\" (i.e., \"Basket collecting sufficient\" or \"Basket collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -716,7 +716,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+                "value": "In these videos, please assess the \"Left Cart\" status at the beginning and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is needed based on the presence of \"Left Cart\" (i.e., \"Need Cart collecting\" or \"No need Cart collecting\")."
             }
         ],
         "output_format": "text"
@@ -730,7 +730,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+                "value": "In these videos, please assess the \"Left Cart\" status at the end and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is sufficient based on the presence of \"Left Cart\" (i.e., \"Cart collecting sufficient\" or \"Cart collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -744,7 +744,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+                "value": "In these videos, please assess the \"Left Cart\" status at the beginning and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is needed based on the presence of \"Left Cart\" (i.e., \"Need Cart collecting\" or \"No need Cart collecting\")."
             }
         ],
         "output_format": "text"
@@ -758,7 +758,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+                "value": "In these videos, please assess the \"Left Cart\" status at the end and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is sufficient based on the presence of \"Left Cart\" (i.e., \"Cart collecting sufficient\" or \"Cart collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -772,7 +772,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+                "value": "In these videos, please assess the \"Left Cart\" status at the beginning and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is needed based on the presence of \"Left Cart\" (i.e., \"Need Cart collecting\" or \"No need Cart collecting\")."
             }
         ],
         "output_format": "text"
@@ -786,7 +786,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+                "value": "In these videos, please assess the \"Left Cart\" status at the end and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is sufficient based on the presence of \"Left Cart\" (i.e., \"Cart collecting sufficient\" or \"Cart collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -800,7 +800,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+                "value": "In these videos, please assess the \"Left Cart\" status at the beginning and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is needed based on the presence of \"Left Cart\" (i.e., \"Need Cart collecting\" or \"No need Cart collecting\")."
             }
         ],
         "output_format": "text"
@@ -814,7 +814,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+                "value": "In these videos, please assess the \"Left Cart\" status at the end and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is sufficient based on the presence of \"Left Cart\" (i.e., \"Cart collecting sufficient\" or \"Cart collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -828,7 +828,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+                "value": "In these videos, please assess the \"Left Cart\" status at the beginning and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is needed based on the presence of \"Left Cart\" (i.e., \"Need Cart collecting\" or \"No need Cart collecting\")."
             }
         ],
         "output_format": "text"
@@ -842,7 +842,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+                "value": "In these videos, please assess the \"Left Cart\" status at the end and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is sufficient based on the presence of \"Left Cart\" (i.e., \"Cart collecting sufficient\" or \"Cart collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -856,7 +856,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+                "value": "In these videos, please assess the \"Left Cart\" status at the beginning and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is needed based on the presence of \"Left Cart\" (i.e., \"Need Cart collecting\" or \"No need Cart collecting\")."
             }
         ],
         "output_format": "text"
@@ -870,7 +870,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+                "value": "In these videos, please assess the \"Left Cart\" status at the end and report the following: These videos were recorded with two cameras from different viewpoints, but with synchronized. \"Left Cart\" is defined as a Cart left alone, not at the storage area where Carts are collected. Specifically, report: If any \"Left Cart\" exists. The exact number of \"Left Cart\" found. Report even number is 0. Whether \"Cart collecting\" is sufficient based on the presence of \"Left Cart\" (i.e., \"Cart collecting sufficient\" or \"Cart collecting Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -883,7 +883,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -896,7 +896,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -909,7 +909,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -922,7 +922,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -935,7 +935,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -948,7 +948,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -961,7 +961,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -974,7 +974,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -987,7 +987,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1000,7 +1000,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1013,7 +1013,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1026,7 +1026,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1039,7 +1039,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1052,7 +1052,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1065,7 +1065,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1078,7 +1078,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1091,7 +1091,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1104,7 +1104,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1117,7 +1117,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1130,7 +1130,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the second and third shelves up from the bottom in the second column from the left. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1143,7 +1143,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1156,7 +1156,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1169,7 +1169,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1182,7 +1182,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1195,7 +1195,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1208,7 +1208,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1221,7 +1221,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1234,7 +1234,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1247,7 +1247,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1260,7 +1260,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1273,7 +1273,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is needed based on the presence of \"Left Product\" (i.e., \"Need Product Disposal\" or \"No need Product Disposal\")."
             }
         ],
         "output_format": "text"
@@ -1286,7 +1286,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+                "value": "In this video, please assess the \"Left Product\" status at the end and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Product Disposal\" is sufficient based on the presence of \"Left Product\" (i.e., \"Product Disposal sufficient\" or \"Product Disposal Insufficient\")."
             }
         ],
         "output_format": "text"
@@ -1299,7 +1299,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Applying discount stickers\" is needed based on the presence of \"Left Product\" (i.e., \"Need Applying discount stickers\" or \"No need Applying discount stickers\")."
             }
         ],
         "output_format": "text"
@@ -1312,7 +1312,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Applying discount stickers\" is needed based on the presence of \"Left Product\" (i.e., \"Need Applying discount stickers\" or \"No need Applying discount stickers\")."
             }
         ],
         "output_format": "text"
@@ -1325,7 +1325,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Applying discount stickers\" is needed based on the presence of \"Left Product\" (i.e., \"Need Applying discount stickers\" or \"No need Applying discount stickers\")."
             }
         ],
         "output_format": "text"
@@ -1338,7 +1338,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Applying discount stickers\" is needed based on the presence of \"Left Product\" (i.e., \"Need Applying discount stickers\" or \"No need Applying discount stickers\")."
             }
         ],
         "output_format": "text"
@@ -1351,7 +1351,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+                "value": "In this video, please assess the \"Left Product\" status at the beginning and report the following: The target products are the items on the black stand in front. Specifically, report: If any \"Left Product\" exists. The exact number of \"Left Product\" found. Report even number is 0. Whether \"Applying discount stickers\" is needed based on the presence of \"Left Product\" (i.e., \"Need Applying discount stickers\" or \"No need Applying discount stickers\")."
             }
         ],
         "output_format": "text"
@@ -1359,12 +1359,15 @@
     {
         "id": "2.1.2102",
         "input_data": [
-            "Cam005-Uniform0.mp4"
+            "Cam005-Uniform0.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1380,7 +1383,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1396,7 +1399,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1412,7 +1415,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1428,7 +1431,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1444,7 +1447,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1460,7 +1463,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1476,7 +1479,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1492,7 +1495,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1508,7 +1511,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1524,7 +1527,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1540,7 +1543,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1556,7 +1559,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1572,7 +1575,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1580,12 +1583,15 @@
     {
         "id": "2.1.2116",
         "input_data": [
-            "Cam103-Apron0-1cam.mp4"
+            "Cam103-Apron0-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1593,12 +1599,15 @@
     {
         "id": "2.1.2117",
         "input_data": [
-            "Cam103-Apron1-1cam.mp4"
+            "Cam103-Apron1-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1606,12 +1615,15 @@
     {
         "id": "2.1.2118",
         "input_data": [
-            "Cam103-Apron2-1cam.mp4"
+            "Cam103-Apron2-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1619,12 +1631,15 @@
     {
         "id": "2.1.2119",
         "input_data": [
-            "Cam103-Apron3-1cam.mp4"
+            "Cam103-Apron3-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1632,12 +1647,15 @@
     {
         "id": "2.1.2120",
         "input_data": [
-            "Cam103-Apron4-1cam.mp4"
+            "Cam103-Apron4-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1645,12 +1663,15 @@
     {
         "id": "2.1.2121",
         "input_data": [
-            "Cam103-Apron5-1cam.mp4"
+            "Cam103-Apron5-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1658,12 +1679,15 @@
     {
         "id": "2.1.2122",
         "input_data": [
-            "Cam103-Apron6-1cam.mp4"
+            "Cam103-Apron6-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1671,12 +1695,15 @@
     {
         "id": "2.1.2123",
         "input_data": [
-            "Cam103-Apron7-1cam.mp4"
+            "Cam103-Apron7-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1684,12 +1711,15 @@
     {
         "id": "2.1.2124",
         "input_data": [
-            "Cam103-Apron8-1cam.mp4"
+            "Cam103-Apron8-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1697,12 +1727,15 @@
     {
         "id": "2.1.2125",
         "input_data": [
-            "Cam103-Apron9-1cam.mp4"
+            "Cam103-Apron9-1cam.mp4",
+            "apron(front-shot).jpg",
+            "apron(bask-shot).jpg",
+            "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"

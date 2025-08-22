@@ -46,7 +46,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product: can (e.g., can of beer, without requiring precise identification of beer). specified number : 12"
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : can of beer. specified number : 12"
             }
         ],
         "output_format": "text"
@@ -59,7 +59,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product: can (e.g., can of beer, without requiring precise identification of beer). specified number : 12"
+                "value": "In this video, report the duration of time the target product remained \"out of stock\". The time must be output from the time of the movie itself. Out-of-stock start : when product is taken from the shelf a specified number of times by the custmers.  Out-of-stock end: end of video time. Target product : can of beer. specified number : 12"
             }
         ],
         "output_format": "text"
@@ -98,7 +98,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -111,7 +111,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -124,7 +124,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -137,7 +137,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -150,7 +150,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -163,7 +163,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -176,7 +176,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -189,7 +189,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -202,7 +202,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between smartphone use and target product buying. Report buy/not-buy cases with smartphone use before or after product handling. Report \"Irrelevant\" if no smartphone or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -215,7 +215,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -228,7 +228,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -241,7 +241,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -254,7 +254,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -267,7 +267,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, analyze the relationship between chatting and target product buying. Report buy/not-buy cases with multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product. Report \"Irrelevant\" if no multiple people or chatting or product handling is observed. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"

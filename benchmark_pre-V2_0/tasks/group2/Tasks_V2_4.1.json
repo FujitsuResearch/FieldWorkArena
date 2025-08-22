@@ -20,7 +20,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. What are the business hours for April 28 to May 2, 2025? Please list the business hours for each specific date within this period, following the format \"Month Day: HH:MM to HH:MM.\". Start with \"Business hours are as follows,\"."
+                "value": "Read this store manual. What are the business hours for April 28 to May 2, 2025?"
             }
         ],
         "output_format": "text"
@@ -59,7 +59,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. To check the basket collection task for April 28 to May 2, 2025, what files should be accessed? Camera ID : 104, use both synchronized files. Please list the files for each specific date within this period, following the format \"Month Day: file1.mp4, file2.mp4.\". Start with \"The files to access are,\"."
+                "value": "Read this store manual. To check the basket collection task for April 28 to May 2, 2025, what files should be accessed?  Camera ID : 104, use both synchronized files"
             }
         ],
         "output_format": "text"
@@ -73,7 +73,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 30 seconds. Your report should address the items listed in section ④ of the manual. If \"Need for basket collection\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 30 seconds."
             }
         ],
         "output_format": "text"
@@ -87,7 +87,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 45 seconds. Your report should address the items listed in section ④ of the manual. If \"Need for basket collection\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 45 seconds."
             }
         ],
         "output_format": "text"
@@ -101,7 +101,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 45 seconds. Your report should address the items listed in section ④ of the manual. If \"Need for basket collection\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 45 seconds."
             }
         ],
         "output_format": "text"
@@ -115,7 +115,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 30 seconds. Your report should address the items listed in section ④ of the manual. If \"Need for basket collection\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the basket collection task. Note that the manual's 10-minute task time should be considered 30 seconds."
             }
         ],
         "output_format": "text"
@@ -129,7 +129,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left. Your report should address the items listed in section ④ of the manual. If \"Need for product disposal\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left."
             }
         ],
         "output_format": "text"
@@ -143,7 +143,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left. Your report should address the items listed in section ④ of the manual. If \"Need for product disposal\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left."
             }
         ],
         "output_format": "text"
@@ -157,7 +157,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left. Your report should address the items listed in section ④ of the manual. If \"Need for product disposal\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the product disposal task.  Note that the manual's 10-minute task time should be considered 1 minute.  The target products are the items on the second and third shelves up from the bottom in the second column from the left."
             }
         ],
         "output_format": "text"
@@ -171,7 +171,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front. Your report should address the items listed in section ④ of the manual. If \"Need for discount sticker application\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front."
             }
         ],
         "output_format": "text"
@@ -185,7 +185,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front. Your report should address the items listed in section ④ of the manual. If \"Need for discount sticker application\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Read this store manual. Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front."
             }
         ],
         "output_format": "text"
@@ -199,7 +199,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front. Your report should address the items listed in section ④ of the manual. If \"Need for discount sticker application\" is \"Not Required,\" you may skip reporting on subsequent items."
+                "value": "Assuming the specified video files are the correct ones to review, please report on the discount sticker application task.  Note that the manual's 10-minute task time should be considered 75 seconds.  The target products are the items on the black stand in front."
             }
         ],
         "output_format": "text"
@@ -261,7 +261,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Report on the basket collection task for the period of May 5th to May 9th, 2025.  Camera ID : 009 For each date, provide a single-line summary report in the following format: \"Date: [Required/Not Required] ([Number of remaining baskets if Required]) / [Performed/Not Performed] ([Number collected if Performed]) / [Complete/Incomplete] ([Number of remaining baskets if Incomplete])\" If the task was \"Not Required\", simply report: \"Date: Not Required\" After listing all daily reports, summarize any incident cases on a new line in the format: \"[Date1, Date2, ...] are the incident cases.\""
+                "value": "Read this store manual. Report on the basket collection task for the period of May 5th to May 9th, 2025.  Camera ID : 009"
             }
         ],
         "output_format": "text"
@@ -286,7 +286,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Report on the basket collection task for the period of May 17th to March 21th, 2025.  Camera ID : 104,  use both synchronized files For each date, provide a single-line summary report in the following format: \"Date: [Required/Not Required] ([Number of remaining baskets if Required]) / [Performed/Not Performed] ([Number collected if Performed]) / [Complete/Incomplete] ([Number of remaining baskets if Incomplete])\" If the task was \"Not Required\", simply report: \"Date: Not Required\" After listing all daily reports, summarize any incident cases on a new line in the format: \"[Date1, Date2, ...] are the incident cases.\""
+                "value": "Read this store manual. Report on the basket collection task for the period of May 17th to March 21th, 2025.  Camera ID : 104,  use both synchronized files"
             }
         ],
         "output_format": "text"
@@ -313,7 +313,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Report on the cart collection task for the period of May 5th to May 9th, 2025.  Camera ID :104,  use both synchronized files For each date, provide a single-line summary report in the following format: \"Date: [Required/Not Required] ([Number of remaining carts if Required]) / [Performed/Not Performed] ([Number collected if Performed]) / [Complete/Incomplete] ([Number of remaining carts if Incomplete])\" If the task was \"Not Required\", simply report: \"Date: Not Required\" After listing all daily reports, summarize any incident cases on a new line in the format: \"[Date1, Date2, ...] are the incident cases.\""
+                "value": "Read this store manual. Report on the cart collection task for the period of May 5th to May 9th, 2025.  Camera ID :104,  use both synchronized files"
             }
         ],
         "output_format": "text"
@@ -332,7 +332,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Report on the product disposal task for the period of Feb 25th to Feb 28th, 2025.  Camera ID :003 The target products are the items on the second and third shelves up from the bottom in the second column from the left. For each date, provide a single-line summary report in the following format: \"Date: [Required/Not Required] ([Number of remaining products if Required]) / [Performed/Not Performed] ([Number collected if Performed]) / [Complete/Incomplete] ([Number of remaining products if Incomplete])\" If the task was \"Not Required\", simply report: \"Date: Not Required\" After listing all daily reports, summarize any incident cases on a new line in the format: \"[Date1, Date2, ...] are the incident cases.\""
+                "value": "Read this store manual. Report on the product disposal task for the period of Feb 25th to Feb 28th, 2025.  Camera ID :003"
             }
         ],
         "output_format": "text"
@@ -351,7 +351,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Report on the product disposal task for the period of Feb 10th to Feb 14th, 2025.  Camera ID :106,  use -1cam files The target products are the items on the black stand in front. For each date, provide a single-line summary report in the following format: \"Date: [Required/Not Required] ([Number of remaining products if Required]) / [Performed/Not Performed] ([Number collected if Performed]) / [Complete/Incomplete] ([Number of remaining products if Incomplete])\" If the task was \"Not Required\", simply report: \"Date: Not Required\" After listing all daily reports, summarize any incident cases on a new line in the format: \"[Date1, Date2, ...] are the incident cases.\""
+                "value": "Read this store manual. Report on the product disposal task for the period of Feb 10th to Feb 14th, 2025.  Camera ID :106,  use -1cam files"
             }
         ],
         "output_format": "text"
@@ -370,7 +370,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Report on the discount sticker application task for the period of Jan 13th to Jan 17th, 2025.  Camera ID :106,  use -2cam files The target products are the items on the black stand in front. For each date, provide a single-line summary report in the following format: \"Date: [Required/Not Required] ([Number of remaining products if Required]) / [Performed/Not Performed] ([Number collected if Performed]) / [Complete/Incomplete] ([Number of remaining products if Incomplete])\" If the task was \"Not Required\", simply report: \"Date: Not Required\" After listing all daily reports, summarize any incident cases on a new line in the format: \"[Date1, Date2, ...] are the incident cases.\""
+                "value": "Read this store manual. Report on the discount sticker application task for the period of Jan 13th to Jan 17th, 2025.  Camera ID :106,  use -2cam files"
             }
         ],
         "output_format": "text"
@@ -389,7 +389,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "Read this store manual. Report on the vacuuming task for the period of Feb 24th to Feb 28th, 2025.  Camera ID :012  In this area,  vacuuming duration time should be more than 10seconds. For each date, provide a single-line summary report in the following format: \"Date: [Performed/Not performed] / [Sufficient/Insufficient]\" After listing all daily reports, summarize any incident cases on a new line in the format: \"[Date1, Date2, ...] are the incident cases.\""
+                "value": "Read this store manual. Report on the vacuuming task for the period of Feb 24th to Feb 28th, 2025.  Camera ID :012  In this area,  vacuuming duration time should be more than 10seconds."
             }
         ],
         "output_format": "text"

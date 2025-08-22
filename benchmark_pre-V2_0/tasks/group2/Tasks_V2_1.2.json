@@ -46,7 +46,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product: can (e.g., can of beer, without requiring precise identification of beer)."
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product : can of beer."
             }
         ],
         "output_format": "text"
@@ -59,7 +59,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product: can (e.g., can of beer, without requiring precise identification of beer)."
+                "value": "In this video, count how many times customers take the target product from the shelf, and report the number. Do not count when the product is placed back. Target product : can of beer."
             }
         ],
         "output_format": "text"
@@ -488,7 +488,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -501,7 +501,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -514,7 +514,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -527,7 +527,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -540,7 +540,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -553,7 +553,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -566,7 +566,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -579,7 +579,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -592,7 +592,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -605,7 +605,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -618,7 +618,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -631,7 +631,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -644,7 +644,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -657,7 +657,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -670,7 +670,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -683,7 +683,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -696,7 +696,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -709,7 +709,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether the customer has used \"Smartphone\", before or after handling the target product. If yes, report the customer has bought the target product or not with the usage of the smartphone. Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -722,7 +722,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -735,7 +735,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -748,7 +748,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -761,7 +761,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -774,7 +774,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -787,7 +787,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -800,7 +800,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -813,7 +813,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -826,7 +826,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -839,7 +839,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -852,7 +852,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -865,7 +865,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"
@@ -878,7 +878,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -891,7 +891,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product? Target product : wine."
             }
         ],
         "output_format": "text"
@@ -904,7 +904,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product: bottle (e.g., a wine bottle, without requiring precise identification of wine)."
+                "value": "In this video, please tell us whether there are multiple people gathered in a group in front of the target product, and have a chat before or after handling the target product, and buy the target product? Definition of buy : Taking the product and carrying it away is defined as buying. Target product : wine."
             }
         ],
         "output_format": "text"

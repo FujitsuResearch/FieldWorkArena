@@ -59,7 +59,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, report the duration of time the target product was out of stock. The time must be output from the time of the movie itself. Out-of-stock start: video start time.  Out-of-stock end: when product retock is complete by the employee. If not, video end time. Target product: can (e.g., can of beer, without requiring precise identification of beer)."
+                "value": "In this video, report the duration of time the target product was out of stock. The time must be output from the time of the movie itself. Out-of-stock start: video start time.  Out-of-stock end: when product retock is complete by the employee. If not, video end time. Target product : can of beer."
             }
         ],
         "output_format": "text"
@@ -72,7 +72,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, report the duration of time the target product was out of stock. The time must be output from the time of the movie itself. Out-of-stock start: video start time.  Out-of-stock end: when product retock is complete by the employee. If not, video end time. Target product: can (e.g., can of beer, without requiring precise identification of beer)."
+                "value": "In this video, report the duration of time the target product was out of stock. The time must be output from the time of the movie itself. Out-of-stock start: video start time.  Out-of-stock end: when product retock is complete by the employee. If not, video end time. Target product : can of beer."
             }
         ],
         "output_format": "text"
@@ -85,7 +85,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, report the duration of time the target product was out of stock. The time must be output from the time of the movie itself. Out-of-stock start: video start time.  Out-of-stock end: when product retock is complete by the employee. If not, video end time. Target product: can (e.g., can of beer, without requiring precise identification of beer)."
+                "value": "In this video, report the duration of time the target product was out of stock. The time must be output from the time of the movie itself. Out-of-stock start: video start time.  Out-of-stock end: when product retock is complete by the employee. If not, video end time. Target product : can of beer."
             }
         ],
         "output_format": "text"

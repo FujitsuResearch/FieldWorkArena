@@ -11,10 +11,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"Workers with both hand full\", create a new issue for each incidents with a value of \"Workers with both hand full\" for field \"Short description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0000 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"Workers with both hand full\", create a new issue for each incidents with a value of \"Workers with both hand full\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0000 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0003",
@@ -28,10 +28,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"Cardboard boxes are piled up to more than 5 meters in height\", create a new issue for each incidents with a value of \"Cardboard boxes are piled up to more than 5 meters in height\" for field \"Short description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0020 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"Cardboard boxes are piled up to more than 5 meters in height\", create a new issue for each incidents with a value of \"Cardboard boxes are piled up to more than 5 meters in height\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0020 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0004",
@@ -45,7 +45,7 @@
                 "value": "If there were incidents regarding \"Workers shown falling down\", create a new issue for each incidents with a value of \"Workers shown falling down\" for field \"Short description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0030 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0005",
@@ -62,7 +62,7 @@
                 "value": "If there were incidents regarding \"More than two loads being carried by the forklift\", create a new issue for each incidents with a value of \"More than two loads being carried by the forklift\" for field \"Short description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0040 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0006",
@@ -75,10 +75,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"The moving speed of the forklift exceeds 2.3 m/s\", create a new issue for each incidents with a value of \"The moving speed of the forklift exceeds 2.3 m/s\" for field \"Short description\", a value of the moving speed of forklift for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0050 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"The moving speed of the forklift exceeds 2.3 m/s\", create a new issue for each incidents with a value of \"The moving speed of the forklift exceeds 2.3 m/s\" for field \"Short description\", a value of the moving speed of forklift for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0050 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0007",
@@ -91,10 +91,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many incidents were there regarding \"Workers stand for more than a minute\"? If there were incidents regarding \"Workers stand for more than a minute\", create a new issue for each incidents with a value of \"Workers stand for more than a minute\" for field \"Short description\", a number of workers who are stand for more than a minute for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0060 if there are multiple incidents for field \"ID\"."
+                "value": "How many incidents were there regarding \"Workers stand for more than a minute\"? If there were incidents regarding \"Workers stand for more than a minute\", create a new issue for each incidents with a value of \"Workers stand for more than a minute\" for field \"Short description\", a number of workers who are stand for more than a minute for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0060 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0008",
@@ -105,10 +105,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"Workers lift their arms more than 2 times within a minute\", create a new issue for each incidents with a value of \"Workers lift their arms more than 2 times within a minute\" for field \"Short description\", a number of workers who lift their arms more than 2 times within a minute for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0070 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"Workers lift their arms more than 2 times within a minute\", create a new issue for each incidents with a value of \"Workers lift their arms more than 2 times within a minute\" for field \"Short description\", a number of workers who lift their arms more than 2 times within a minute for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0070 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0009",
@@ -118,10 +118,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"Workers lift their arms more than 3 times within a minute\", create a new issue for each incidents with a value of \"Workers lift their arms more than 3 times within a minute\" for field \"Short description\", a number of workers who lift their arms more than 3 times within a minute for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0080 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"Workers lift their arms more than 3 times within a minute\", create a new issue for each incidents with a value of \"Workers lift their arms more than 3 times within a minute\" for field \"Short description\", a number of workers who lift their arms more than 3 times within a minute for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0080 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0010",
@@ -131,10 +131,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"Workers lift their arms more than 4 times within a minute\", create a new issue for each incidents with a value of \"Workers lift their arms more than 4 times within a minute\" for field \"Short description\", a number of workers who lift their arms more than 4 times within a minute for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0090 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"Workers lift their arms more than 4 times within a minute\", create a new issue for each incidents with a value of \"Workers lift their arms more than 4 times within a minute\" for field \"Short description\", a number of workers who lift their arms more than 4 times within a minute for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 0090 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0011",
@@ -148,10 +148,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"Worker's hands are blocked\", create a new issue for each violations with a value of \"Worker's hands are blocked\" for field \"Short description\", a number of workers who's hands are blocked for field \"Description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1000 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"Worker's hands are blocked\", create a new issue for each violations with a value of \"Worker's hands are blocked\" for field \"Short description\", a number of workers who's hands are blocked for field \"Description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1000 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0012",
@@ -163,10 +163,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"The hight of cardboard box\", create a new issue for each violations with a value of \"The hight of cardboard box\" for field \"Short description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1010 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"The hight of cardboard box\", create a new issue for each violations with a value of \"The hight of cardboard box\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1010 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0013",
@@ -177,10 +177,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"Worker falling over\", create a new issue for each violations with a value of \"Worker falling over\" for field \"Short description\", a number of workers who have fallen for field \"Description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1020 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"Worker falling over\", create a new issue for each violations with a value of \"Worker falling over\" for field \"Short description\", a number of workers who have fallen for field \"Description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1020 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0014",
@@ -191,10 +191,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"Forklift moving speed\", create a new issue for each violations with a value of \"Forklift moving speed\" for field \"Short description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1030 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"Forklift moving speed\", create a new issue for each violations with a value of \"Forklift moving speed\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1030 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0015",
@@ -207,10 +207,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"Continuous standing work\", create a new issue for each violations with a value of \"Continuous standing work\" for field \"Short description\", a number of workers who are standing continuously for more than 1 minute for field \"Description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1040 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"Continuous standing work\", create a new issue for each violations with a value of \"Continuous standing work\" for field \"Short description\", a number of workers who are standing continuously for more than 1 minute for field \"Description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1040 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0016",
@@ -221,10 +221,10 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"Heavy work load with many time lifting objects\", create a new issue for each violations with a value of \"Heavy work load with many time lifting objects\" for field \"Short description\", a number of workers who are standing work and lift things a lot for field \"Description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1050 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"Heavy work load with many time lifting objects\", create a new issue for each violations with a value of \"Heavy work load with many time lifting objects\" for field \"Short description\", a number of workers who are standing work and lift things a lot for field \"Description\", a value of filename for field \"Filename\",  a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1050 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     },
     {
         "id": "3.2.0017",
@@ -237,9 +237,9 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"Person without PPE\", create a new issue for each violations with a value of \"Person without PPE\" for field \"Short description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1060 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"Person without PPE\", create a new issue for each violations with a value of \"Person without PPE\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1060 if there are multiple incidents for field \"ID\"."
             }
         ],
-        "output_format": "text"
+        "output_format": "json"
     }
 ]

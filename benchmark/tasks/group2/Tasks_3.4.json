@@ -9,7 +9,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"the operator is using the electric screwdriver with the green label to tighten the 4 screws properly\", create a new issue for each violations with a value of \"Electric screwdriver with a green label\" for field \"Short description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1110 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"the operator is using the electric screwdriver with the green label to tighten the 4 screws properly\", create a new issue for each violations with a value of \"Electric screwdriver with a green label\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1110 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"
@@ -24,7 +24,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"the operator uses a check mask to inspect the product\", create a new issue for each violations with a value of \"Using a check mask to inspect the product\" for field \"Short description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1110 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"the operator uses a check mask to inspect the product\", create a new issue for each violations with a value of \"Using a check mask to inspect the product\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1110 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"
@@ -41,7 +41,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were violations regarding \"distance between the cart and the worker less than 1 meter\", create a new issue for each violations with a value of \"Distance between the cart and the worker\" for field \"Short description\", a distance of between the cart and the worker for field \"Description\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1120 if there are multiple incidents for field \"ID\"."
+                "value": "If there were violations regarding \"distance between the cart and the worker less than 1 meter\", create a new issue for each violations with a value of \"Distance between the cart and the worker\" for field \"Short description\", a distance of between the cart and the worker for field \"Description\", a value of filename for field \"Filename\", a value of \"violation\" for field \"Category\" and a value that must be numbered sequentially from 1120 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"
@@ -58,7 +58,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"distance between the worker and the nearest equipment less than 0.5 meters\", create a new issue for each incidents with a value of \"Distance between the worker and the nearest equipment\" for field \"Short description\", a distance of between the worker and the nearest equipment for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1140 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"distance between the worker and the nearest equipment less than 0.5 meters\", create a new issue for each incidents with a value of \"Distance between the worker and the nearest equipment\" for field \"Short description\", a distance of between the worker and the nearest equipment for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1140 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"
@@ -73,7 +73,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding  \"worker's location within the defined area\", the defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each images, create a new issue for each incidents with a value of \"Worker's location within the defined area\" for field \"Short description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1150 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding  \"worker's location within the defined area\", the defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each images. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively. Create a new issue for each incidents with a value of \"Worker's location within the defined area\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1150 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"
@@ -87,7 +87,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding  \"worker's staying time within the defined area less than 1 second\", the defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each videos, create a new issue for each incidents with a value of \"Worker's staying time within the defined area\" for field \"Short description\", a value of worker's staying time within the defined area for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1160 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding  \"worker's staying time within the defined area less than 1 second\", the defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each videos. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively. Create a new issue for each incidents with a value of \"Worker's staying time within the defined area\" for field \"Short description\", a value of worker's staying time within the defined area for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1160 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"
@@ -104,7 +104,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"worker's facing within the defined area\", The defined area is a rectangle defined by the coordinates (178,162), (304,162), (178,462), and (304,462) in each images, create a new issue for each incidents with a value of \"Worker's facing within the defined area\" for field \"Short description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1170 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"worker's facing within the defined area\", The defined area is a rectangle defined by the coordinates (178,162), (304,162), (178,462), and (304,462) in each images. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively. Create a new issue for each incidents with a value of \"Worker's facing within the defined area\" for field \"Short description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1170 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"
@@ -121,7 +121,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "If there were incidents regarding \"worker's facing time within the defined area less than 5 seconds\", The defined area is a rectangle defined by the coordinates (553,69), (647,69), (553,291), and (647,291) in each videos, create a new issue for each incidents with a value of \"Worker's facing time within the defined area\" for field \"Short description\", a value of worker's facing left time within the defined area for field \"Description\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1180 if there are multiple incidents for field \"ID\"."
+                "value": "If there were incidents regarding \"worker's facing time within the defined area less than 5 seconds\", The defined area is a rectangle defined by the coordinates (553,69), (647,69), (553,291), and (647,291) in each videos. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively. Create a new issue for each incidents with a value of \"Worker's facing time within the defined area\" for field \"Short description\", a value of worker's facing left time within the defined area for field \"Description\", a value of filename for field \"Filename\", a value of \"incident\" for field \"Category\" and a value that must be numbered sequentially from 1180 if there are multiple incidents for field \"ID\"."
             }
         ],
         "output_format": "json"

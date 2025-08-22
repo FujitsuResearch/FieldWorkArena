@@ -1,0 +1,1710 @@
+[
+    {
+        "id": "2.1.2001",
+        "input_data": [
+            "Cam001-Coffee1.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2002",
+        "input_data": [
+            "Cam001-Coffee1.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2003",
+        "input_data": [
+            "Cam001-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2004",
+        "input_data": [
+            "Cam001-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2005",
+        "input_data": [
+            "Cam002-Coffee1.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2006",
+        "input_data": [
+            "Cam002-Coffee1.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2007",
+        "input_data": [
+            "Cam002-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2008",
+        "input_data": [
+            "Cam002-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2009",
+        "input_data": [
+            "Cam002-Coffee3.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2010",
+        "input_data": [
+            "Cam002-Coffee3.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2011",
+        "input_data": [
+            "Cam013-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2012",
+        "input_data": [
+            "Cam013-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2013",
+        "input_data": [
+            "Cam013-Coffee3.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2014",
+        "input_data": [
+            "Cam013-Coffee3.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2015",
+        "input_data": [
+            "Cam013-Coffee5.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2016",
+        "input_data": [
+            "Cam013-Coffee5.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2017",
+        "input_data": [
+            "Cam014-Coffee1.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2018",
+        "input_data": [
+            "Cam014-Coffee1.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2019",
+        "input_data": [
+            "Cam014-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"1.Sanitize hands with alcohol\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2020",
+        "input_data": [
+            "Cam014-Coffee2.mp4",
+            "Coffee_Maker_Cleaning_Manual.txt"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, Employee is following the \"Coffee_Maker_Cleaning_Manual.txt\" and cleaning the Coffee Maker. Confirm completion of \"10.Return the key to its designated location\", and if not, identify it as an incident."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2021",
+        "input_data": [
+            "Cam009-Basket0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2022",
+        "input_data": [
+            "Cam009-Basket0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2023",
+        "input_data": [
+            "Cam009-Basket1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2024",
+        "input_data": [
+            "Cam009-Basket1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2025",
+        "input_data": [
+            "Cam009-Basket2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2026",
+        "input_data": [
+            "Cam009-Basket2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2027",
+        "input_data": [
+            "Cam009-Basket3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2028",
+        "input_data": [
+            "Cam009-Basket3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2029",
+        "input_data": [
+            "Cam009-Basket4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2030",
+        "input_data": [
+            "Cam009-Basket4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2031",
+        "input_data": [
+            "Cam009-Basket5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2032",
+        "input_data": [
+            "Cam009-Basket5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2033",
+        "input_data": [
+            "Cam009-Basket6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2034",
+        "input_data": [
+            "Cam009-Basket6.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2035",
+        "input_data": [
+            "Cam009-Basket7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2036",
+        "input_data": [
+            "Cam009-Basket7.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2037",
+        "input_data": [
+            "Cam009-Basket8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2038",
+        "input_data": [
+            "Cam009-Basket8.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2039",
+        "input_data": [
+            "Cam009-Basket9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2040",
+        "input_data": [
+            "Cam009-Basket9.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2041",
+        "input_data": [
+            "Cam104-Basket0-1cam.mp4",
+            "Cam104-Basket0-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2042",
+        "input_data": [
+            "Cam104-Basket0-1cam.mp4",
+            "Cam104-Basket0-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2043",
+        "input_data": [
+            "Cam104-Basket1-1cam.mp4",
+            "Cam104-Basket1-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2044",
+        "input_data": [
+            "Cam104-Basket1-1cam.mp4",
+            "Cam104-Basket1-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2045",
+        "input_data": [
+            "Cam104-Basket2-1cam.mp4",
+            "Cam104-Basket2-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2046",
+        "input_data": [
+            "Cam104-Basket2-1cam.mp4",
+            "Cam104-Basket2-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2047",
+        "input_data": [
+            "Cam104-Basket3-1cam.mp4",
+            "Cam104-Basket3-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2048",
+        "input_data": [
+            "Cam104-Basket3-1cam.mp4",
+            "Cam104-Basket3-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2049",
+        "input_data": [
+            "Cam104-Basket4-1cam.mp4",
+            "Cam104-Basket4-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2050",
+        "input_data": [
+            "Cam104-Basket4-1cam.mp4",
+            "Cam104-Basket4-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2051",
+        "input_data": [
+            "Cam104-Basket5-1cam.mp4",
+            "Cam104-Basket5-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the beginning. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number.If \"Left Basket\" exists, answer \"Need Basket collecting\", else \"No need Basket collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2052",
+        "input_data": [
+            "Cam104-Basket5-1cam.mp4",
+            "Cam104-Basket5-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Basket\" at the end. \"Left Basket\" is a basket left alone, not at the strage area, where baskets are piled. Count the \"Left Basket\"number. If \"Left Basket\" exists, answer \"Basket collecting Insufficient\", and identify it as an incident, else \"Basket collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2053",
+        "input_data": [
+            "Cam104-Cart0-1cam.mp4",
+            "Cam104-Cart0-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2054",
+        "input_data": [
+            "Cam104-Cart0-1cam.mp4",
+            "Cam104-Cart0-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2055",
+        "input_data": [
+            "Cam104-Cart1-1cam.mp4",
+            "Cam104-Cart1-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2056",
+        "input_data": [
+            "Cam104-Cart1-1cam.mp4",
+            "Cam104-Cart1-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2057",
+        "input_data": [
+            "Cam104-Cart2-1cam.mp4",
+            "Cam104-Cart2-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2058",
+        "input_data": [
+            "Cam104-Cart2-1cam.mp4",
+            "Cam104-Cart2-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2059",
+        "input_data": [
+            "Cam104-Cart3-1cam.mp4",
+            "Cam104-Cart3-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2060",
+        "input_data": [
+            "Cam104-Cart3-1cam.mp4",
+            "Cam104-Cart3-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2061",
+        "input_data": [
+            "Cam104-Cart4-1cam.mp4",
+            "Cam104-Cart4-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2062",
+        "input_data": [
+            "Cam104-Cart4-1cam.mp4",
+            "Cam104-Cart4-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2063",
+        "input_data": [
+            "Cam104-Cart5-1cam.mp4",
+            "Cam104-Cart5-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the beginning. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number.If \"Left Cart\" exists, answer \"Need Cart collecting\", else \"No need Cart collecting\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2064",
+        "input_data": [
+            "Cam104-Cart5-1cam.mp4",
+            "Cam104-Cart5-2cam.mp5"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "These videos were recorded with two cameras from different viewpoints, but with synchronized. In these videos, please tell us whether there are any \"Left Cart\" at the end. \"Left Cart\" is a Cart left alone, not at the strage area, where Carts are collected. Count the \"Left Cart\"number. If \"Left Cart\" exists, answer \"Cartt collecting Insufficient\", and identify it as an incident, else \"Cart collecting sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2065",
+        "input_data": [
+            "Cam003-Disposal0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2066",
+        "input_data": [
+            "Cam003-Disposal0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2067",
+        "input_data": [
+            "Cam003-Disposal1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2068",
+        "input_data": [
+            "Cam003-Disposal1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2069",
+        "input_data": [
+            "Cam003-Disposal2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2070",
+        "input_data": [
+            "Cam003-Disposal2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2071",
+        "input_data": [
+            "Cam003-Disposal3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2072",
+        "input_data": [
+            "Cam003-Disposal3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2073",
+        "input_data": [
+            "Cam003-Disposal4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2074",
+        "input_data": [
+            "Cam003-Disposal4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2075",
+        "input_data": [
+            "Cam004-Disposal1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2076",
+        "input_data": [
+            "Cam004-Disposal1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2077",
+        "input_data": [
+            "Cam004-Disposal2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2078",
+        "input_data": [
+            "Cam004-Disposal2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2079",
+        "input_data": [
+            "Cam004-Disposal3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2080",
+        "input_data": [
+            "Cam004-Disposal3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2081",
+        "input_data": [
+            "Cam004-Disposal4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2082",
+        "input_data": [
+            "Cam004-Disposal4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2083",
+        "input_data": [
+            "Cam004-Disposal5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2084",
+        "input_data": [
+            "Cam004-Disposal5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the second and third shelves up from the bottom in the second column from the left. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2085",
+        "input_data": [
+            "Cam106-Disposal0-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2086",
+        "input_data": [
+            "Cam106-Disposal0-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2087",
+        "input_data": [
+            "Cam106-Disposal1-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2088",
+        "input_data": [
+            "Cam106-Disposal1-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2089",
+        "input_data": [
+            "Cam106-Disposal2-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2090",
+        "input_data": [
+            "Cam106-Disposal2-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2091",
+        "input_data": [
+            "Cam106-Disposal3-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2092",
+        "input_data": [
+            "Cam106-Disposal3-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2093",
+        "input_data": [
+            "Cam106-Disposal4-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2094",
+        "input_data": [
+            "Cam106-Disposal4-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2095",
+        "input_data": [
+            "Cam106-Disposal5-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Product Disposal\", else \"No need Product Disposal\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2096",
+        "input_data": [
+            "Cam106-Disposal5-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the end. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Product Disposal Insufficient\", and identify it as an incident, else \"Product Disposal sufficient\"."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2097",
+        "input_data": [
+            "Cam106-Sticker0-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2098",
+        "input_data": [
+            "Cam106-Sticker1-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2099",
+        "input_data": [
+            "Cam106-Sticker2-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2100",
+        "input_data": [
+            "Cam106-Sticker3-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2101",
+        "input_data": [
+            "Cam106-Sticker4-2cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, please tell us whether there are any \"Left Product\" at the beginning. The target products are the items on the black stand in front. Count the \"Left Product\"number. If \"Left Product\" exists, answer \"Need Applying discount stickers\", else \"No need Applying discount stickers\""
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2102",
+        "input_data": [
+            "Cam005-Uniform0.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2103",
+        "input_data": [
+            "Cam005-Uniform1.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2104",
+        "input_data": [
+            "Cam005-Uniform2.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2105",
+        "input_data": [
+            "Cam005-Uniform3.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2106",
+        "input_data": [
+            "Cam005-Uniform4.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2107",
+        "input_data": [
+            "Cam006-Uniform1.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2108",
+        "input_data": [
+            "Cam006-Uniform2.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2109",
+        "input_data": [
+            "Cam006-Uniform3.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2110",
+        "input_data": [
+            "Cam006-Uniform4.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2111",
+        "input_data": [
+            "Cam015-Uniform0.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2112",
+        "input_data": [
+            "Cam015-Uniform1.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2113",
+        "input_data": [
+            "Cam015-Uniform2.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2114",
+        "input_data": [
+            "Cam016-Uniform1.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2115",
+        "input_data": [
+            "Cam016-Uniform2.mp4",
+            "uniform(front-shot).jpg",
+            "uniform(back-shot).jpg",
+            "uniform(side-shot).jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper uniform when entrying or exiting. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If there are no entries or exits, please indicate that. If improper uniform is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2116",
+        "input_data": [
+            "Cam103-Apron0-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2117",
+        "input_data": [
+            "Cam103-Apron1-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2118",
+        "input_data": [
+            "Cam103-Apron2-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2119",
+        "input_data": [
+            "Cam103-Apron3-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2120",
+        "input_data": [
+            "Cam103-Apron4-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2121",
+        "input_data": [
+            "Cam103-Apron5-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2122",
+        "input_data": [
+            "Cam103-Apron6-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2123",
+        "input_data": [
+            "Cam103-Apron7-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2124",
+        "input_data": [
+            "Cam103-Apron8-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    },
+    {
+        "id": "2.1.2125",
+        "input_data": [
+            "Cam103-Apron9-1cam.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this video, there is a door that employees use to enter and exit. Please detect each instance of a person entering or exiting the door. Assign a numerical ID, starting from 1, to each entry and each exit, and check whether they are wearing a proper apron when entrying or exiting. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If there are no entries or exits, please indicate that. If improper apron is detected, identify it as an incident with Entry/Exit ID."
+            }
+        ],
+        "output_format": "text"
+    }
+]

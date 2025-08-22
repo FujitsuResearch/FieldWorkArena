@@ -73,7 +73,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many incidents were there regarding \"worker's location within the defined area\"? The defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each images. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "How many incidents were there regarding \"worker's location within the defined area\"? The defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each images."
             }
         ],
         "output_format": "text"
@@ -87,7 +87,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many incidents were there regarding \"worker's staying time within the defined area less than 1 second\"? The defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each videos. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "How many incidents were there regarding \"worker's staying time within the defined area less than 1 second\"? The defined area is a rectangle defined by the coordinates (482,280), (592,280), (482,600), and (592,600) in each videos."
             }
         ],
         "output_format": "text"
@@ -104,7 +104,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many incidents were there regarding \"worker's facing within the defined area\"? The defined area is a rectangle defined by the coordinates (178,162), (304,162), (178,462), and (304,462) in each images. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "How many incidents were there regarding \"worker's facing within the defined area\"? The defined area is a rectangle defined by the coordinates (178,162), (304,162), (178,462), and (304,462) in each images."
             }
         ],
         "output_format": "text"
@@ -121,7 +121,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "How many incidents were there regarding \"worker's facing time within the defined area less than 5 seconds\"? The defined area is a rectangle defined by the coordinates (553,69), (647,69), (553,291), and (647,291) in each videos. These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "How many incidents were there regarding \"worker's facing time within the defined area less than 5 seconds\"? The defined area is a rectangle defined by the coordinates (553,69), (647,69), (553,291), and (647,291) in each videos."
             }
         ],
         "output_format": "text"
