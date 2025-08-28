@@ -605,7 +605,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -618,7 +618,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -631,7 +631,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -644,7 +644,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -657,7 +657,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -670,7 +670,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -683,18 +683,20 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
     },
     {
         "id": "2.1.0058",
-        "input_data": [],
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_05.jpg"
+        ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (980, 300), (1030, 300), (980, 500), and (1030, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -707,7 +709,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (950, 35), (1000, 35), (950, 250), and (1000, 250)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -720,7 +722,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, is any worker within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, is any worker within the designated area enclosed by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -733,7 +735,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -746,7 +748,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the enclosed area enclosed by the coordinates (330, 240), (330, 800), (960, 800), and (960, 240)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -759,7 +761,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -772,7 +774,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -785,7 +787,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (890, 205), (890, 405), (1090, 205), and (1090, 405)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -798,7 +800,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (550, 150), (600, 150), (550, 200), and (600, 200)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -811,18 +813,20 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
     },
     {
         "id": "2.1.0068",
-        "input_data": [],
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_05.jpg"
+        ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (980, 300), (1030, 300), (980, 500), and (1030, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -835,7 +839,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (950, 35), (1000, 35), (950, 85), and (1000, 85)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -848,7 +852,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, how many workers are within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, how many workers are within the designated area enclosed by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -861,7 +865,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area enclosed by the coordinates (240, 8), (260,100),(1515,1011),(1843,486),(1909,84),and (1703, 8)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -874,18 +878,20 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area enclosed by the coordinates (1550, 630), (1750, 630), (1550, 830), and (1750, 830)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
     },
     {
         "id": "2.1.0073",
-        "input_data": [],
+        "input_data": [
+            "WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_05.jpg"
+        ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (980, 405), (1030, 405), (980, 455), and (1030, 455))? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area enclosed by the coordinates (980, 300), (1030, 300), (980, 500), and (1030, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -898,7 +904,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area enclosed by the coordinates (523, 306), (723, 306), (523, 506), and (723, 506)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -911,7 +917,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this image, are there 2 or fewer workers within the designated area defined by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this image, are there 2 or fewer workers within the designated area enclosed by the coordinates (1330, 680), (1330, 730), (1380, 680), and (1380, 730)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -924,7 +930,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area enclosed by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -937,7 +943,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 350), and (1250, 350)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area enclosed by coordinates (1000, 350), (1000, 600), (1250, 350), and (1250, 600)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -950,7 +956,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the cumulative count of workers appearing within the designated area enclosed by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -963,7 +969,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (900, 300), (1100, 300), (900, 500), and (1100, 500) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, is the cumulative count of workers appearing within the designated area enclosed by coordinates (900, 300), (1100, 300), (900, 500), and (1100, 500) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -976,7 +982,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, is the cumulative count of workers appearing within the designated area enclosed by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -989,7 +995,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, is the cumulative count of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, is the cumulative count of workers appearing within the designated area enclosed by coordinates (480, 360), (680, 360), (480, 560), and (680, 560) less than or equal to 2? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -1002,7 +1008,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area enclosed by coordinates  (900, 300), (1100, 300), (900, 500), and (1100, 500)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -1015,7 +1021,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area enclosed by coordinates (1000, 350), (1000, 600), (1250, 600), and (1250, 350)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
@@ -1028,7 +1034,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area defined by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image. The coordinates represent the top-left, top-right, bottom-left, and bottom-right positions, respectively."
+                "value": "In this video, what is the total accumulated work time of workers appearing within the designated area enclosed by coordinates (480, 360), (680, 360), (480, 560), and (680, 560)? These coordinates are based on the pixel positions of the entire image, with the origin (0, 0) at the top-left corner of the image."
             }
         ],
         "output_format": "text"
