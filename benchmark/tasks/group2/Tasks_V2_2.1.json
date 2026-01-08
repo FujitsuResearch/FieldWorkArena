@@ -599,7 +599,7 @@
         "id": "2.1.2045",
         "input_data": [
             "Cam104-Basket2-1cam.mp4",
-            "Cam104-Basket2-2cam.mp5"
+            "Cam104-Basket2-2cam.mp4"
         ],
         "conversations": [
             {
@@ -613,7 +613,7 @@
         "id": "2.1.2046",
         "input_data": [
             "Cam104-Basket2-1cam.mp4",
-            "Cam104-Basket2-2cam.mp5"
+            "Cam104-Basket2-2cam.mp4"
         ],
         "conversations": [
             {
@@ -627,7 +627,7 @@
         "id": "2.1.2047",
         "input_data": [
             "Cam104-Basket3-1cam.mp4",
-            "Cam104-Basket3-2cam.mp5"
+            "Cam104-Basket3-2cam.mp4"
         ],
         "conversations": [
             {
@@ -641,7 +641,7 @@
         "id": "2.1.2048",
         "input_data": [
             "Cam104-Basket3-1cam.mp4",
-            "Cam104-Basket3-2cam.mp5"
+            "Cam104-Basket3-2cam.mp4"
         ],
         "conversations": [
             {
@@ -655,7 +655,7 @@
         "id": "2.1.2049",
         "input_data": [
             "Cam104-Basket4-1cam.mp4",
-            "Cam104-Basket4-2cam.mp5"
+            "Cam104-Basket4-2cam.mp4"
         ],
         "conversations": [
             {
@@ -669,7 +669,7 @@
         "id": "2.1.2050",
         "input_data": [
             "Cam104-Basket4-1cam.mp4",
-            "Cam104-Basket4-2cam.mp5"
+            "Cam104-Basket4-2cam.mp4"
         ],
         "conversations": [
             {
@@ -683,7 +683,7 @@
         "id": "2.1.2051",
         "input_data": [
             "Cam104-Basket5-1cam.mp4",
-            "Cam104-Basket5-2cam.mp5"
+            "Cam104-Basket5-2cam.mp4"
         ],
         "conversations": [
             {
@@ -697,7 +697,7 @@
         "id": "2.1.2052",
         "input_data": [
             "Cam104-Basket5-1cam.mp4",
-            "Cam104-Basket5-2cam.mp5"
+            "Cam104-Basket5-2cam.mp4"
         ],
         "conversations": [
             {
@@ -767,7 +767,7 @@
         "id": "2.1.2057",
         "input_data": [
             "Cam104-Cart2-1cam.mp4",
-            "Cam104-Cart2-2cam.mp5"
+            "Cam104-Cart2-2cam.mp4"
         ],
         "conversations": [
             {
@@ -781,7 +781,7 @@
         "id": "2.1.2058",
         "input_data": [
             "Cam104-Cart2-1cam.mp4",
-            "Cam104-Cart2-2cam.mp5"
+            "Cam104-Cart2-2cam.mp4"
         ],
         "conversations": [
             {
@@ -795,7 +795,7 @@
         "id": "2.1.2059",
         "input_data": [
             "Cam104-Cart3-1cam.mp4",
-            "Cam104-Cart3-2cam.mp5"
+            "Cam104-Cart3-2cam.mp4"
         ],
         "conversations": [
             {
@@ -809,7 +809,7 @@
         "id": "2.1.2060",
         "input_data": [
             "Cam104-Cart3-1cam.mp4",
-            "Cam104-Cart3-2cam.mp5"
+            "Cam104-Cart3-2cam.mp4"
         ],
         "conversations": [
             {
@@ -823,7 +823,7 @@
         "id": "2.1.2061",
         "input_data": [
             "Cam104-Cart4-1cam.mp4",
-            "Cam104-Cart4-2cam.mp5"
+            "Cam104-Cart4-2cam.mp4"
         ],
         "conversations": [
             {
@@ -837,7 +837,7 @@
         "id": "2.1.2062",
         "input_data": [
             "Cam104-Cart4-1cam.mp4",
-            "Cam104-Cart4-2cam.mp5"
+            "Cam104-Cart4-2cam.mp4"
         ],
         "conversations": [
             {
@@ -851,7 +851,7 @@
         "id": "2.1.2063",
         "input_data": [
             "Cam104-Cart5-1cam.mp4",
-            "Cam104-Cart5-2cam.mp5"
+            "Cam104-Cart5-2cam.mp4"
         ],
         "conversations": [
             {
@@ -865,7 +865,7 @@
         "id": "2.1.2064",
         "input_data": [
             "Cam104-Cart5-1cam.mp4",
-            "Cam104-Cart5-2cam.mp5"
+            "Cam104-Cart5-2cam.mp4"
         ],
         "conversations": [
             {
@@ -1367,7 +1367,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1383,7 +1383,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1399,7 +1399,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1415,7 +1415,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1431,7 +1431,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1447,7 +1447,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1463,7 +1463,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1479,7 +1479,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1495,7 +1495,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1511,7 +1511,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1527,7 +1527,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1543,7 +1543,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1559,7 +1559,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1575,7 +1575,7 @@
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(bask-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an uniform. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper uniform when entrying or exiting, and report with ID. Example of proper uniforms are \"uniform(front-shot).jpg, uniform(back-shot).jpg, uniform(side-shot).jpg\". Please ensure that the zipper on the front of the uniform is closed. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1585,13 +1585,13 @@
         "input_data": [
             "Cam103-Apron0-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1601,13 +1601,13 @@
         "input_data": [
             "Cam103-Apron1-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1617,13 +1617,13 @@
         "input_data": [
             "Cam103-Apron2-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1633,13 +1633,13 @@
         "input_data": [
             "Cam103-Apron3-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1649,13 +1649,13 @@
         "input_data": [
             "Cam103-Apron4-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1665,13 +1665,13 @@
         "input_data": [
             "Cam103-Apron5-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1681,13 +1681,13 @@
         "input_data": [
             "Cam103-Apron6-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1697,13 +1697,13 @@
         "input_data": [
             "Cam103-Apron7-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1713,13 +1713,13 @@
         "input_data": [
             "Cam103-Apron8-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
@@ -1729,13 +1729,13 @@
         "input_data": [
             "Cam103-Apron9-1cam.mp4",
             "apron(front-shot).jpg",
-            "apron(bask-shot).jpg",
+            "apron(back-shot).jpg",
             "apron(side-shot).jpg"
         ],
         "conversations": [
             {
                 "from": "human",
-                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(bask-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
+                "value": "In this video, employees use a door with an apron. Define: Entry: Movement from visible space into the unseen room. Exit: Movement from the unseen room into visible space. Task: Detect each Entry/Exit instance. Assign a unique, sequential numerical ID (e.g., Entry1, Exit2, Entry3), prefixed by action type. Check whether they are wearing a proper apron when entrying or exiting, and report with ID. Example of proper aprons are \"apron(front-shot).jpg, apron(back-shot).jpg, apron(side-shot).jpg\". Please ensure that ensure the apron is properly tied at the back. If no instances, state \"No entries or exits detected.\""
             }
         ],
         "output_format": "text"
