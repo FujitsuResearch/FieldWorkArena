@@ -4,12 +4,20 @@
 
 The introduction of AI agents is being considered to address the challenges faced by many workplaces, such as the aging of the population, lack of human resources, and delays in decision-making. In order to improve the functionality of AI agents, we have developed and provided a benchmark suite to evaluate AI agents by extending the evaluation method of web operations to field operations.
 
+![](./assets/system_overall.png)
+
 FieldWorkArena is a groundbreaking benchmark suite for evaluating AI agents. By using data and tasks from Fujitsu's actual factories and warehouses, we quantitatively evaluate how effectively AI agents work in the field. This clarifies the challenges of AI adoption and ensures evidence when applied in the field.
 
 See below for more details. \
 https://en-documents.research.global.fujitsu.com/fieldworkarena/
 
 ## Update
+- 2026-04-22: Add script for evaluation:
+  - [Agent script](./demo_fwa_icpr2025): Agent script using ICPR 2026.
+  - [Evaluation script](./tools): Evaluation script
+    - Ground Truth data will be released soon.
+  - [script-gpt-4o.sh](./script-gpt-4o.sh): Evaluation script for GPT-4o
+- 2026-04-01: **[Our Paper](https://arxiv.org/abs/2505.19662) has been accepted to [ICPR 2026](https://icpr2026.org/)!**
 - 2025-06-30: The **Retail** dataset has been released on Hugging Face. If you would like to obtain it, please apply [here](https://en-portal.research.global.fujitsu.com/fieldworkarena/).
 - 2025-06-30: The **Warehouse** dataset has been released on Hugging Face. If you would like to obtain it, please apply [here](https://en-portal.research.global.fujitsu.com/fieldworkarena/).
 - 2025-02-27: The **Factory** dataset has been released on Hugging Face. 
@@ -119,6 +127,28 @@ Each tasks
 .\run_tasks.bat retail
 ```
 
+### Evaluation
+
+```
+python tools/evaluation/run-evaluator.py (result_path) (GT_path) outfile
+
+# (option) classify categories
+python tools/evaluation/calc_category.py (category_file) (score_txt) > output.txt
+
+```
+
+### Benchmark(ICPR2026)
+
+Run the following script, the results will be saved in the `results` directory.
+
+```bash
+
+# for OpenAI API
+bash script-gpt-4o.sh
+
+```
+
+
 ## Test Your Agent 
 ### Edit Agent
 Agent is defined in 'demo/agent.py'.
@@ -128,19 +158,11 @@ For testing your agent, you should mainly modify 'get_action()' method.
 
 **After you added your own agents and scenarios, Plase call `pip install .` .**
 
-### Submit Your Result
-Compress the `results` directory and reply it to the email address with the download URL of the evaluation data .
 
+## Citation
 
-## Inquiries and Support
+Coming soon.
 
-To submit an inquiry, please follow these steps:
-
-1. Visit [our page](https://en-documents.research.global.fujitsu.com/fieldworkarena/)
-2. Click the "Inquiry" button on the bottom.
-3. Fill out the form completely and accurately.
-
-It may take a few business days to reply.
 
 ## Acknowledment
 This implementation was created with reference to the source code for WorkArena, developed by ServiceNow Research.
