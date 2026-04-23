@@ -141,9 +141,29 @@ python tools/evaluation/calc_category.py (category_file) (score_txt) > output.tx
 
 Run the following script, the results will be saved in the `results` directory.
 
-```bash
 
-# for OpenAI API
+```bash
+cp .env.example .env
+
+vim .env
+#
+#  Add OPENAI_API_KEY ...
+#
+```
+
+Evaluate sample agent
+
+```bash
+bash run_tasks_icpr2026.sh <task> <model>
+
+<task> : all / factory / warehouse / retail
+<model> : LLM model (such as gpt-4o )
+```
+
+Evaluation sample agent and score
+
+```bash
+# for using gpt-4o
 bash script-gpt-4o.sh
 
 ```
