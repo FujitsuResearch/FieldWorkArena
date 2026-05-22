@@ -12,10 +12,10 @@ See below for more details. \
 https://en-documents.research.global.fujitsu.com/fieldworkarena/
 
 ## Update
+- 2026-05-22: The **Ground Truth** dataset has been released on Hugging Face.
 - 2026-04-22: Add script for evaluation:
   - [Agent script](./demo_fwa_icpr2025): Agent script using ICPR 2026.
   - [Evaluation script](./tools): Evaluation script
-    - Ground Truth data will be released soon.
   - [script-gpt-4o.sh](./script-gpt-4o.sh): Evaluation script for GPT-4o
 - 2026-04-01: **[Our Paper](https://arxiv.org/abs/2505.19662) has been accepted to [ICPR 2026](https://icpr2026.org/)!**
 - 2025-06-30: The **Retail** dataset has been released on Hugging Face. If you would like to obtain it, please apply [here](https://en-portal.research.global.fujitsu.com/fieldworkarena/).
@@ -126,6 +126,14 @@ Each tasks
 # for retail
 .\run_tasks.bat retail
 ```
+
+### Ground Truth (GT) Dataset
+To evaluate your results, you need to download the Ground Truth (GT) dataset.
+1.Download the GT Dataset:GT_V1.zip
+   You can download the GT dataset from Hugging Face, similar to other datasets.
+2.Unzip and Organize:
+   After downloading, unzip the file. The files should be organized in the following directory structure:
+            FieldWorkArena/tools/evaluation/Sample_Data/GT_V1
 
 ### Evaluation
 
