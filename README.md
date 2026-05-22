@@ -128,12 +128,15 @@ Each tasks
 ```
 
 ### Ground Truth (GT) Dataset
+
 To evaluate your results, you need to download the Ground Truth (GT) dataset.
-1.Download the GT Dataset:GT_V1.zip
-   You can download the GT dataset from Hugging Face, similar to other datasets.
-2.Unzip and Organize:
-   After downloading, unzip the file. The files should be organized in the following directory structure:
-            FieldWorkArena/tools/evaluation/Sample_Data/GT_V1
+
+1.  **Download the GT Dataset:**
+    Download the `GT_V1.zip` file. You can obtain the GT dataset from Hugging Face, similar to other datasets.
+
+2.  **Unzip and Organize:**
+    After downloading, unzip the file. The files should be organized in the following directory structure:
+FieldWorkArena/tools/evaluation/Sample_Data/GT_V1
 
 ### Evaluation
 
