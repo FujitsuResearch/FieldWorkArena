@@ -193,6 +193,7 @@ For testing your agent, you should mainly modify 'get_action()' method.
 ## Citation
 
 **Cite this paper**
+
 Takahashi, J. et al. (2027). FieldWorkArena: Agentic AI Benchmark for Real Field Work Tasks. In: De Marsico, M., et al. Pattern Recognition. ICPR 2026. Lecture Notes in Computer Science, vol 16815. Springer, Cham. https://doi.org/10.1007/978-3-032-31663-9_7
 
 
